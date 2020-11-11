@@ -1,0 +1,68 @@
+// Beast's Castle Lantern
+patch=1,EE,E0020C05,extended,0032BAE0
+patch=1,EE,E0010002,extended,0032BAE8
+patch=1,EE,11D48FA6,extended,00004208
+
+// Phil's Training
+// Urn Practice (Story)
+patch=1,EE,E0030006,extended,0032BAE0
+patch=1,EE,E002008C,extended,0032BAE4
+patch=1,EE,E0010000,extended,01D48EFC
+patch=1,EE,21D48EFC,extended,00000013
+// Urn Maniac (Story)
+patch=1,EE,E0030006,extended,0032BAE0
+patch=1,EE,E002008D,extended,0032BAE4
+patch=1,EE,E0010000,extended,01D48EFC
+patch=1,EE,21D48EFC,extended,00000063
+
+// Christmas Town Gift Wrapping (Story)
+patch=1,EE,E0030A0E,extended,0032BAE0
+patch=1,EE,E002003F,extended,0032BAE4
+patch=1,EE,E0010000,extended,01D48EFC
+patch=1,EE,21D48EFC,extended,00000063
+
+// 100 Acre Wood Minigames
+// A Blustery Rescue (Story)
+patch=1,EE,E0020609,extended,0032BAE0
+patch=1,EE,E0010037,extended,0032BAE4
+patch=1,EE,20349DE8,extended,00000000
+// Hunny Slider (Story)
+patch=1,EE,E0020709,extended,0032BAE0
+patch=1,EE,E0010039,extended,0032BAE4
+patch=1,EE,21D48EFC,extended,0000000A
+// Balloon Bounce (Story)
+patch=1,EE,E0040809,extended,0032BAE0
+patch=1,EE,E003003B,extended,0032BAE4
+patch=1,EE,E0020000,extended,01D48EFC
+patch=1,EE,20349DE8,extended,00000000
+patch=1,EE,21D48EFC,extended,00000009
+// The Expotition (Story)
+patch=1,EE,E0020909,extended,0032BAE0
+patch=1,EE,E001003D,extended,0032BAE4
+patch=1,EE,20349DE8,extended,00000000
+
+// Atlantica Songs
+// Tutorial
+patch=1,EE,E002020B,extended,0032BAE0
+patch=1,EE,E001003F,extended,0032BAE4
+patch=1,EE,2035DAC4,extended,00000001
+// Swim This Way (Story)
+patch=1,EE,E002040B,extended,0032BAE0
+patch=1,EE,E0010040,extended,0032BAE4
+patch=1,EE,2035DAD4,extended,00000000
+// Part of Your World (Story)
+patch=1,EE,E002010B,extended,0032BAE0
+patch=1,EE,E0010033,extended,0032BAE4
+patch=1,EE,2035DAC8,extended,00000005
+// Under the Sea (Story)
+patch=1,EE,E002030B,extended,0032BAE0
+patch=1,EE,E0010035,extended,0032BAE4
+patch=1,EE,2035DAC4,extended,00002710
+// Ursula's Revenge (Story)
+patch=1,EE,E002090B,extended,0032BAE0
+patch=1,EE,E0010041,extended,0032BAE4
+patch=1,EE,2035DAC4,extended,00002710
+// A New Day is Dawning (Story)
+patch=1,EE,E002040B,extended,0032BAE0
+patch=1,EE,E0010037,extended,0032BAE4
+patch=1,EE,2035DAC4,extended,00007530
