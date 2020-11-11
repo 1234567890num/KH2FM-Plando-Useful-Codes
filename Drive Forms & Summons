@@ -1,0 +1,113 @@
+//Use All Acquired Drive Forms Even Without Party Members
+patch=1,EE,201C9A80,extended,0000102D
+
+//Allow Party to Stay When Driving
+patch=1,EE,201C99A0,extended,0000102D
+
+//Allow Summoning Alone
+patch=1,EE,201C9B5C,extended,0000102D
+
+//No Anti-Form and no forcing of Final Form
+patch=1,EE,201D6388,extended,0000102D
+
+
+//Rewards
+
+//Summons (Not shown but still granted)
+patch=1,EE,11D1A1F6,extended,0000XXXX// Summon LV2
+patch=1,EE,11D1A1FE,extended,0000XXXX// Summon LV3
+patch=1,EE,11D1A206,extended,0000XXXX// Summon LV4
+patch=1,EE,11D1A20E,extended,0000XXXX// Summon LV5
+patch=1,EE,11D1A216,extended,0000XXXX// Summon LV6
+patch=1,EE,11D1A21E,extended,0000XXXX// Summon LV7
+
+//Valor Form
+patch=1,EE,11D1A22E,extended,0000XXXX// Valor LV2
+patch=1,EE,11D1A236,extended,0000XXXX// Valor LV3
+patch=1,EE,11D1A23E,extended,0000XXXX// Valor LV4
+patch=1,EE,11D1A246,extended,0000XXXX// Valor LV5
+patch=1,EE,11D1A24E,extended,0000XXXX// Valor LV6
+patch=1,EE,11D1A256,extended,0000XXXX// Valor LV7
+
+//Wisdom Form
+patch=1,EE,11D1A266,extended,0000XXXX// Wisdom LV2
+patch=1,EE,11D1A26E,extended,0000XXXX// Wisdom LV3
+patch=1,EE,11D1A276,extended,0000XXXX// Wisdom LV4
+patch=1,EE,11D1A27E,extended,0000XXXX// Wisdom LV5
+patch=1,EE,11D1A286,extended,0000XXXX// Wisdom LV6
+patch=1,EE,11D1A28E,extended,0000XXXX// Wisdom LV7
+
+//Limit Form
+patch=1,EE,11D1A29E,extended,0000XXXX// Limit LV2
+patch=1,EE,11D1A2A6,extended,0000XXXX// Limit LV3
+patch=1,EE,11D1A2AE,extended,0000XXXX// Limit LV4
+patch=1,EE,11D1A2B6,extended,0000XXXX// Limit LV5
+patch=1,EE,11D1A2BE,extended,0000XXXX// Limit LV6
+patch=1,EE,11D1A2C6,extended,0000XXXX// Limit LV7
+
+//Master Form
+patch=1,EE,11D1A2D6,extended,0000XXXX// Master LV2
+patch=1,EE,11D1A2DE,extended,0000XXXX// Master LV3
+patch=1,EE,11D1A2E6,extended,0000XXXX// Master LV4
+patch=1,EE,11D1A2EE,extended,0000XXXX// Master LV5
+patch=1,EE,11D1A2F6,extended,0000XXXX// Master LV6
+patch=1,EE,11D1A2FE,extended,0000XXXX// Master LV7
+
+//Final Form
+patch=1,EE,11D1A30E,extended,0000XXXX// Final LV2
+patch=1,EE,11D1A316,extended,0000XXXX// Final LV3
+patch=1,EE,11D1A31E,extended,0000XXXX// Final LV4
+patch=1,EE,11D1A326,extended,0000XXXX// Final LV5
+patch=1,EE,11D1A32E,extended,0000XXXX// Final LV6
+patch=1,EE,11D1A336,extended,0000XXXX// Final LV7
+
+
+//EXP To Next Level (Independent of EXP from previous levels)
+
+//Summons EXP
+patch=1,EE,11D1A1F0,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A1F8,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A200,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A208,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A210,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A218,extended,0000XXXX// Exp to lvl 7
+
+//Valor Form EXP
+patch=1,EE,11D1A228,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A230,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A238,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A240,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A248,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A250,extended,0000XXXX// Exp to lvl 7
+
+//Wisdom Form EXP
+patch=1,EE,11D1A260,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A268,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A270,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A278,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A280,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A288,extended,0000XXXX// Exp to lvl 7
+
+//Limit Form EXP
+patch=1,EE,11D1A298,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A2A0,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A2A8,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A2B0,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A2B8,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A2C0,extended,0000XXXX// Exp to lvl 7
+
+//Master Form EXP
+patch=1,EE,11D1A2D0,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A2D8,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A2E0,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A2E8,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A2F0,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A2F8,extended,0000XXXX// Exp to lvl 7
+
+//Final Form EXP
+patch=1,EE,11D1A308,extended,0000XXXX// Exp to lvl 2
+patch=1,EE,11D1A310,extended,0000XXXX// Exp to lvl 3
+patch=1,EE,11D1A318,extended,0000XXXX// Exp to lvl 4
+patch=1,EE,11D1A320,extended,0000XXXX// Exp to lvl 5
+patch=1,EE,11D1A328,extended,0000XXXX// Exp to lvl 6
+patch=1,EE,11D1A330,extended,0000XXXX// Exp to lvl 7
