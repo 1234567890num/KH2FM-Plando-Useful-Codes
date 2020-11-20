@@ -9,155 +9,73 @@ This means 2 things:
 To get into the technical stuff, Gameshark codes (and thus pnach codes) only address a portion of the game’s memory. If you're looking into memory from Cheat Engine you should be able to limit your search to the 20000000 - 2FFFFFFF range to find whatever you're looking for.
 
 The formatting for codes works as follows:
-
-# Constant Write Commands:
-
-## 8-bit (1 byte) Constant Write:
 ```
-patch=1,EE,0AAAAAAA,extended,000000XX
+---------------------------------------------------------------
+          PCSX2 1.5.0 - Extended PNACH - Cheat Sheet
+---------------------------------------------------------------
+
+0AAAAAAA 000000VV -> Writes value V into address A (8-bit Write)
+
+1AAAAAAA 000000VV -> Writes value V into address A (16-bit Write)
+
+2AAAAAAA 000000VV -> Writes value V into address A (32-bit Write)
+
+300000VV 0AAAAAAA -> Increases the value of address A by the value V (8-bit)
+
+301000VV 0AAAAAAA -> Decreases the value of address A by the value V (8-bit)
+
+3020VVVV 0AAAAAAA -> Increases the value of address A by the value V (16-bit)
+
+3030VVVV 0AAAAAAA -> Decreases the value of address A by the value V (16-bit)
+
+30400000 0AAAAAAA |-> Increases the value of address A by the value V (32-bit)
+VVVVVVVV 00000000 |
+
+30500000 0AAAAAAA |-> Decreases the value of address A by the value V (32-bit)
+VVVVVVVV 00000000 | 
+
+4AAAAAAA TTTTBBBB |-> Writes value V into address A + (B * (4 * T))
+VVVVVVVV 00000000 | in a loop T times.
+
+5FFFFFFF NNNNNNNN |-> Copies the N amount of bytes from address F to address T
+0TTTTTTT 00000000 |
+
+6AAAAAAA VVVVVVVV |-> Writes value V into the pointed address of A + O, X
+000X0000 OOOOOOOO | determines data depth (0 = 8-bit, 1 = 16-bit 2 = 32-bit)
+
+7AAAAAAA 000XVVVV -> Performs a bitwise operation with the value stored at address
+A and value V, and writes it back to address A.
+
+Operations (X): 0 = 8-Bit OR, 1 = 16-Bit OR, 2 = 8-Bit AND, 3 = 16-Bit AND, 4 = 8-Bit XOR
+5 = 16-Bit XOR
+
+8AAAAAAA OOOOOOOO |-> Copies the value at the pointed address of A + O into
+0TTTTTTT 00000000 |  address T
+
+9AAAAAAA 0TTTTTTT -> Copies the value stored at address A to address T
+ 
+ADDDDDDD 00000000 |-> Copies the value stored at address D to the pointed
+0PPPPPPP 0IIIIIII |  address of P + I 
+
+BXXSSSSS 00000000 -> Activates X amount of lines every S milliseconds.
+
+CAAAAAAA 00000000 |-> Compares the value at address A with the value at
+0TTTTTTT YZXXXXXX |  address T. If true, activates X amount of lines.
+
+Value Type (Y): 0 = 32-Bit, 1 = 16-Bit, 2 = 8-Bit
+Operations (Z): 00 = Equal, 10 = Not Equal, 20 = Lesser, 30 = Greater
+
+DAAAAAAA 00XXVVVV -> Checks the value at address A and compares it to value V. If the
+condition is true, it activates 1 line of code.
+
+Operations (X): 00 = Equal, 10 = Not Equal, 20 = Lesser, 30 = Greater
+
+EZNNVVVV XAAAAAAA -> Checks the value at address A and compares it to value V. If the
+condition is true, it activates N amount of lines.
+
+Value Type (Z): 0 = 16-Bit, 1 = 8-Bit
+Operations (X): 0 = Equal , 1 = Not Equal, 2 = Lesser, 3 = Greater
 ```
-
-This command will constantly write the value XX to the address specified by AAAAAAA.
-
-## 16-bit (2 byte) Constant Write:
-```
-patch=1,EE,1AAAAAAA,extended,0000XXXX
-```
-
-This command will constantly write the value XXXX to the address specified by AAAAAAA.
-
-## 32-bit (4 byte) Constant Write:
-```
-patch=1,EE,2AAAAAAA,extended,XXXXXXXX
-```
-
-This command will constantly write the value XXXXXXXX to the address specified by AAAAAAA.
-
-# Single-line Conditional Commands:
-
-## 16-bit (2 byte) Equal:
-```
-patch=1,EE,DAAAAAAA,extended,0000XXXX
-```
-
-This command will run the next one (1) line IF AND ONLY IF the value of the address specified by AAAAAAA is *EQUAL TO* XXXX. Otherwise the next one (1) line is skipped.
-
-## 16-bit (2 byte) Not Equal:
-```
-patch=1,EE,DAAAAAAA,extended,0010XXXX
-```
-
-This command will run the next one (1) line IF AND ONLY IF the value of the address specified by AAAAAAA is *NOT EQUAL TO* XXXX. Otherwise the next one (1) line is skipped.
-
-## 16-bit (2 byte) Less Than:
-```
-patch=1,EE,DAAAAAAA,extended,0020XXXX
-```
-
-This command will run the next one (1) line IF AND ONLY IF the value of the address specified by AAAAAAA is *LESS THAN* XXXX. Otherwise the next one (1) line is skipped.
-
-## 16-bit (2 byte) Greater Than:
-```
-patch=1,EE,DAAAAAAA,extended,0030XXXX
-```
-
-This command will run the next one (1) line IF AND ONLY IF the value of the address specified by AAAAAAA is *GREATER THAN* XXXX. Otherwise the next one (1) line is skipped.
-
-# Multi-line Conditional Commands:
-
-## 16-bit (2 byte) Equal:
-```
-patch=1,EE,ENNNXXXX,extended,0AAAAAAA
-```
-
-This command will run the next NNN line(s) IF AND ONLY IF the value of the address specified by AAAAAAA is *EQUAL TO* XXXX. Otherwise the next NNN line(s) are skipped.
-
-## 16-bit (2 byte) Not Equal:
-```
-patch=1,EE,ENNNXXXX,extended,1AAAAAAA
-```
-
-This command will run the next NNN line(s) IF AND ONLY IF the value of the address specified by AAAAAAA is *NOT EQUAL TO* XXXX. Otherwise the next NNN line(s) are skipped.
-
-## 16-bit (2 byte) Less Than:
-```
-patch=1,EE,ENNNXXXX,extended,2AAAAAAA
-```
-
-This command will run the next NNN line(s) IF AND ONLY IF the value of the address specified by AAAAAAA is *LESS THAN* XXXX. Otherwise the next NNN line(s) are skipped.
-
-## 16-bit (2 byte) Greater Than:
-```
-patch=1,EE,ENNNXXXX,extended,3AAAAAAA
-```
-
-This command will run the next NNN line(s) IF AND ONLY IF the value of the address specified by AAAAAAA is *GREATER THAN* XXXX. Otherwise the next NNN line(s) are skipped.
-
-# Additions and Subtractions:
-
-## 8-bit (1 byte) Increment:
-```
-patch=1,EE,301000XX,extended,0AAAAAAA
-```
-
-This command will add XX to the value of the address specified by AAAAAAA.
-
-## 8-bit (1 byte) Decrement:
-```
-patch=1,EE,302000XX,extended,0AAAAAAA
-```
-
-This command will subtract XX from the value of the address specified by AAAAAAA.
-
-## 16-bit (2 byte) Increment:
-```
-patch=1,EE,3030XXXX,extended,0AAAAAAA
-```
-
-This command will add XXXX to the value of the address specified by AAAAAAA.
-
-## 16-bit (2 byte) Decrement:
-```
-patch=1,EE,3040XXXX,extended,0AAAAAAA
-```
-
-This command will subtract XXXX from the value of the address specified by AAAAAAA.
-
-## 32-bit (4 byte) Increment:
-```
-patch=1,EE,30500000,extended,0AAAAAAA
-patch=1,EE,XXXXXXXX,extended,00000000
-```
-
-This command will add XXXXXXXX to the value of the address specified by AAAAAAA.
-
-## 32-bit (4 byte) Decrement:
-```
-patch=1,EE,30600000,extended,0AAAAAAA
-patch=1,EE,XXXXXXXX,extended,00000000
-```
-
-This command will subtract XXXXXXXX from the value of the address specified by AAAAAAA.
-
-# Miscellaneous:
-
-## Copy-Bytes:
-```
-patch=1,EE,5AAAAAAA,extended,000000NN
-patch=1,EE,0BBBBBBB,extended,00000000
-```
-
-This command copies NN bytes from the address specified by AAAAAAA to the address specified by BBBBBBB.
-
-## 32-bit (4 byte) Multi-Address Write:
-```
-patch=1,EE,4AAAAAAA,extended,XXXXYYYY
-patch=1,EE,DDDDDDDD,extended,00000000
-```
-
-Also referred to as a "patch code"
-
-This command writes the value DDDDDDDD to XXXX addresses starting with the address specified by AAAAAAA and determining the next address by incrementing AAAAAAA by (YYYY * 4)
 
 # Example Code:
 As an example, this block of code:
