@@ -1,3 +1,6 @@
+# General Drive Codes
+
+```
 //Use All Acquired Drive Forms Even Without Party Members
 patch=1,EE,201C9A80,extended,0000102D
 
@@ -9,10 +12,11 @@ patch=1,EE,201C9B5C,extended,0000102D
 
 //No Anti-Form and no forcing of Final Form
 patch=1,EE,201D6388,extended,0000102D
+```
 
+# Drive Rewards
 
-//Rewards
-
+```
 //Summons (Not shown but still granted)
 patch=1,EE,11D1A1EE,extended,0000XXXX// Summon LV2
 patch=1,EE,11D1A1F6,extended,0000XXXX// Summon LV3
@@ -60,10 +64,13 @@ patch=1,EE,11D1A31E,extended,0000XXXX// Final LV4
 patch=1,EE,11D1A326,extended,0000XXXX// Final LV5
 patch=1,EE,11D1A32E,extended,0000XXXX// Final LV6
 patch=1,EE,11D1A336,extended,0000XXXX// Final LV7
+```
 
+# EXP To Next Level
 
-//EXP To Next Level (Independent of EXP from previous levels)
+Independent of EXP from previous levels.
 
+```
 //Summons EXP
 patch=1,EE,11D1A1F0,extended,0000XXXX// Exp to lvl 2
 patch=1,EE,11D1A1F8,extended,0000XXXX// Exp to lvl 3
@@ -112,10 +119,37 @@ patch=1,EE,11D1A320,extended,0000XXXX// Exp to lvl 5
 patch=1,EE,11D1A328,extended,0000XXXX// Exp to lvl 6
 patch=1,EE,11D1A330,extended,0000XXXX// Exp to lvl 7
 
+// Current Drive Levels
+patch=1,EE,0032EE26,extended,000000VV // Valor
+patch=1,EE,0032EE5E,extended,000000WW // Wisdom
+patch=1,EE,0032EE96,extended,000000LL // Limit
+patch=1,EE,0032EEBE,extended,000000MM // Master
+patch=1,EE,0032EF06,extended,000000FF // Final
+patch=1,EE,0032F056,extended,000000SS // Summon
+// Duration in gauges is level + 3.
+// Level can go up to 255.
+// However, putting it above 7 will cause graphical glitches similar to what I described above.
+// Putting it above 252 will cause the bar to stop decreasing for 255 gauges, but functionally it still works fine.
+
+// Current Level's EXP
+patch=1,EE,0032EE28,extended,0000VVVV // Valor
+patch=1,EE,0032EE60,extended,0000WWWW // Wisdom
+patch=1,EE,0032EE98,extended,0000LLLL // Limit
+patch=1,EE,0032EEC0,extended,0000MMMM // Master
+patch=1,EE,0032EF08,extended,0000FFFF // Final
+patch=1,EE,0032F214,extended,0000SSSS // Summon
+// Can carry over to the next level if you put too many.
+// However, it won't go past whatever the normal level caps are at that moment.
+// If the level were already above the cap, the EXP will be turned to 0 by the game.
+```
+
+# General Drive Gauge Codes
+
+```
 // Drive Bar Percentage Filled
 patch=1,EE,01C6C900,extended,000000AA // Values more than 100 will carry over to the next gauge(s).
 
-// Drive Gauge
+// Current Drive Gauge
 patch=1,EE,01C6C901,extended,000000BB // You can enter more than your current max and it'll work just fine.
 // Values 0-9 are shown as intended.
 // Values 10-19 (A-13 in hex) only have their ones digit shown and in a different color.
@@ -153,31 +187,11 @@ patch=1,EE,0032F057,extended,000000JJ // Takes effect in room transitions.
 
 // Maximum Form/Summon Gauge
 patch=1,EE,0032F05B,extended,000000KK // Purely cosmetic. Independent of Form/Summon Duration
+```
 
-// Current Drive Levels
-patch=1,EE,0032EE26,extended,000000VV // Valor
-patch=1,EE,0032EE5E,extended,000000WW // Wisdom
-patch=1,EE,0032EE96,extended,000000LL // Limit
-patch=1,EE,0032EEBE,extended,000000MM // Master
-patch=1,EE,0032EF06,extended,000000FF // Final
-patch=1,EE,0032EF3E,extended,000000AA // Anti (?)
-patch=1,EE,0032F056,extended,000000SS // Summon
-// Duration in gauges is level + 3.
-// Level can go up to 255.
-// However, putting it above 7 will cause graphical glitches similar to what I described above.
-// Putting it above 252 will cause the bar to stop decreasing for 255 gauges, but functionally it still works fine.
+# Anti Form Codes
 
-// Current Level's EXP
-patch=1,EE,0032EE28,extended,000000VV // Valor
-patch=1,EE,0032EE60,extended,000000WW // Wisdom
-patch=1,EE,0032EE98,extended,000000LL // Limit
-patch=1,EE,0032EEC0,extended,000000MM // Master
-patch=1,EE,0032EF08,extended,000000FF // Final
-patch=1,EE,0032F214,extended,000000SS // Summon
-// Can carry over to the next level if you put too many.
-// However, it won't go past whatever the normal level caps are at that moment.
-// If the level were already above the cap, the EXP will be turned to 0 by the game.
-
+```
 // Current Anti Points
 patch=1,EE,2032EF40,extended,AAAAAAAA
 
@@ -189,3 +203,4 @@ patch=1,EE,21D1A348,extended,EEEEEEEE // Rank 2 Points Threshold
 patch=1,EE,01D1A34D,extended,000000FF // Rank 3 Anti Form Chance (%)
 // Default thresholds are 5 for rank 2 and 10 for rank 1
 // Default chances are 0% for rank 3, 10% for rank 2, 25% for rank 1
+```
