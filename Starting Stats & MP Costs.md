@@ -1,71 +1,58 @@
+# Sora's Starting Stats
+
 ```
 //Starting Max HP. Max Value is 255 without breaking it.
-patch=1,EE,E0052002,extended,0032BAE0
-patch=1,EE,E0040001,extended,0032BAE4
-patch=1,EE,E0030001,extended,0032BAE6
+patch=1,EE,E0032002,extended,0032BAE0
 patch=1,EE,E0020001,extended,0032BAE8
 patch=1,EE,01C6C750,extended,000000XX// Current HP
 patch=1,EE,01C6C754,extended,000000XX// Max HP
 
 //Starting Max MP. Max Value is 255 without breaking it.
-patch=1,EE,E0052002,extended,0032BAE0
-patch=1,EE,E0040001,extended,0032BAE4
-patch=1,EE,E0030001,extended,0032BAE6
+patch=1,EE,E0032002,extended,0032BAE0
 patch=1,EE,E0020001,extended,0032BAE8
 patch=1,EE,01C6C8D0,extended,000000XX// Current MP
 patch=1,EE,01C6C8D4,extended,000000XX// Max MP
 
 //Starting Drive Gauges. Place This in the GOA Pnach if you aren't merging.
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,11C6C901,extended,00000X0X// 101 is 1 Drive, 505 is 5, etc.
+//See 'Drive Forms & Summons.md' for details.
 
 //Starting AP. Going above 255 (FF) causes bugs. Default value is 50 for Crit, 2 for other difficulties
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,0032E028,extended,000000XX// Base AP
 
 //Starting Munny
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,2032DF70,extended,XXXXXXXX// Starting Munny
 
 //------Starting Gear------
 //Starting Keyblade
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,1032E020,extended,0000XXXX
 
 //Starting Armor
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,1032E034,extended,0000XXXX
 
 //Starting Accessory
-patch=1,EE,E0042002,extended,0032BAE0
-patch=1,EE,E0030001,extended,0032BAE4
-patch=1,EE,E0020001,extended,0032BAE6
+patch=1,EE,E0022002,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,1032E044,extended,0000XXXX
 ```
 
-MP Costs:
-Setting MP Costs without any conditionals will crash the game when starting. To make it last the entire game, we can make said conditional the beginning of the game.
+# MP Costs
+
+Setting MP Costs without any conditionals will crash the game when starting. They are never overwritten by the game other than during the bootup. To make it last the entire game, we can make said conditional the beginning of the game.
+
 ```
 //Conditional
-patch=1,EE,E0272002,extended,0032BAE0
-patch=1,EE,E0260001,extended,0032BAE4
-patch=1,EE,E0250001,extended,0032BAE6
+patch=1,EE,E0252002,extended,0032BAE0
 patch=1,EE,E0240001,extended,0032BAE8
 //Spells
 patch=1,EE,01CCBCE0,extended,000000XX// Fire// 0C
@@ -108,13 +95,12 @@ patch=1,EE,01CD0B40,extended,000000XX// Trinity Limit// FF
 patch=1,EE,01CD1AD0,extended,000000XX// Session// FF
 ```
 
-Conditionals Explanation:
+# Conditionals Explanation
+
+Since every code in this file uses the same conditionals, it is possible to combine them all together in one section. Don't forget to edit the number of lines affected by the conditionals.
+
 ```
-patch=1,EE,E0050003,extended,0032DFC8// Difficulty Determiner. 0=Beginner, 1=Standard, 2=Proud, 3=Critical. This is optional.
-patch=1,EE,E0042002,extended,0032BAE0// Location at Station of Serenity in Twilight Town
-patch=1,EE,E0030001,extended,0032BAE4// Event at selecting dream weapon
-patch=1,EE,E0020001,extended,0032BAE6//
-patch=1,EE,E0010001,extended,0032BAE8//
+patch=1,EE,E0030003,extended,0032DFC8// Difficulty Determiner. 0=Beginner, 1=Standard, 2=Proud, 3=Critical. This is optional.
+patch=1,EE,E0022002,extended,0032BAE0// Location at Station of Serenity in Twilight Town
+patch=1,EE,E0010001,extended,0032BAE8// Event at selecting dream weapon
 ```
-Since every code in this file uses the same conditionals, it is possible to combine them all together in one section. 
-Don't forget to edit the number of lines affected by the conditionals.
