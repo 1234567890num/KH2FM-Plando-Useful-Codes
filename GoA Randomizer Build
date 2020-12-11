@@ -21,15 +21,18 @@ patch=1,EE,E0020001,extended,0032BAE8
 patch=1,EE,E0010046,extended,0035DE20
 patch=1,EE,1035DE28,extended,00000000
 //Start New Game 3.5
-patch=1,EE,E0082002,extended,0032BAE0
-patch=1,EE,E0070001,extended,0032BAE4
-patch=1,EE,E0060001,extended,0032BAE6
-patch=1,EE,E0050001,extended,0032BAE8
-patch=1,EE,E0040246,extended,0035DE28
+patch=1,EE,E00B2002,extended,0032BAE0
+patch=1,EE,E00A0001,extended,0032BAE4
+patch=1,EE,E0090001,extended,0032BAE6
+patch=1,EE,E0080001,extended,0032BAE8
+patch=1,EE,E0070246,extended,0035DE28
 patch=1,EE,1035DE28,extended,00000000
 patch=1,EE,1032F0DE,extended,00000101
 patch=1,EE,2032F0E3,extended,01010101
 patch=1,EE,2032F0F0,extended,00010001
+patch=1,EE,1032E4CA,extended,000001A1
+patch=1,EE,1032E91A,extended,000001A1
+patch=1,EE,1032EB44,extended,000001A1
 //Start New Game 4
 patch=1,EE,E0422002,extended,0032BAE0
 patch=1,EE,E041009A,extended,0032BAE4
@@ -15036,6 +15039,18 @@ patch=1,EE,E1030001,extended,0032F1A3
 patch=1,EE,30200001,extended,01C6C901
 patch=1,EE,30200001,extended,01C6C902
 patch=1,EE,0032F1A3,extended,00000000
+//Dummy 26 = Gained Armor Slot!
+patch=1,EE,E1020001,extended,0032F1A4
+patch=1,EE,30200001,extended,0032E030
+patch=1,EE,0032F1A4,extended,00000000
+//Dummy 27 = Gained Accessory Slot!
+patch=1,EE,E1020001,extended,0032F1A5
+patch=1,EE,30200001,extended,0032E031
+patch=1,EE,0032F1A5,extended,00000000
+//Dummy 16 = Gained Item Slot!
+patch=1,EE,E1020001,extended,0032F190
+patch=1,EE,30200001,extended,0032E032
+patch=1,EE,0032F190,extended,00000000
 //Lexaeus -> Shan-Yu 1
 patch=1,EE,E004004B,extended,0032BAE8
 patch=1,EE,E0030935,extended,01C4BE70
@@ -15091,3 +15106,15 @@ patch=1,EE,01C6C4E8,extended,00000000
 patch=1,EE,E0021904,extended,1032BAE0
 patch=1,EE,E0010004,extended,0032C1DA
 patch=1,EE,2032C1D8,extended,00000004
+//Unequip Mulan's Auto Limit
+patch=1,EE,E0020708,extended,0032BAE0
+patch=1,EE,E0010064,extended,0035DE28
+patch=1,EE,1032E5E4,extended,000001A1
+//Unequip Tron's Auto Limit
+patch=1,EE,E0020311,extended,0032BAE0
+patch=1,EE,E0010064,extended,0035DE28
+patch=1,EE,1032EC5C,extended,000001A1
+//Remove "Sora learned the "Dash" ability."
+patch=1,EE,E002030A,extended,0032BAE0
+patch=1,EE,E0010064,extended,0035DE28
+patch=1,EE,1035DE20,extended,00000064
