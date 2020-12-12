@@ -189,6 +189,106 @@ patch=1,EE,0032F057,extended,000000JJ // Takes effect in room transitions.
 patch=1,EE,0032F05B,extended,000000KK // Purely cosmetic. Independent of Form/Summon Duration
 ```
 
+# Form Abilities Codes
+
+Skills in brackets are the default abilities. There are no way to change them, so make sure to equip those abilities (see "Party Members' Stats.md" for details). Only those with default abilities are shown, but you can add more.
+
+Maximum of 24 abilities for each drive form (not including Keyblade's ability), but you can't have more than 80 visible after you add the passive abilities from base Sora.
+
+```
+//Valor Form
+patch=1,EE,1032EE2C,extended,0000XXXX //Skill 1 (High Jump)
+patch=1,EE,1032EE2E,extended,0000XXXX //Skill 2 (Brave Shot)
+patch=1,EE,1032EE30,extended,0000XXXX //Skill 3 (Brave Beat)
+patch=1,EE,1032EE32,extended,0000XXXX //Skill 4 (Sonic Strike)
+patch=1,EE,1032EE34,extended,0000XXXX //Skill 5 (Sonic End)
+patch=1,EE,1032EE36,extended,0000XXXX //Skill 6 (Over the Horizon)
+patch=1,EE,1032EE38,extended,0000XXXX //Skill 7 (Omega Finale)
+patch=1,EE,1032EE3A,extended,0000XXXX //Skill 8 (Retaliating Slash)
+patch=1,EE,1032EE3C,extended,0000XXXX //Skill 9 (Synch Blade)
+patch=1,EE,1032EE3E,extended,0000XXXX //Skill 10 (Combo Plus)
+patch=1,EE,1032EE40,extended,0000XXXX //Skill 11 (Air Combo Plus)
+
+//Wisdom Form
+patch=1,EE,1032EE64,extended,0000XXXX //Skill 1 (Quick Run)
+patch=1,EE,1032EE66,extended,0000XXXX //Skill 2 (Wisdom Shot)
+patch=1,EE,1032EE68,extended,0000XXXX //Skill 3 (Mobile Action)
+patch=1,EE,1032EE6A,extended,0000XXXX //Skill 4 (Magic Haste)
+patch=1,EE,1032EE6C,extended,0000XXXX //Skill 5 (Magic Spice)
+patch=1,EE,1032EE6E,extended,0000XXXX //Skill 6 (Retaliating Slash)
+patch=1,EE,1032EE70,extended,0000XXXX //Skill 7 (MP Hastega)
+patch=1,EE,1032EE72,extended,0000XXXX //Skill 8 (MP Hastega)
+
+//Limit Form
+patch=1,EE,1032EE9C,extended,0000XXXX //Skill 1 (Dodge Roll)
+patch=1,EE,1032EE9E,extended,0000XXXX //Skill 2 (Sonic Rave)
+patch=1,EE,1032EEA0,extended,0000XXXX //Skill 3 (Ars Arcanum)
+patch=1,EE,1032EEA2,extended,0000XXXX //Skill 4 (Strike Raid)
+patch=1,EE,1032EEA4,extended,0000XXXX //Skill 5 (Ragnarok)
+patch=1,EE,1032EEA6,extended,0000XXXX //Skill 6 (Zantetsuken)
+patch=1,EE,1032EEA8,extended,0000XXXX //Skill 7 (Ripple Drive)
+patch=1,EE,1032EEAA,extended,0000XXXX //Skill 8 (Hurricane Period)
+patch=1,EE,1032EEAC,extended,0000XXXX //Skill 9 (Zantetsu Counter)
+patch=1,EE,1032EEAE,extended,0000XXXX //Skill 10 (Reflect Combo)
+patch=1,EE,1032EEB0,extended,0000XXXX //Skill 11 (HP Gain)
+patch=1,EE,1032EEB2,extended,0000XXXX //Skill 12 (Guard)
+patch=1,EE,1032EEB4,extended,0000XXXX //Skill 13 (Slapshot)
+patch=1,EE,1032EEB6,extended,0000XXXX //Skill 14 (Slide Dash)
+patch=1,EE,1032EEB8,extended,0000XXXX //Skill 15 (Aerial Sweep)
+patch=1,EE,1032EEBA,extended,0000XXXX //Skill 16 (MP Rage)
+patch=1,EE,1032EEBC,extended,0000XXXX //Skill 17 (Draw)
+patch=1,EE,1032EEBE,extended,0000XXXX //Skill 18 (Dodge Slash)
+patch=1,EE,1032EEC0,extended,0000XXXX //Skill 19 (MP Haste)
+
+//Master Form
+patch=1,EE,1032EED4,extended,0000XXXX //Skill 1 (Aerial Dodge)
+patch=1,EE,1032EED6,extended,0000XXXX //Skill 2 (Master Strike)
+patch=1,EE,1032EED8,extended,0000XXXX //Skill 3 (Disaster)
+patch=1,EE,1032EEDA,extended,0000XXXX //Skill 4 (Master Magic)
+patch=1,EE,1032EEDC,extended,0000XXXX //Skill 5 (Synch Blade)
+patch=1,EE,1032EEDE,extended,0000XXXX //Skill 6 (Endless Magic)
+patch=1,EE,1032EEE0,extended,0000XXXX //Skill 7 (MP Hastera)
+patch=1,EE,1032EEE2,extended,0000XXXX //Skill 8 (Air Combo Plus)
+patch=1,EE,1032EEE4,extended,0000XXXX //Skill 9 (Air Combo Plus)
+patch=1,EE,1032EEE6,extended,0000XXXX //Skill 10 (Draw)
+patch=1,EE,1032EEE8,extended,0000XXXX //Skill 11 (Draw)
+
+//Final Form
+patch=1,EE,1032EF0C,extended,0000XXXX //Skill 1 (Glide)
+patch=1,EE,1032EF0E,extended,0000XXXX //Skill 2 (Auto Assault)
+patch=1,EE,1032EF10,extended,0000XXXX //Skill 3 (Mobile Action)
+patch=1,EE,1032EF12,extended,0000XXXX //Skill 4 (Synch Blade)
+patch=1,EE,1032EF14,extended,0000XXXX //Skill 5 (Final Arcana)
+patch=1,EE,1032EF16,extended,0000XXXX //Skill 6 (Final Strike)
+patch=1,EE,1032EF18,extended,0000XXXX //Skill 7 (Final Arts)
+patch=1,EE,1032EF1A,extended,0000XXXX //Skill 8 (Crime & Punishment)
+patch=1,EE,1032EF1C,extended,0000XXXX //Skill 9 (MP Haste)
+
+//Anti-Form
+patch=1,EE,1032EF44,extended,0000XXXX //Skill 1 (Anti Glide?)
+patch=1,EE,1032EF46,extended,0000XXXX //Skill 2 (Side Spin?)
+patch=1,EE,1032EF48,extended,0000XXXX //Skill 3 (No Experience)
+
+//Lion Sora
+patch=1,EE,1032EF7C,extended,0000XXXX //Skill 1 (Combo Plus)
+patch=1,EE,1032EF7E,extended,0000XXXX //Skill 2 (Combo Plus)
+patch=1,EE,1032EF80,extended,0000XXXX //Skill 3 (Air Combo Plus)
+patch=1,EE,1032EF82,extended,0000XXXX //Skill 4 (Air Combo Plus)
+patch=1,EE,1032EF84,extended,0000XXXX //Skill 5 (Finishing Blast)
+patch=1,EE,1032EF86,extended,0000XXXX //Skill 6 (Combo Upper)
+patch=1,EE,1032EF88,extended,0000XXXX //Skill 7 (Aerial Impulse)
+patch=1,EE,1032EF8C,extended,0000XXXX //Skill 8 (Retaliating Smash)
+
+//Dual Wielding Roxas
+patch=1,EE,1032F024,extended,0000XXXX //Skill 1 (Scan)
+patch=1,EE,1032F026,extended,0000XXXX //Skill 2 (Item Boost)
+patch=1,EE,1032F028,extended,0000XXXX //Skill 3 (Defender)
+patch=1,EE,1032F02A,extended,0000XXXX //Skill 4 (Second Chance)
+patch=1,EE,1032F02C,extended,0000XXXX //Skill 5 (Once More)
+patch=1,EE,1032F02E,extended,0000XXXX //Skill 6 (Damage Control)
+patch=1,EE,1032F030,extended,0000XXXX //Skill 7 (Damage Control)
+```
+
 # Anti Form Codes
 
 ```
