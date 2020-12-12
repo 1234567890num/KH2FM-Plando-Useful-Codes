@@ -87,7 +87,7 @@ Make sure to have a maximum of 80 visible abilities per person (which includes a
 patch=1,EE,1032E074,extended,0000YXXX //Sora
 patch=1,EE,1032E188,extended,0000YXXX //Donald
 patch=1,EE,1032E29C,extended,0000YXXX //Goofy
-patch=1,EE,1032E3B0,extended,0000YXXX //Mickey
+patch=1,EE,1032E3B0,extended,0000YXXX //Mickey (Default Air Combo Plus and Scan)
 patch=1,EE,1032E4C4,extended,0000YXXX //Auron
 patch=1,EE,1032E5D8,extended,0000YXXX //Mulan
 patch=1,EE,1032E6EC,extended,0000YXXX //Aladdin
