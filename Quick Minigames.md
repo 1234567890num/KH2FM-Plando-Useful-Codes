@@ -292,9 +292,10 @@ patch=1,EE,21D48EFC,extended,000003E8
 # Some optional notes
 
 ```
-patch=1,EE,21D48EFC,extended,000003E8 //Current Score
+patch=1,EE,21D48EFC,extended,XXXXXXXX //Current Score
 patch=1,EE,20349DF8,extended,XXXXXXXX //Shown time (rounded up)
 patch=1,EE,21D49080,extended,XXXXXXXX //Max Combo Counter
+patch=1,EE,21d48fa4,extended,XXXXXXXX //Gauge filled (in float). Most are maxed at 100, but some are maxed at lower values
 //On timer: (counting down)
 patch=1,EE,20349DE8,extended,XXXXXXXX //Time elapsed
 patch=1,EE,20349DF4,extended,XXXXXXXX //Base time
