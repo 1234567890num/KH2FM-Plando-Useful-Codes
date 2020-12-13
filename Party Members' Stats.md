@@ -75,9 +75,9 @@ patch=1,EE,2032EC04,extended,AABBCCDD //Tron
 patch=1,EE,2032ED18,extended,AABBCCDD //Riku
 ```
 
-# Slots
+# Slots & Current Level
 
-Make sure to have a total slots of 20 or less. If you trawl through cheat engine, you can see that there's 1 junk byte with each 2-bytes pairs right after showing what are equipped in those slots.
+There's a maximum of 20 graphical slots before causing glitches and 28 graphical slots before crashing. There's also a maximum of 32 memory slots with item taking 2 memory slots (half of it being used for auto-reload). Each memory slots take 2 bytes and are written soon after the addresses for each character below. If you trawl through cheat engine, you can see what are equipped in those slots.
 
 Stats in levels might go down, but the levels themselves won't. So you can jack up the levels without worrying about it reverting. The reverse isn't true, though; it'll go up if you have too much EXP.
 
