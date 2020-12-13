@@ -6,7 +6,7 @@ Each character's level has 16 (0x10) bytes. Bytes 00-03 are the EXP required to 
 
 ```
 //---------- Level Up Stats ----------
-//AA: AP, BB: Def, CC: Mag, DD: Str
+//AA: AP, BB: Defense, CC: Magic, DD: Strength
 patch=1,EE,2XXXXXXX,extended,AABBCCDD
 //AP gives 1.5x rounded down for Critical mode.
 ```
@@ -18,7 +18,7 @@ patch=1,EE,21D0B6BC,extended,08162861
 patch=1,EE,21D0B6CC,extended,01869284
 ```
 
-These codes will give Sora 97 Str, 40 Mag, 22 Def, 8 AP for Level 2 before changing them to 132 Str, 146 Mag, 134 Def, 1 AP for Level 3. The stats CAN decrease, so make sure to fill up every single level's stats.
+These codes will give Sora base 97 Str, 40 Mag, 22 Def, 8 AP for Level 2 before changing them to 132 Str, 146 Mag, 134 Def, 1 AP for Level 3. The stats CAN decrease, so make sure to fill up every single level's stats.
 
 ## Dream Weapon Conditionals
 
@@ -54,6 +54,27 @@ patch=1,EE,21D0FAE4,extended,XXXXXXXX //Tron
 patch=1,EE,21D10118,extended,XXXXXXXX //Riku
 ```
 
+# Boosts
+
+Sora has a default AP Boost of 50 at Critical and 2 at other difficulties. The rest are all automatic.
+
+```
+//AA: Defense, BB: Magic, CC: Power, DD: AP
+patch=1,EE,2032E028,extended,AABBCCDD //Sora
+patch=1,EE,2032E13C,extended,AABBCCDD //Donald
+patch=1,EE,2032E250,extended,AABBCCDD //Goofy
+patch=1,EE,2032E364,extended,AABBCCDD //Mickey
+patch=1,EE,2032E478,extended,AABBCCDD //Auron
+patch=1,EE,2032E58C,extended,AABBCCDD //Mulan
+patch=1,EE,2032E6A0,extended,AABBCCDD //Aladdin
+patch=1,EE,2032E7B4,extended,AABBCCDD //Jack Sparrow
+patch=1,EE,2032E8C8,extended,AABBCCDD //Beast
+patch=1,EE,2032E9DC,extended,AABBCCDD //Jack Skellington
+patch=1,EE,2032EAF0,extended,AABBCCDD //Simba
+patch=1,EE,2032EC04,extended,AABBCCDD //Tron
+patch=1,EE,2032ED18,extended,AABBCCDD //Riku
+```
+
 # Slots
 
 Make sure to have a total slots of 20 or less. If you trawl through cheat engine, you can see that there's 1 junk byte with each 2-bytes pairs right after showing what are equipped in those slots.
@@ -61,7 +82,7 @@ Make sure to have a total slots of 20 or less. If you trawl through cheat engine
 Stats in levels might go down, but the levels themselves won't. So you can jack up the levels without worrying about it reverting. The reverse isn't true, though; it'll go up if you have too much EXP.
 
 ```
-//AA: AP, BB: Def, CC: Mag, DD: Str
+//AA: Item Slot, BB: Accessory Slot, CC: Armor Slot, DD: Level
 patch=1,EE,2032E02F,extended,AABBCCDD //Sora
 patch=1,EE,2032E143,extended,AABBCCDD //Donald
 patch=1,EE,2032E257,extended,AABBCCDD //Goofy
