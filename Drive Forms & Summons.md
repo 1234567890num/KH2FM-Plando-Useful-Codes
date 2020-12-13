@@ -237,7 +237,7 @@ patch=1,EE,1032EEB6,extended,0000XXXX //Skill 14 (Slide Dash)
 patch=1,EE,1032EEB8,extended,0000XXXX //Skill 15 (Aerial Sweep)
 patch=1,EE,1032EEBA,extended,0000XXXX //Skill 16 (MP Rage)
 patch=1,EE,1032EEBC,extended,0000XXXX //Skill 17 (Draw)
-patch=1,EE,1032EEBE,extended,0000XXXX //Skill 18 (Dodge Slash)
+patch=1,EE,1032EEBE,extended,0000XXXX //Skill 18 (Lucky Lucky)
 patch=1,EE,1032EEC0,extended,0000XXXX //Skill 19 (MP Haste)
 
 //Master Form
