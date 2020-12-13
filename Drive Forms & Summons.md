@@ -123,7 +123,7 @@ patch=1,EE,11D1A330,extended,0000XXXX// Exp to lvl 7
 patch=1,EE,0032EE26,extended,000000VV // Valor
 patch=1,EE,0032EE5E,extended,000000WW // Wisdom
 patch=1,EE,0032EE96,extended,000000LL // Limit
-patch=1,EE,0032EEBE,extended,000000MM // Master
+patch=1,EE,0032EECE,extended,000000MM // Master
 patch=1,EE,0032EF06,extended,000000FF // Final
 patch=1,EE,0032F056,extended,000000SS // Summon
 // Duration in gauges is level + 3.
