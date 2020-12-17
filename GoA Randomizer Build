@@ -8424,17 +8424,10 @@ patch=1,EE,E0030007,extended,0032BAE6
 patch=1,EE,E0020000,extended,0032BAE8
 patch=1,EE,2032BAE4,extended,00010001
 patch=1,EE,0032BAE8,extended,00000000
-//Real Twilight Town Computer Room 1
+//Real Twilight Town Computer Room
 patch=1,EE,E0041502,extended,0032BAE0
-patch=1,EE,E0030000,extended,0032BAE4
-patch=1,EE,E0020000,extended,0032BAE6
-patch=1,EE,E0010002,extended,0032BAE8
-patch=1,EE,0032BE48,extended,0000000A
-//Real Twilight Town Computer Room 2
-patch=1,EE,E0051502,extended,0032BAE0
-patch=1,EE,E0040003,extended,0032BAE4
-patch=1,EE,E0030000,extended,0032BAE6
-patch=1,EE,E0020002,extended,0032BAE8
+patch=1,EE,E0030002,extended,0032BAE8
+patch=1,EE,E1020007,extended,0032D81A
 patch=1,EE,0032BE48,extended,0000000A
 patch=1,EE,0032BEBE,extended,00000000
 //Simulated Twilight Town Computer Room
@@ -14424,7 +14417,7 @@ patch=1,EE,1035DE28,extended,00000079
 //Final Xemnas (Data) (Boss Randomizer)
 patch=1,EE,E0041412,extended,0032BAE0
 patch=1,EE,E0030062,extended,0032BAE8
-patch=1,EE,E00209C9,extended,11C55AAC
+patch=1,EE,E00209CA,extended,11C55AAC
 patch=1,EE,E0010096,extended,0035DE28
 patch=1,EE,1035DE28,extended,00000079
 //Xaldin (Data) (Boss Randomizer)
