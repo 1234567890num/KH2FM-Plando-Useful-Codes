@@ -21,8 +21,8 @@ base = [40,100,184,296,
         2667978,2736378,2805578,2875578] #Sora's base EXP requirements
 
 def make(name,start):
-    output.write('//'+name+'\n')
-    output.write('patch=1,EE,E062FFFF,extended,0032BAE0\n')
+    output.write('//'+name+'\n') #Add comment for character's name
+    output.write('patch=1,EE,E062FFFF,extended,0032BAE0\n') #Add conditional for main menu to conserve memory
     print(name)
     
     for a in range(98):
