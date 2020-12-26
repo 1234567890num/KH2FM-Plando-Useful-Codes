@@ -15111,3 +15111,13 @@ patch=1,EE,1032EC5C,extended,000001A1
 patch=1,EE,E002030A,extended,0032BAE0
 patch=1,EE,E0010064,extended,0035DE28
 patch=1,EE,1035DE20,extended,00000064
+//Port Royal (1st Visit) Medallion Fight End Screen
+patch=1,EE,E0030710,extended,0032BAE0
+patch=1,EE,E002000F,extended,0035DE28
+patch=1,EE,E0010004,extended,01D490C0
+patch=1,EE,01D490C0,extended,00000003
+//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End
+patch=1,EE,E0030802,extended,0032BAE0
+patch=1,EE,E002006C,extended,0032BAE8
+patch=1,EE,E0010062,extended,01D48EFC
+patch=1,EE,1035DE28,extended,00000001
