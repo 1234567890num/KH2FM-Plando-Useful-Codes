@@ -5287,9 +5287,10 @@ patch=1,EE,E0021202,extended,0032BB10
 patch=1,EE,E001000E,extended,0032BE48
 patch=1,EE,0032D82E,extended,00000004
 //Twilight Town Post-Story Save 5 - Mansion: Computer Room
-patch=1,EE,E0031A04,extended,0032BAE0
-patch=1,EE,E0021502,extended,0032BB10
-patch=1,EE,E001000E,extended,0032BE48
+patch=1,EE,E0041A04,extended,0032BAE0
+patch=1,EE,E0031502,extended,0032BB10
+patch=1,EE,E002000E,extended,0032BE48
+patch=1,EE,E1010004,extended,2032D81A
 patch=1,EE,0032D82E,extended,00000005
 //Twilight Town Post-Story Save 6 - Tower: Entryway
 patch=1,EE,E0031A04,extended,0032BAE0
@@ -5558,12 +5559,13 @@ patch=1,EE,2032DB70,extended,00000000
 patch=1,EE,0032C15E,extended,00000007
 patch=1,EE,0032C162,extended,00000009
 patch=1,EE,1032FB2D,extended,00000104
-//Data Demyx -> Hollow Bastion (Before Corridors Fight)
-patch=1,EE,E00D0404,extended,0032BAE0
-patch=1,EE,E00C008C,extended,0032BAE4
-patch=1,EE,E00B008C,extended,0032BAE6
-patch=1,EE,E00A008C,extended,0032BAE8
-patch=1,EE,E0090005,extended,0032C1EA
+//Data Demyx -> Hollow Bastion (Before Corridors Fight) (Without Membership Card)
+patch=1,EE,E00E0404,extended,0032BAE0
+patch=1,EE,E00D008C,extended,0032BAE4
+patch=1,EE,E00C008C,extended,0032BAE6
+patch=1,EE,E00B008C,extended,0032BAE8
+patch=1,EE,E00A0005,extended,0032C1EA
+patch=1,EE,E1090000,extended,0032F173
 patch=1,EE,2032BAE0,extended,00630504
 patch=1,EE,2032BAE4,extended,0000000F
 patch=1,EE,0032BAE8,extended,00000014
@@ -5573,6 +5575,31 @@ patch=1,EE,2032DB70,extended,00000000
 patch=1,EE,0032C15E,extended,0000000F
 patch=1,EE,0032C162,extended,00000014
 patch=1,EE,1032FB2D,extended,00000104
+//Data Demyx -> Hollow Bastion (Before Corridors Fight) (With Membership Card)
+patch=1,EE,E00E0404,extended,0032BAE0
+patch=1,EE,E00D008C,extended,0032BAE4
+patch=1,EE,E00C008C,extended,0032BAE6
+patch=1,EE,E00B008C,extended,0032BAE8
+patch=1,EE,E00A0005,extended,0032C1EA
+patch=1,EE,E1090001,extended,0032F173
+patch=1,EE,2032BAE0,extended,00630504
+patch=1,EE,2032BAE4,extended,0000000E
+patch=1,EE,0032BAE8,extended,00000014
+patch=1,EE,2032BB3C,extended,00630504
+patch=1,EE,2032DB6C,extended,00000000
+patch=1,EE,2032DB70,extended,00000000
+patch=1,EE,0032C15E,extended,0000000E
+patch=1,EE,0032C162,extended,00000014
+patch=1,EE,1032FB2D,extended,00000104
+//Ansem's Study before Corridors with Membership Card
+patch=1,EE,E0070504,extended,0032BAE0
+patch=1,EE,E006000E,extended,0032BAE4
+patch=1,EE,E0050000,extended,0032BAE6
+patch=1,EE,E0040014,extended,0032BAE8
+patch=1,EE,11C21570,extended,00000000
+patch=1,EE,11C215B0,extended,00000000
+patch=1,EE,11C21398,extended,00000000
+patch=1,EE,11C213D8,extended,00000000
 //Pre-Corridors Fight Cutscene
 patch=1,EE,E0080B04,extended,0032BAE0
 patch=1,EE,E0070000,extended,0032BAE4
@@ -6562,16 +6589,18 @@ patch=1,EE,2032BAE4,extended,00000000
 patch=1,EE,1032BAE8,extended,00000002
 patch=1,EE,30200080,extended,0032D856
 //Data Larxene -> Space Paranoids (1st Visit)
-patch=1,EE,E0092104,extended,0032BAE0
-patch=1,EE,E008008A,extended,0032BAE4
-patch=1,EE,E007008A,extended,0032BAE6
-patch=1,EE,E006008A,extended,0032BAE8
-patch=1,EE,E0050001,extended,0032D4CA
+patch=1,EE,E00B2104,extended,0032BAE0
+patch=1,EE,E00A008A,extended,0032BAE4
+patch=1,EE,E009008A,extended,0032BAE6
+patch=1,EE,E008008A,extended,0032BAE8
+patch=1,EE,E0070001,extended,0032D4CA
 patch=1,EE,1032BAE0,extended,00000111
 patch=1,EE,2032BAE4,extended,00000002
 patch=1,EE,1032BAE8,extended,00000001
 patch=1,EE,0032FB61,extended,00000001
 patch=1,EE,0032C1E8,extended,00000001
+patch=1,EE,01C993F5,extended,00000033
+patch=1,EE,01C99415,extended,00000033
 //Skip Light Cycle
 patch=1,EE,E00A0111,extended,0032BAE0
 patch=1,EE,E0090033,extended,0032BAE8
@@ -8371,9 +8400,10 @@ patch=1,EE,0032FB25,extended,00000006
 patch=1,EE,1032DC44,extended,0000C546
 patch=1,EE,1032DC4C,extended,0000C548
 //Axel II
-patch=1,EE,E0021402,extended,0032BAE0
-patch=1,EE,E0010089,extended,0032BAE8
+patch=1,EE,E0031402,extended,0032BAE0
+patch=1,EE,E0020089,extended,0032BAE8
 patch=1,EE,11C6CC20,extended,00000323
+patch=1,EE,1032F054,extended,00000000
 //After Axel II 1
 patch=1,EE,E0081302,extended,0032BAE0
 patch=1,EE,E0070087,extended,0032BAE8
@@ -14614,9 +14644,6 @@ patch=1,EE,01CB76B5,extended,00000033
 //Big Chests -> Small Chests (Pride Lands)
 patch=1,EE,01CB72D5,extended,00000035
 patch=1,EE,01CB72F5,extended,00000035
-//Big Chests -> Small Chests (Space Paranoids)
-patch=1,EE,01C993F5,extended,00000033
-patch=1,EE,01C99415,extended,00000033
 //Big Chests -> Small Chests (The World That Never Was)
 patch=1,EE,01CA0175,extended,00000033
 patch=1,EE,01CA0195,extended,00000033
@@ -14993,14 +15020,9 @@ patch=1,EE,E0030909,extended,2032F059
 patch=1,EE,E00208FF,extended,3032F059
 patch=1,EE,1032F054,extended,00000000
 patch=1,EE,1032F058,extended,00000964
-//Limit Form Revert from Simulated Twilight Town 1
+//Limit Form Revert from Simulated Twilight Town
 patch=1,EE,E0031A04,extended,0032BAE0
-patch=1,EE,E0021502,extended,0032BB10
-patch=1,EE,E1010003,extended,0032F054
-patch=1,EE,0032F054,extended,00000000
-//Limit Form Revert from Simulated Twilight Town 2
-patch=1,EE,E0031A04,extended,0032BAE0
-patch=1,EE,E0021702,extended,0032BB10
+patch=1,EE,E0021602,extended,0032BB10
 patch=1,EE,E1010003,extended,0032F054
 patch=1,EE,0032F054,extended,00000000
 //Dummy 23 = Maximum HP Increased! (Non-Critical)
@@ -15116,8 +15138,61 @@ patch=1,EE,E0030710,extended,0032BAE0
 patch=1,EE,E002000F,extended,0035DE28
 patch=1,EE,E0010004,extended,01D490C0
 patch=1,EE,01D490C0,extended,00000003
-//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End
+//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End 1
+patch=1,EE,E0060802,extended,0032BAE0
+patch=1,EE,E005006C,extended,0032BAE8
+patch=1,EE,E004005B,extended,31D48EFC
+patch=1,EE,E003014D,extended,1035DE28
+patch=1,EE,E1020001,extended,00351EB8
+patch=1,EE,11D48EFC,extended,00000057
+patch=1,EE,10351EB8,extended,00000000
+//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End 2
 patch=1,EE,E0030802,extended,0032BAE0
 patch=1,EE,E002006C,extended,0032BAE8
 patch=1,EE,E0010062,extended,01D48EFC
 patch=1,EE,1035DE28,extended,00000001
+//Prevent Out of Bounds in Xigbar's Arena
+patch=1,EE,E0020A12,extended,0032BAE0
+patch=1,EE,11C49EB0,extended,00000407
+patch=1,EE,11C49ECC,extended,00000407
+//Heartless Manufactory Early Access (Membership Card) 1
+patch=1,EE,E0040504,extended,0032BAE0
+patch=1,EE,E1030001,extended,0032F173
+patch=1,EE,E1020007,extended,0032D843
+patch=1,EE,0032C15E,extended,0000000E
+patch=1,EE,1032DC04,extended,00000000
+//Heartless Manufactory Early Access (Membership Card) 2
+patch=1,EE,E0040504,extended,0032BAE0
+patch=1,EE,E1030001,extended,0032F173
+patch=1,EE,E1020007,extended,3032D843
+patch=1,EE,0032BAE4,extended,0000000E
+patch=1,EE,1032DC04,extended,00000000
+//Cogsworth Mini-Game 1
+patch=1,EE,E0040C05,extended,0032BAE0
+patch=1,EE,E0030016,extended,0032BAE6
+patch=1,EE,E102003D,extended,01D48FA7
+patch=1,EE,00349E20,extended,00000000
+patch=1,EE,00349E1C,extended,00000000
+//Cogsworth Mini-Game 2
+patch=1,EE,E0040B05,extended,0032BAE0
+patch=1,EE,E0030002,extended,0032BAE2
+patch=1,EE,00349E20,extended,00000001
+patch=1,EE,00349E1C,extended,00000001
+//Cogsworth Mini-Game 3
+patch=1,EE,E0040C05,extended,0032BAE0
+patch=1,EE,E0030016,extended,0032BAE6
+patch=1,EE,E002420C,extended,01D48FA6
+patch=1,EE,00349E20,extended,00000001
+patch=1,EE,00349E1C,extended,00000001
+//Cogsworth Mini-Game 3
+patch=1,EE,E0040C05,extended,0032BAE0
+patch=1,EE,E0030016,extended,0032BAE6
+patch=1,EE,E002420C,extended,01D48FA6
+patch=1,EE,00349E20,extended,00000001
+patch=1,EE,00349E1C,extended,00000001
+//Cogsworth Mini-Game 4
+patch=1,EE,E0040C05,extended,0032BAE0
+patch=1,EE,E0030016,extended,0032BAE6
+patch=1,EE,E1020003,extended,01D490C0
+patch=1,EE,00349E20,extended,00000001
+patch=1,EE,00349E1C,extended,00000001
