@@ -5290,7 +5290,7 @@ patch=1,EE,0032D82E,extended,00000004
 patch=1,EE,E0041A04,extended,0032BAE0
 patch=1,EE,E0031502,extended,0032BB10
 patch=1,EE,E002000E,extended,0032BE48
-patch=1,EE,E1010004,extended,2032D81A
+patch=1,EE,E1010004,extended,3032D81A
 patch=1,EE,0032D82E,extended,00000005
 //Twilight Town Post-Story Save 6 - Tower: Entryway
 patch=1,EE,E0031A04,extended,0032BAE0
