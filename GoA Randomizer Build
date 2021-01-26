@@ -3474,10 +3474,45 @@ patch=1,EE,2032BF14,extended,00000000
 patch=1,EE,2032BF18,extended,00000004
 patch=1,EE,2032BF1C,extended,00040000
 patch=1,EE,0032D815,extended,0000003F
-//Entering Tower: Sorcerer's Loft
+//Entering Tower: Sorcerer's Loft 1
 patch=1,EE,E0021B02,extended,0032BAE0
 patch=1,EE,E0010001,extended,0032BAE8
 patch=1,EE,0032D815,extended,00000000
+//Entering Tower: Sorcerer's Loft 2
+patch=1,EE,E0031B02,extended,0032BAE0
+patch=1,EE,E0020002,extended,0032BAE8
+patch=1,EE,E0012385,extended,1035DE28
+patch=1,EE,0032D815,extended,0000003F
+//Entering Tower: Sorcerer's Loft 3
+patch=1,EE,E0071B02,extended,0032BAE0
+patch=1,EE,E0060002,extended,0032BAE8
+patch=1,EE,E0052385,extended,0035DE28
+patch=1,EE,0032D815,extended,00000001
+patch=1,EE,1032DC28,extended,00000000
+patch=1,EE,0032BEE2,extended,00000002
+patch=1,EE,0032BEE6,extended,00000003
+patch=1,EE,0032BEEC,extended,00000001
+//Entering Tower: Sorcerer's Loft 4
+patch=1,EE,E0021B02,extended,0032BAE0
+patch=1,EE,E0010003,extended,0032BAE8
+patch=1,EE,0032D815,extended,0000003F
+//Entering Tower: Wardrobe 1
+patch=1,EE,E0031C02,extended,0032BAE0
+patch=1,EE,E0020001,extended,0032BAE8
+patch=1,EE,0032D815,extended,00000003
+patch=1,EE,0032BEEC,extended,00000002
+//Entering Tower: Wardrobe 2
+patch=1,EE,E0021C02,extended,0032BAE0
+patch=1,EE,E0010002,extended,0032BAE8
+patch=1,EE,0032D815,extended,0000003F
+//Entering Tower: Wardrobe 3
+patch=1,EE,E0061C02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E00410FF,extended,0035DE28
+patch=1,EE,0032D815,extended,00000007
+patch=1,EE,1032DC24,extended,00000000
+patch=1,EE,0032BEE6,extended,00000004
+patch=1,EE,0032BEEC,extended,00000003
 //End of Twilight Town (1st Visit) -> Garden of Assemblage
 patch=1,EE,E0101C02,extended,0032BAE0
 patch=1,EE,E00F0097,extended,0032BAE8
@@ -14181,6 +14216,9 @@ patch=1,EE,E1030001,extended,0032F1C5
 patch=1,EE,E0020000,extended,0032F0FB
 patch=1,EE,30201388,extended,0032DF70
 patch=1,EE,0032F0FB,extended,00000001
+//Hades Cup Trophy = Unlock All Cups
+patch=1,EE,E1010001,extended,0032F1C6
+patch=1,EE,1032DECC,extended,0000FFFA
 //Unlock All Paradox Cups after Goddess of Fate Cup
 patch=1,EE,E0020D06,extended,0032BAE0
 patch=1,EE,E00100B7,extended,0032BAE8
@@ -15025,6 +15063,126 @@ patch=1,EE,E0031A04,extended,0032BAE0
 patch=1,EE,E0021602,extended,0032BB10
 patch=1,EE,E1010003,extended,0032F054
 patch=1,EE,0032F054,extended,00000000
+//Drive Form Revert from Twilight Town (1st Visit) - Central Station 1
+patch=1,EE,E0060902,extended,0032BAE0
+patch=1,EE,E0050076,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030505,extended,2032F059
+patch=1,EE,E00204FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000564
+//Drive Form Revert from Twilight Town (1st Visit) - Central Station 2
+patch=1,EE,E0060902,extended,0032BAE0
+patch=1,EE,E0050076,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030606,extended,2032F059
+patch=1,EE,E00205FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000664
+//Drive Form Revert from Twilight Town (1st Visit) - Central Station 3
+patch=1,EE,E0060902,extended,0032BAE0
+patch=1,EE,E0050076,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030707,extended,2032F059
+patch=1,EE,E00206FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000764
+//Drive Form Revert from Twilight Town (1st Visit) - Central Station 4
+patch=1,EE,E0060902,extended,0032BAE0
+patch=1,EE,E0050076,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030808,extended,2032F059
+patch=1,EE,E00207FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000864
+//Drive Form Revert from Twilight Town (1st Visit) - Central Station 5
+patch=1,EE,E0060902,extended,0032BAE0
+patch=1,EE,E0050076,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030909,extended,2032F059
+patch=1,EE,E00208FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000964
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Entryway 1
+patch=1,EE,E0061A02,extended,0032BAE0
+patch=1,EE,E0050001,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030505,extended,2032F059
+patch=1,EE,E00204FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000564
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Entryway 2
+patch=1,EE,E0061A02,extended,0032BAE0
+patch=1,EE,E0050001,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030606,extended,2032F059
+patch=1,EE,E00205FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000664
+//Drive Form Revert from Twilight Town (1st Visit) -Tower: Entryway 3
+patch=1,EE,E0061A02,extended,0032BAE0
+patch=1,EE,E0050001,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030707,extended,2032F059
+patch=1,EE,E00206FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000764
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Entryway 4
+patch=1,EE,E0061A02,extended,0032BAE0
+patch=1,EE,E0050001,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030808,extended,2032F059
+patch=1,EE,E00207FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000864
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Entryway 5
+patch=1,EE,E0061A02,extended,0032BAE0
+patch=1,EE,E0050001,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030909,extended,2032F059
+patch=1,EE,E00208FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000964
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Sorcerer's Loft 1
+patch=1,EE,E0061B02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030505,extended,2032F059
+patch=1,EE,E00204FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000564
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Sorcerer's Loft 2
+patch=1,EE,E0061B02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030606,extended,2032F059
+patch=1,EE,E00205FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000664
+//Drive Form Revert from Twilight Town (1st Visit) -Tower: Sorcerer's Loft 3
+patch=1,EE,E0061B02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030707,extended,2032F059
+patch=1,EE,E00206FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000764
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Sorcerer's Loft 4
+patch=1,EE,E0061B02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030808,extended,2032F059
+patch=1,EE,E00207FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000864
+//Drive Form Revert from Twilight Town (1st Visit) - Tower: Sorcerer's Loft 5
+patch=1,EE,E0061B02,extended,0032BAE0
+patch=1,EE,E0050002,extended,0032BAE8
+patch=1,EE,E0040000,extended,1032F054
+patch=1,EE,E0030909,extended,2032F059
+patch=1,EE,E00208FF,extended,3032F059
+patch=1,EE,1032F054,extended,00000000
+patch=1,EE,1032F058,extended,00000964
 //Dummy 23 = Maximum HP Increased! (Non-Critical)
 patch=1,EE,E1040001,extended,0032F1A1
 patch=1,EE,E1030003,extended,2032DFC8
@@ -15138,15 +15296,7 @@ patch=1,EE,E0030710,extended,0032BAE0
 patch=1,EE,E002000F,extended,0035DE28
 patch=1,EE,E0010004,extended,01D490C0
 patch=1,EE,01D490C0,extended,00000003
-//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End 1
-patch=1,EE,E0060802,extended,0032BAE0
-patch=1,EE,E005006C,extended,0032BAE8
-patch=1,EE,E004005B,extended,31D48EFC
-patch=1,EE,E003014D,extended,1035DE28
-patch=1,EE,E1020001,extended,00351EB8
-patch=1,EE,11D48EFC,extended,00000057
-patch=1,EE,10351EB8,extended,00000000
-//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End 2
+//Twilight Town (1st Visit) Station Plaza Nobodies with Trinity Limit End
 patch=1,EE,E0030802,extended,0032BAE0
 patch=1,EE,E002006C,extended,0032BAE8
 patch=1,EE,E0010062,extended,01D48EFC
