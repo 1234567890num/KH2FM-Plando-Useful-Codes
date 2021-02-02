@@ -6624,18 +6624,16 @@ patch=1,EE,2032BAE4,extended,00000000
 patch=1,EE,1032BAE8,extended,00000002
 patch=1,EE,30200080,extended,0032D856
 //Data Larxene -> Space Paranoids (1st Visit)
-patch=1,EE,E00B2104,extended,0032BAE0
-patch=1,EE,E00A008A,extended,0032BAE4
-patch=1,EE,E009008A,extended,0032BAE6
-patch=1,EE,E008008A,extended,0032BAE8
-patch=1,EE,E0070001,extended,0032D4CA
+patch=1,EE,E0092104,extended,0032BAE0
+patch=1,EE,E008008A,extended,0032BAE4
+patch=1,EE,E007008A,extended,0032BAE6
+patch=1,EE,E006008A,extended,0032BAE8
+patch=1,EE,E0050001,extended,0032D4CA
 patch=1,EE,1032BAE0,extended,00000111
 patch=1,EE,2032BAE4,extended,00000002
 patch=1,EE,1032BAE8,extended,00000001
 patch=1,EE,0032FB61,extended,00000001
 patch=1,EE,0032C1E8,extended,00000001
-patch=1,EE,01C993F5,extended,00000033
-patch=1,EE,01C99415,extended,00000033
 //Skip Light Cycle
 patch=1,EE,E00A0111,extended,0032BAE0
 patch=1,EE,E0090033,extended,0032BAE8
@@ -14216,9 +14214,13 @@ patch=1,EE,E1030001,extended,0032F1C5
 patch=1,EE,E0020000,extended,0032F0FB
 patch=1,EE,30201388,extended,0032DF70
 patch=1,EE,0032F0FB,extended,00000001
-//Hades Cup Trophy = Unlock All Cups
+//Hades Cup Trophy = Unlock All Cups 1
 patch=1,EE,E1010001,extended,0032F1C6
 patch=1,EE,1032DECC,extended,0000FFFA
+//Hades Cup Trophy = Unlock All Cups 2
+patch=1,EE,E1020002,extended,0032FB36
+patch=1,EE,E1010001,extended,0032F1C6
+patch=1,EE,2032C466,extended,00140015
 //Unlock All Paradox Cups after Goddess of Fate Cup
 patch=1,EE,E0020D06,extended,0032BAE0
 patch=1,EE,E00100B7,extended,0032BAE8
@@ -14337,13 +14339,13 @@ patch=1,EE,E003003B,extended,0032BAE8
 patch=1,EE,E0020398,extended,01C6BDB4
 patch=1,EE,11C6BDB0,extended,000001CC
 patch=1,EE,11C6BDB4,extended,000001CC
-//Marluxia (Absent Silhouette) HUD Pop-Up 1
+//Marluxia (Absent Silhouette) HUD Pop-Up
 patch=1,EE,E0042604,extended,0032BAE0
 patch=1,EE,E0030091,extended,0032BAE8
 patch=1,EE,E0020923,extended,11C58FE0
 patch=1,EE,E001007A,extended,0035DE20
 patch=1,EE,01D48DB8,extended,00000000
-//Marluxia (Absent Silhouette) HUD Pop-Up 2
+//Marluxia (Data) HUD Pop-Up
 patch=1,EE,E0042604,extended,0032BAE0
 patch=1,EE,E0030096,extended,0032BAE8
 patch=1,EE,E0020923,extended,11C59114
@@ -14682,6 +14684,10 @@ patch=1,EE,01CB76B5,extended,00000033
 //Big Chests -> Small Chests (Pride Lands)
 patch=1,EE,01CB72D5,extended,00000035
 patch=1,EE,01CB72F5,extended,00000035
+//Big Chests -> Small Chests (Space Paranoids)
+patch=1,EE,E1020011,extended,0032BAE0
+patch=1,EE,01C993F5,extended,00000033
+patch=1,EE,01C99415,extended,00000033
 //Big Chests -> Small Chests (The World That Never Was)
 patch=1,EE,01CA0175,extended,00000033
 patch=1,EE,01CA0195,extended,00000033
@@ -15346,3 +15352,19 @@ patch=1,EE,E0030016,extended,0032BAE6
 patch=1,EE,E1020003,extended,01D490C0
 patch=1,EE,00349E20,extended,00000001
 patch=1,EE,00349E1C,extended,00000001
+//Marluxia (Absent Silhouette) Boss Randomizer Softlock Fix
+patch=1,EE,E0062604,extended,0032BAE0
+patch=1,EE,E0050091,extended,0032BAE8
+patch=1,EE,E0040923,extended,11C58FE0
+patch=1,EE,E0030000,extended,01C6C018
+patch=1,EE,E0020001,extended,01D490C0
+patch=1,EE,01D490C0,extended,00000002
+patch=1,EE,01D490C4,extended,00000010
+//Marluxia (Data) Boss Randomizer Softlock Fix
+patch=1,EE,E0062604,extended,0032BAE0
+patch=1,EE,E0050096,extended,0032BAE8
+patch=1,EE,E0040923,extended,11C59114
+patch=1,EE,E0030000,extended,01C6C018
+patch=1,EE,E0020001,extended,01D490C0
+patch=1,EE,01D490C0,extended,00000002
+patch=1,EE,01D490C4,extended,00000010
