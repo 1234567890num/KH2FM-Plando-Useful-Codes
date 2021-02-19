@@ -14233,14 +14233,30 @@ patch=1,EE,0032E103,extended,00000002
 patch=1,EE,0032D82C,extended,00000001
 //Dodge Roll Removal in Simulated Twilight Town 2
 patch=1,EE,E0031A04,extended,0032BAE0
-patch=1,EE,E0020001,extended,0032D82C
+patch=1,EE,E1020001,extended,0032D82C
 patch=1,EE,0032E103,extended,00000082
 patch=1,EE,0032D82C,extended,00000000
 //Dodge Roll Removal in Simulated Twilight Town 3
 patch=1,EE,E0031512,extended,0032BAE0
-patch=1,EE,E0020001,extended,0032D82C
+patch=1,EE,E1020001,extended,0032D82C
 patch=1,EE,0032E103,extended,00000082
 patch=1,EE,0032D82C,extended,00000000
+//Trinity Limit Removal in Simulated Twilight Town 1
+patch=1,EE,E00407FF,extended,2032D819
+patch=1,EE,E00380C6,extended,0032E108
+patch=1,EE,E0022802,extended,1032BAE0
+patch=1,EE,0032E109,extended,00000000
+patch=1,EE,0032D82D,extended,00000001
+//Trinity Limit Removal in Simulated Twilight Town 2
+patch=1,EE,E0031A04,extended,0032BAE0
+patch=1,EE,E1020001,extended,0032D82D
+patch=1,EE,0032E109,extended,00000080
+patch=1,EE,0032D82D,extended,00000000
+//Trinity Limit Removal in Simulated Twilight Town 3
+patch=1,EE,E0031512,extended,0032BAE0
+patch=1,EE,E1020001,extended,0032D82D
+patch=1,EE,0032E109,extended,00000080
+patch=1,EE,0032D82D,extended,00000000
 //Magic Removal in Simulated Twilight Town 1
 patch=1,EE,E00807FF,extended,2032D819
 patch=1,EE,E0070000,extended,0032D82A
@@ -15368,3 +15384,348 @@ patch=1,EE,E0030000,extended,01C6C018
 patch=1,EE,E0020001,extended,01D490C0
 patch=1,EE,01D490C0,extended,00000002
 patch=1,EE,01D490C4,extended,00000010
+//Trinity Limit - Slot 1 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E074
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E074,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 2 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E076
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E076,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 3 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E078
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E078,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 4 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E07A
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E07A,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 5 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E07C
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E07C,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 6 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E07E
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E07E,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 7 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E080
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E080,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 8 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E082
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E082,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 9 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E084
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E084,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 10 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E086
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E086,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 11 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E088
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E088,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 12 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E08A
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E08A,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 13 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E08
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E08C,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 14 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E08E
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E08E,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 15 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E090
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E090,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 16 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E092
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E092,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 17 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E094
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E094,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 18 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E096
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E096,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 19 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E098
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E098,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 20 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E09A
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E09A,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 21 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E09C
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E09C,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 22 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E09E
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E09E,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 23 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0A0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0A0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 24 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0A2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0A2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 25 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0A4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0A4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 26 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0A6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0A6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 27 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0A8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0A8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 28 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0AA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0AA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 29 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0AC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0AC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 30 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0AE
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0AE,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 31 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0B0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0B0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 32 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0B2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0B2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 33 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0B4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0B4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 34 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0B6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0B6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 35 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0B8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0B8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 36 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0BA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0BA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 37 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0BC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0BC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 38 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0BE
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0BE,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 39 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0C0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0C0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 40 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0C2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0C2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 41 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0C4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0C4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 42 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0C6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0C6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 43 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0C8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0C8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 44 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0CA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0CA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 45 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0CC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0CC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 46 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0CE
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0CE,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 47 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0D0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0D0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 48 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0D2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0D2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 49 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0D4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0D4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 50 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0D6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0D6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 51 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0D8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0D8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 52 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0DA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0DA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 53 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0DC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0DC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 54 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0DE
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0DE,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 55 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0E0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0E0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 56 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0E2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0E2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 57 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0E4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0E4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 58 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0E6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0E6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 59 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0E8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0E8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 60 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0EA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0EA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 61 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0EC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0EC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 62 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0EE
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0EE,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 63 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0F0
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0F0,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 64 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0F2
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0F2,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 65 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0F4
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0F4,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 66 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0F6
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0F6,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 67 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0F8
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0F8,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 68 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0FA
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0FA,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
+//Trinity Limit - Slot 69 -> Slot 75
+patch=1,EE,E00300C6,extended,0032E0FC
+patch=1,EE,E0020000,extended,0032E108
+patch=1,EE,1032E0FC,extended,00000000
+patch=1,EE,0032E108,extended,000000C6
