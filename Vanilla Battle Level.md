@@ -106,6 +106,8 @@ Max/Min here applies to (Strength-Defense) multiplier for attacks toward the par
 
 # Default
 
+Each row correspond to 2^ID in the bitmask.
+
 | ID | Progress Flag       | ZZ | ES | TT | DI | HB | BB | HE | AL | MU | PO | LK | LM | DC | WI | HT | WM | CA | TR | EH |
 |:--:|---------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 00 | TT_SCENARIO_1_START |  0 |  0 |  0 |  0 |  7 | 12 | 15 | 21 |  9 |  0 | 25 |  0 | 17 | 18 | 23 |  0 | 19 | 27 | 49 |
@@ -129,7 +131,8 @@ Max/Min here applies to (Strength-Defense) multiplier for attacks toward the par
 | 13 | ZZ_ALL_WORLD_LV60   | 59 |  0 | 59 |  0 | 59 | 59 | 59 | 59 | 59 | 59 | 59 |  0 | 59 | 59 | 59 |  0 | 59 | 59 | 59 |
 | 14 | TT_SCENARIO_4_OPEN  |  0 |  0 |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
 
-Exceptions:
+# Exceptions
+
 - Zexion AS (25)
 - Pain and Panic Cup (25)
 - Cerberus Cup (30)
