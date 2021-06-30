@@ -1,0 +1,45 @@
+# Default
+
+| ID | Progress Flag       | ZZ | ES | TT | DI | HB | BB | HE | AL | MU | PO | LK | LM | DC | WI | HT | WM | CA | TR | EH |
+|:--:|---------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 00 | TT_SCENARIO_1_START |  0 |  0 |  0 |  0 |  7 | 12 | 15 | 21 |  9 |  0 | 25 |  0 | 17 | 18 | 23 |  0 | 19 | 27 | 49 |
+| 01 | ZZ_START            |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 02 | ZZ_SCENARIO_1_START |  2 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 03 | HB_402_END          |  0 |  0 |  0 |  0 |  2 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 04 | HB_SCENARIO_4_END   |  0 |  0 |  6 |  0 |  4 | 23 | 23 | 16 | 25 |  0 | 15 |  0 | 16 | 15 | 15 |  0 | 17 |  6 |  0 |
+| 05 | NM_SCENARIO_2_OPEN  |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  2 |  0 |  0 |  0 |  0 |
+| 06 | AL_SCENARIO_2_OPEN  |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  2 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 07 | LK_SCENARIO_2_OPEN  |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  2 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 08 | HB_SCENARIO_2_OPEN  |  0 |  0 |  0 |  0 |  7 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0A | TT_SCENARIO_6_OPEN  |  0 |  0 |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0B | TT_SCENARIO_7_OPEN  |  0 |  0 |  3 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0C | TT_SCENARIO_8_OPEN  |  0 |  0 |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0D | TT_SCENARIO_9_OPEN  |  0 |  0 | 21 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0E | HB_SCENARIO_4_OPEN  |  0 |  0 |  0 |  0 | 13 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 0F | HB_SCENARIO_5_OPEN  |  0 |  0 |  0 |  0 | 11 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 | 11 |  0 |
+| 10 | TT_SCENARIO_10_OPEN |  0 |  0 | 13 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+| 11 | ZZ_ALL_WORLD_LV99   | 98 |  0 | 98 |  0 | 98 | 98 | 98 | 98 | 98 | 98 | 98 |  0 | 98 | 98 | 98 |  0 | 98 | 98 | 98 |
+| 12 | TT_INIT             |  1 |  0 |  1 |  0 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  0 |  1 |  1 |  1 |  0 |  1 |  1 |  1 |
+| 13 | ZZ_ALL_WORLD_LV60   | 59 |  0 | 59 |  0 | 59 | 59 | 59 | 59 | 59 | 59 | 59 |  0 | 59 | 59 | 59 |  0 | 59 | 59 | 59 |
+| 14 | TT_SCENARIO_4_OPEN  |  0 |  0 |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
+
+Exceptions:
+- Zexion AS (25)
+- Pain and Panic Cup (25)
+- Cerberus Cup (30)
+- Larxene AS (32)
+- Cavern of Remembrance (Depths, Mineshaft A) (35)
+- Lexaeus AS (40)
+- Titan Cup (45)
+- Vexen AS (50)
+- Goddess of Fate Cup (55)
+- Cavern of Remembrance (Mineshaft B, Engine Chamber) (55)
+- Pain and Panic Paradox Cup (60)
+- Cerberus Paradox Cup (70)
+- Cavern of Remembrance (Transport to Remembrance) (75)
+- Titan Paradox Cup (80)
+- Sephiroth (80)
+- Marluxia AS (80)
+- Hades Paradox Cup (99)
+- Data Fights (99)
+- Terra (99)
