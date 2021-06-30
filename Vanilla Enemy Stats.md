@@ -1,3 +1,5 @@
+Max/Min here affects (Strength-Defense) multiplier for attacks toward the object. For more details on the calculation, refer to the corresponding page on this repo's Wiki.
+
 | ID | Object                        | Level | Base HP |   Max |  Min | Physical | Fire | Blizzard | Thunder | Dark | Light | Neutral |  EXP |
 |:--:|-------------------------------|------:|--------:|------:|-----:|---------:|-----:|---------:|--------:|-----:|------:|--------:|-----:|
 | 00 | Silver Rock                   |     0 |      50 | 10000 | 1000 |      100 |   50 |       50 |       0 |   50 |   100 |     100 |   50 |
