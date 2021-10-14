@@ -4937,3 +4937,2873 @@ ID|File|Text
 1FFD|hb|{:unk13 CF 00 43 00}{:unk08 01 01 07}Are you sure?<br/>All by yourself...?
 1FFE|hb|{:unk13 F0 00 3C 00}{:unk08 01 01 07}...Er, sorry.<br/>It´s all yours.
 1FFF|hb|{:unk13 FA 00 3C 00}{:unk08 01 00 05}How´s Tron?
+2000|hb|{:unk13 F0 00 46 00}{:unk08 01 01 07}We still can´t get<br/>in touch with him.{:clear }Maybe you guys should<br/>give it a shot.
+2001|hb|{:unk13 0E 01 3C 00}{:unk08 01 00 05}No, we´ll go talk<br/>to him in person.
+2002|hb|{:unk13 A0 00 40 01}{:unk08 01 01 02}Then I have a<br/>favor to ask.{:clear }When you find Tron,<br/>could you tell him to<br/>come to the I/O tower?{:clear }That´s where we´ll<br/>upload the MCP<br/>Eradication program.
+2003|hb|{:unk13 8C 00 5A 00}{:unk08 01 00 05}The I/O tower.<br/>Got it!
+2004|hb|{:unk13 E4 00 3F 00}{:unk08 01 01 07}Thanks.<br/>And watch your backs.
+2005|hb|
+2006|hb|We´ll be there soon, Tron.
+2007|hb|Finished?
+2008|hb|Would be, if it weren´t for the old loon´s magic.
+2009|hb|OLD loon you say!?
+200A|hb|I´m tryin´ to work here!
+200B|hb|Oh ho-ho-ho,<br/>I´ll show you who´s old!
+200C|hb|Done!
+200D|hb|There you go, Leon.{:delay 64 00}{:clear }{:delay 14 00}{:clear }One homemade program.<br/>A loony wizard special.
+200E|hb|This had better work.
+200F|hb|I´m off.
+2010|hb|Be on your guard!
+2011|hb|Warning.{:delay 4B 00}{:clear }{:delay 0F 00}User control is terminated indefinitely.
+2012|hb|No good!
+2013|hb|Leon, let me try.
+2014|hb|This is your final warning.{:delay 3C 00}{:clear }{:delay 0F 00}{:clear }Stop at once.
+2015|hb|Bon appetit!
+2016|hb|Don´t talk with your mouth full.
+2017|hb|What...what are you loading?
+2018|hb|Things are settling down in town!{:delay 62 00}{:clear }{:delay 27 00}{:clear }The only Heartless left anywhere<br/>are the local variety.{:delay 8A 00}{:clear }{:delay 30 00}{:clear }And it looks like there are fewer than before.
+2019|hb|Now if we can just get those<br/>three back in one piece...
+201A|hb|You´re here!
+201B|hb|Welcome back!
+201C|hb|How´s the town?
+201D|hb|A-okay!
+201E|hb|Not a single trace of the MCP, either.<br/>Everything´s back to normal. We made it.
+201F|hb|Hey, why the long face?{:delay 78 00}{:clear }{:delay 19 00}{:clear }What happened?
+2020|hb|Tron just disappeared.
+2021|hb|And he promised we´d see him again...
+2022|hb|What´s happening!?
+2023|hb|Greetings, friends.{:delay 39 00}{:clear }System is up, and ready for User input.
+2024|hb|Tron!
+2025|hb|Stay in touch.
+2026|hb|Yeah!
+2027|hb|Oh boy, oh boy!
+2028|hb|Hey, stop that! It tickles!
+2029|hb|Tron is ticklish?
+202A|hb|How ´bout this!
+202B|hb|Please stop that!
+202C|hb|I think Tron´s been hanging<br/>around those guys too much.
+202D|hb|W-wait, wait just a moment.{:delay B1 00}{:clear }I want to show you something I dug<br/>up from the system archives.{:delay B4 00}{:clear }You can see the town back<br/>when it was first built.
+202E|hb|That´s right...{:delay 5A 00}{:clear }{:delay 19 00}{:clear }I remember now.
+202F|hb|Just like the old days...
+2030|hb|Hmm...{:delay 3C 00}{:clear }{:delay 2A 00}{:clear }I´d be fascinated to ascertain as to{:delay 86 00}{:clear }when the town got such<br/>a dreadful name as Hollow Bastion!
+2031|hb|You know, this town had another name once.
+2032|hb|
+2033|hb|Radiant Garden.{:delay 6E 00}{:clear }{:delay 2D 00}{:clear }
+2034|hb|And where is everyone else?
+2035|hb|Beats me. They musta had some<br/>other matters to deal with.
+2036|hb|"Matters"?
+2037|hb|You mean they have more important<br/>affairs to attend to than my return?
+2038|hb|Well, see, there´s this Organization {XIII}<br/>that keeps gettin´ in the way--
+2039|hb|Let those fools play their little game!
+203A|hb|But what about that runt with the Keyblade?<br/>He´s been a real pain, too.
+203B|hb|Oh, has he?
+203C|hb|Very well then. I suppose you´d best tell<br/>me what´s happened during my absence.
+203D|hb|Anybody home?
+203E|hb|Merlin!
+203F|hb|The castle´s in danger!
+2040|hb|What is all that racket?
+2041|hb|Ho-ho! I thought--oh, it´s you!
+2042|hb|It looks like you´ve learned a bit<br/>since the last time I saw you.
+2043|hb|Really!?
+2044|hb|Wait a minute! Let´s talk about the problem!{:delay C0 00}{:clear }It´s Maleficent! She´s back!
+2045|hb|Where? Inside the castle!?
+2046|hb|Yep! And Heartless, too.
+2047|hb|Oh, dear...
+2048|hb|I wonder what´s up.
+2049|hb|Uh-oh!
+204A|hb|C´mon!
+204B|hb|Well, now...took your time, did you?
+204C|hb|Oh, was it you who summoned us, Merlin?
+204D|hb|Yes, yes...{:delay 64 00}{:clear }{:delay 1E 00}{:clear }But it seems I used too much power in<br/>doing so, and those infernal Heartless...
+204E|hb|So what´s up?
+204F|hb|Well, I happened to stumble across<br/>this in the Zero District.
+2050|hb|Pooh´s storybook!
+2051|hb|That´s right.{:delay 42 00}{:clear }I know you´re a good friend of Winnie the<br/>Pooh, Sora--that´s why I summoned you.
+2052|hb|And when I did, I was attacked<br/>by the Heartless.{:delay B4 00}{:clear }Of course, I fought back with<br/>some rather powerful magic,{:delay D8 00}{:clear }but then I began to fear the book<br/>would be damaged, so I...{:delay E8 00}{:clear }{:delay 45 00}Now, just a moment. Leon and the<br/>others need to hear this too.{:delay C2 00}{:clear }I-I´d better go find them. Be back in a jiffy.
+2053|hb|I wonder how Pooh's doing.
+2054|hb|Wanna find out?
+2055|hb|Yeah!
+2056|hb|Sora...
+2057|hb|Cover for me, okay?
+2058|hb|Sora! Hurry up!
+2059|hb|Donald?
+205A|hb|Did ya bring the book, Sora?
+205B|hb|Hey!
+205C|hb|Give that back!
+205D|hb|Think it´s okay?
+205E|hb|Gawrsh, maybe ya better go back<br/>and make sure Pooh´s all right.
+205F|hb|But what about Merlin?
+2060|hb|Well, I guess we could explain...
+2061|hb|Great!
+2062|hb|{:unk13 AA 00 46 00}{:unk08 01 01 05}Couldn´t be bothered to wait<br/>up for an old wizard, eh?
+2063|hb|{:unk13 96 00 50 00}{:unk08 01 01 06}Sorry about that...
+2064|hb|{:unk13 2C 01 64 00}{:unk08 01 00 05}How are things in there?
+2065|hb|{:unk13 18 01 78 00}{:unk08 01 01 06}Well...{:clear }Pooh seems to have<br/>forgotten all about me.{:clear }And not just me--all<br/>his other friends, too.
+2066|hb|{:unk13 FA 00 50 00}{:unk08 01 00 05}I was afraid<br/>of that...
+2067|hb|{:unk13 C8 00 64 00}{:unk08 01 00 04}I suspect it has something<br/>to do with those pages the<br/>Heartless stole.{:clear }You´ll have to collect the<br/>torn pages and repair the<br/>book to put things right.
+2068|hb|{:unk13 B4 00 3C 00}{:unk08 01 01 05}This book is one of the world´s<br/>most cherished elements.{:clear }I´d been meaning to<br/>tell Leon I´d found it,{:clear }but perhaps we should keep<br/>it between us for now.
+2069|hb|{:unk06 02}{:unk13 A0 00 2C 01}{:unk08 03 01 02}We will!
+206A|hb|{:unk06 02}{:unk13 72 01 64 00}{:unk08 03 00 05}We will!
+206B|hb|{:unk06 02}{:unk13 6E 00 3C 00}{:unk08 03 01 06}We will!
+206C|hb|{:unk13 94 00 5F 00}{:unk08 01 01 06}Good, good...
+206D|sys|Aero Blade
+206E|sys|Select Landing Area
+206F|sys|Episode List
+2070|sys|Warp Snipe
+2071|bb|Help Cogsworth gather energy with successive Charges!
+2072|bb|Take advantage of when he falters!
+2073|sys|Adamant Shield
+2074|sys|A shield that excels in defense rather<br/>than strength. Blocks various attacks.
+2075|sys|Chain Gear
+2076|sys|A large shield that blocks various<br/>attacks. Can also be used for attacking.
+2077|sys|Ogre Shield
+2078|sys|A shield with great strength that also<br/>blocks various attacks. Increases defense<br/>by {:color #F0F00080}3{:reset} in critical situations.
+2079|sys|Falling Star
+207A|sys|A small, easy-to-handle shield used<br/>solely for attacking.
+207B|sys|Dreamcloud
+207C|sys|A shield with great strength used<br/>solely for attacking.
+207D|sys|Knight Defender
+207E|sys|A shield with great strength used<br/>solely for attacking.
+207F|sys|Genji Shield
+2080|sys|A shield with great strength and<br/>defense. Quickly revives wielder when<br/>fallen, and restores much of their HP.
+2081|sys|Akashic Record
+2082|sys|A shield with great strength.<br/>Increases MP restoration speed<br/>by {:color #F0F00080}25%{:reset} when all MP is consumed.
+2083|sys|Nobody Guard
+2084|sys|{:width 95}A shield with great strength. Restores MP<br/>relative to the amount of damage taken.
+20F2|gumi|Attracts Orbs that are normally out<br/>of reach.
+20F6|gumi|Increases the recovery effect of HP<br/>Orbs.
+20FA|gumi|Restores HP after the first time<br/>it drops to 0.
+2102|gumi|Blast off and take the Gummi Route!
+2103|gumi|Assemble and upgrade Gummi Ships.
+2112|gumi|{:width 84}Build Ships with Gummi blocks you´ve collected.
+2113|gumi|{:width 84}Build Teeny Ships that will defend your Gummi Ship.
+2119|gumi|Return to the World Map.
+2121|lk|
+2122|lk|This place is kinda creepy, though.
+2123|lk|
+2124|lk|
+2125|lk|Heartless?
+2126|lk|I dunno, Sora.<br/>I get the feelin´ they might live here.
+2127|lk|Don´t mind us! Just passing<br/>through. We won´t be any trouble.
+2128|lk|Yeah, that´s right!
+2129|lk|Don´t be silly.<br/>We´d love you to stick around for lunch.
+212A|lk|Um...we didn´t bring anything to eat.
+212B|lk|That´s not gonna be a problem!
+212C|lk|Gawrsh, Sora--<br/>I think WE´RE the lunch!
+212D|lk|
+212E|lk|Going somewhere?
+212F|lk|Man, that Scar´s got the worst timing.
+2130|lk|Just let him roar.
+2131|lk|Nah, we better go see{:delay 78 00}{:clear }what he wants. Sounds like<br/>he's grumpy enough already.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Fine...
+2132|lk|I dunno what that was about,<br/>but I´m glad it´s over!
+2133|lk|Everything´s harder on four legs...
+2134|lk|Better start practicing!
+2135|lk|I found a trick to it. Here, lemme show ya.
+2136|lk|Heartless!?
+2137|lk|What do we do?
+2138|lk|Stay back!
+2139|lk|Thank you. You really saved me.
+213A|lk|We´re just glad you´re okay.
+213B|lk|Did you see any other Heartless around here?
+213C|lk|Heartless... Is that what they´re called?<br/>I´m not sure if there are any others...
+213D|lk|I don´t usually hunt<br/>outside the Pride Lands.
+213E|lk|Pride Lands?
+213F|lk|Hey, do you know if a guy<br/>named Riku is there?
+2140|lk|Or some bad guys in black hoods?
+2141|lk|Or maybe this really big bully named Pete?
+2142|lk|Oh well, we might as well go take a look, anyway.
+2143|lk|Wait--the Pride Lands are dangerous.
+2144|lk|Scar and the hyenas have made<br/>things unbearable for everyone.
+2145|lk|There´s no food left. They´ve driven<br/>off the prey. We´re about to starve.
+2146|lk|We can handle a little danger. You just<br/>saw us beat those Heartless, didn´t you?
+2147|lk|I guess you´re right...{:delay 78 00}{:clear }You could be just what the kingdom<br/>needs. Maybe you can help us.
+2148|lk|Ya mean take on this Scar guy<br/>and all those hyenas?
+2149|lk|Scar?
+214A|lk|He took over when our last king,<br/>Mufasa, died.
+214B|lk|So you´re saying this guy is your king.
+214C|lk|You want us to take down your king?
+214D|lk|Wait just a minute.
+214E|lk|We can´t just go around knocking<br/>kings off their thrones.
+214F|lk|Then again, if they see that<br/>I´m stronger than their king,{:delay B4 00}{:clear }maybe they´ll ask me to be<br/>their next king!
+2150|lk|Sora...
+2151|lk|I´d have to refuse, of course.
+2152|lk|Still, I´d like to see the<br/>Pride Lands,{:delay 78 00}{:clear }so you guys don´t mind<br/>lending ´em a paw, do you?
+2153|lk|Uh-oh, there he goes again...
+2154|lk|She´s gonna go on ahead and<br/>tell the other lionesses.
+2155|lk|We´re supposed to meet her<br/>at a place called Pride Rock.
+2156|lk|Uh...what?
+2157|lk|What is it?
+2158|lk|I told Rafiki you might be able to help<br/>us force Scar and the hyenas{:delay C8 00}{:clear }out of the Pride Lands.
+2159|lk|But he says it won´t work.{:delay 78 00}{:clear }You see, whoever saves the Pride Lands<br/>will be our next king...{:delay 78 00}{:clear }and he has to have the right qualities.
+215A|lk|Meaning...
+215B|lk|I think she means<br/>you´re not cut out for the job, Sora.
+215C|lk|I´m sorry you came all this way.
+215D|lk|Hey, no--it´s okay.
+215E|lk|You´d better go before<br/>Scar finds out you´re here.
+215F|lk|I´m really sorry.
+2160|lk|Snack? Nah, we got us a three course meal.
+2161|lk|Look at that, here comes Scar--the king.
+2162|lk|And Pete!
+2163|lk|My back...
+2164|lk|What are you doing here!?
+2165|lk|Aww, the cute li´l kitty´s worried about me.{:delay B4 00}{:clear }If I were you, I´d be more worried<br/>about my friends!
+2166|lk|We´re surrounded!
+2167|lk|Sora!!
+2168|lk|Go on, ladies--<br/>you´ve got some hunting to do.
+2169|lk|The herds have moved on, Scar.<br/>We can´t hunt in a land with no prey.
+216A|lk|No prey?<br/>Then what do you call this?
+216B|lk|We´re not prey!
+216C|lk|Oh. Nice and fresh, too.
+216D|lk|Well, they´re all yours, Scar.
+216E|lk|
+216F|lk|Run!
+2170|lk|Follow me!
+2171|lk|Y-yeah....
+2172|lk|What were you thinkin´ about?
+2173|lk|Lemme guess. The past, right?
+2174|lk|
+2175|lk|Hakuna matata!
+2177|lk|Would you look how he´s<br/>grown, Pumbaa.{:delay 90 00}{:clear }Why, when I rescued the little guy,<br/>he was only this big.
+2178|lk|What´s wrong?
+2179|lk|We´re never gonna make it.
+217A|lk|I guess Rafiki was right.
+217B|lk|What?
+217C|lk|Never mind. It´s not important.<br/>Here, I´ll show you how.
+217D|lk|You can do it!
+217E|lk|Who told you that?
+217F|lk|Scar.
+2180|lk|It is time.
+2181|lk|It must be Simba!
+2182|lk|Sora! Hurry!
+2183|lk|Wait up!
+2184|lk|I-it´s me--Sora!<br/>Donald and Goofy are here, too.
+2185|lk|Sora! Donald! Goofy!
+2186|lk|What happened to you?
+2187|lk|Help! Simba! Heeelp!
+2188|lk|She´s gonna eat us!
+2189|lk|Timon? Pumbaa!?
+218A|lk|Something must have happened in the jungle!<br/>I have to go help my friends!
+218B|lk|Okay, we´ll back you up!
+218C|lk|Stop!
+218D|lk|It´s Nala! Don´t you recognize her?
+218E|lk|Nala?
+218F|lk|It´s me, Simba!
+2190|lk|Simba!
+2191|lk|You are alive!
+2192|lk|Hey! What´s goin´ on here!?
+2193|lk|Don´t worry. They´re all friends of mine.
+2194|lk|So that means...nobody´s planning<br/>to eat anybody else for lunch, right?
+2195|lk|Are you sure they don´t wanna<br/>eat me like I´m some kinda pig!?
+2196|lk|We won´t...but you are a pig, right?
+2197|lk|Call me Mr. Pig!
+2198|lk|Could you guys excuse us for a few minutes?
+2199|lk|Why am I not surprised?
+219A|lk|I thought Sora might be<br/>able to help,{:delay 87 00}{:clear }but you´re the only one<br/>who can save us from Scar.
+219B|lk|I can´t go back.
+219C|lk|Why?
+219D|lk|Hakuna matata.
+219E|lk|Simba...
+219F|lk|Hakuna!
+21A0|lk|Matata!
+21A1|lk|He´s not the Simba I remember.
+21A2|lk|Something about hakuna matata...
+21A3|lk|I can´t go back...<br/>It won´t change anything.
+21A4|lk|Look at the stars.{:delay 78 00}{:clear }The great kings of the past<br/>look down on us from those stars.
+21A5|lk|So whenever you feel alone,
+21A6|lk|just remember that those kings will<br/>always be there to guide you...{:delay DE 00}{:clear }And so will I.
+21A7|lk|Father...are you there?
+21A8|lk|Simba...you have forgotten who you are.<br/>You must take your place in the Circle of Life.
+21A9|lk|How can I go back? I´m not who I used to be.
+21AA|lk|Remember who you are.
+21AB|lk|You can all come out now.
+21AC|lk|I´m going back to face my past.<br/>I could use your help.
+21AD|lk|He really is a king...
+21AE|lk|Yes, Timon. This is my home.
+21AF|lk|This kingdom doesn´t belong to you.
+21B0|lk|Simba´s the rightful king.
+21B1|lk|The choice is yours, Scar.<br/>Either step down or fight.
+21B2|lk|Must this all end in violence?
+21B3|lk|I´d hate to be responsible for the<br/>death of a family member, Simba...
+21B4|lk|I´ve put the past behind me.
+21B5|lk|But what about your faithful subjects?<br/>Have they?
+21B6|lk|Simba, what´s he talking about?
+21B7|lk|Go on. Tell them who´s responsible<br/>for Mufasa´s death!
+21B8|lk|I am.
+21B9|lk|He admits it! Murderer!
+21BA|lk|If it weren´t for you, Mufasa would<br/>still be alive. Do you deny it?
+21BB|lk|No! But it was an accident!
+21BC|lk|You´re in trouble again. But this time,<br/>Daddy isn´t here to save you.
+21BD|lk|And now everyone knows why!
+21BE|lk|Now this looks familiar.
+21BF|lk|Oh, yes! I remember.{:delay A2 00}{:clear }This is just the way your<br/>father looked...before he died.
+21C0|lk|And here´s my little secret...<br/>I killed Mufasa.
+21C1|lk|Murderer! Tell them the truth!
+21C2|lk|All right. All right! I did it.
+21C3|lk|Louder!
+21C4|lk|I...killed...Mufasa!
+21C5|lk|Simba! You get Scar!<br/>We´ll handle these guys!
+21C6|lk|´Scuse me! Pardon me! Comin´ through!
+21C7|lk|He went up there.
+21C8|lk|This is his fight, Donald.
+21C9|lk|You´re okay!
+21CA|lk|Aw, that was just a sneak preview!
+21CB|lk|´Cause this ain´t over--not by a long shot!
+21CC|lk|Anger and jealousy turned the king of<br/>Pride Rock into a Heartless!
+21CD|lk|Oh, your kingdom´s gonna rise again...
+21CE|lk|But this time, as the Pride Lands of Darkness!
+21CF|lk|That´s what you think!
+21D0|lk|We have to say good-bye for a little while.
+21D1|lk|I´ll go tell Simba.
+21D2|lk|Aw, he´s prob´ly busy.<br/>Just tell him we´ll be back soon.
+21D3|lk|Oh, that´s right--<br/>he´s king now. {:delay B4 00}{:clear }He´s gonna be so busy he´ll prob´ly<br/>forget about his two best buddies.
+21D4|lk|Well, you always got hakuna matata, right?
+21D5|lk|Guess so...
+21D6|lk|Whaddaya mean, "Guess so"!?
+21D7|lk|What if he forgets to tell the<br/>carnivores who we are?{:delay 96 00}{:clear }One look at you, and you´re a pig roast.
+21D8|lk|That´s MISTER Pig Roast.
+21D9|lk|Same thing!
+21DA|lk|And I´m not sticking around to be<br/>anybody´s pork dinner!
+21DB|lk|Pumbaa!
+21DC|lk|You can never forget your true buddies.
+21DD|lk|Oh, it´s you guys.<br/>Man, we were hoping you were a meal.
+21DE|lk|Hiya!
+21DF|lk|Don´t gimme any of that "hiya" stuff!<br/>Thanks to you clowns,{:delay DC 00}{:clear }we´re back to scavenging scraps<br/>for a living.
+21E0|lk|C´mon, it´s not that bad. I enjoyed that<br/>week-dead elephant we had yesterday.
+21E1|lk|Hey, how´s Simba?
+21E2|lk|We gotta laugh every time<br/>we hear that dude´s name.
+21E3|lk|Ooh. Say it again!
+21E4|lk|Simba!
+21E5|lk| {:delay 78 00}{:clear }One more time!
+21E6|lk|Simba!
+21E7|lk|That´s enough!
+21E8|lk|Go on then, see for yourself.<br/>Simba is one wishy-washy king.
+21E9|lk|Yeah, I bet about now, even some of those<br/>high and mighty lionesses were wishin´{:delay FC 00}{:clear }they´d gotten themselves a different king.
+21EA|lk|Gawrsh, whaddaya think coulda happened?
+21EB|lk|Well, let´s go find Simba and see.
+21EC|lk|Huh?
+21ED|lk|A ghost?
+21EE|lk|We better tell Simba about this.
+21EF|lk|Wonder if he´s up there...
+21F0|lk|Are you okay?
+21F1|lk|You don´t look so good.
+21F2|lk|Hey, Simba. Why don´t we team up and<br/>do something about that Scar ghost?{:delay 16 01}{:clear }Seems like everybody´s worried about it.{:delay 7F 00}{:clear }So, now´s your big chance to show ´em<br/>what you´re really made of!
+21F5|lk|That doesn´t concern you!
+21F6|lk|Sorry...
+21F7|lk|It´s okay.
+21F8|lk|I just wish I knew<br/>what my father would do.
+21F9|lk|But he´s not here, Simba.<br/>It´s all up to you now.
+21FA|lk|And that means the important thing is<br/>what you´re gonna do being the king.{:delay DC 00}{:clear }Not what your father woulda done.
+21FB|lk|So you´re saying...it´s all up to me...
+21FC|lk|See, there ya go!
+21FD|lk|Exactly!
+21FE|lk|We know your dad was a great king, and all.<br/>But now it´s your turn.
+21FF|lk|Remember what I taught ya.<br/>"You gotta put the past behind you."{:delay C8 00}{:clear }It´s time to go out there and show<br/>everybody things are gonna be just fine!
+2200|lk|Yeah, you can do it!
+2201|lk|You gotta live for today!
+2202|lk|And find your own path!
+2203|lk|Live for today...
+2204|lk|And find my own path...<br/>not my father´s...
+2205|lk|That´s it!
+2206|lk|I´m glad to hear you say that, Simba.
+2207|lk|Nala!
+2208|lk|Promise me you´ll help Simba any way you can.
+2209|lk|As long as Sora handles the dangerous parts!
+220A|lk|I´m counting on you, Simba...<br/>and so is our baby.
+220B|lk|Great! Now we´re going to have to babysit!
+220C|lk|Let´s go see Rafiki first. I´m sure he´ll be<br/>able to tell us something about that ghost.
+220D|lk|Hey you!
+220E|lk|Aw, c´mon, can´t you guys just leave us alone?
+220F|lk|Do you three know anything about Scar´s ghost?
+2210|lk|Huh? Scar´s ghost?
+2211|lk|Maaaybe.
+2212|lk|You DO know!
+2213|lk|What´re we gonna do?
+2214|lk|Tell me about Scar´s ghost!
+2215|lk|Sorrrry. We don´t know nothin´.
+2216|lk|Ooh, wait! It´s coming back to me!{:delay 96 00}{:clear }That´s the one that only hangs out<br/>around fraidy cats. Right, Banzai?
+2217|lk|Enough!
+2218|lk|And there it is!
+2219|lk|Must be a fraidy cat around here somewhere!
+221A|lk|Simba! Do something!
+221B|lk|How does it feel to be king, hmm?
+221C|lk|Why, you must be a truly inspiring<br/>ruler by now.
+221D|lk|After all, you ARE the son<br/>of the great Mufasa.
+221E|lk|Where´re you going?
+221F|lk|Ah, Simba...running away as always.
+2220|lk|Simba!
+2221|lk|Gawrsh, Rafiki was right.
+2222|lk|You mean, Simba´s still unsure?
+2223|lk|Seems like. Do ya think there´s<br/>some way we can help?
+2224|lk|Hmm... We should start by talking to<br/>Simba some more.{:delay FA 00}{:clear }Let´s head back to the Pride Lands.
+2225|lk|Hmm. It seems even your daddy´s<br/>abandoned you. How sad.
+2226|lk|It´s no use.<br/>I´ll never be the king my father was.
+2227|lk|But Simba...<br/>That´s not what you´re supposed to be.{:delay C8 00}{:clear }You can´t be Mufasa. You can only be you.
+2228|lk|Everybody believes in you as a king.<br/>They just want to see what you´ll do.
+2229|lk|And if anyone´s saying<br/>they liked your father better,{:delay C8 00}{:clear }it´s because you haven´t done much yet.<br/>That´s all.
+222A|lk|I know that.
+222B|lk|Then stop moping and DO something!
+222C|lk|I can´t!
+222D|lk|...Fine.
+222E|lk|Let´s go, Sora.
+222F|lk|Yeah. Why stick around<br/>if he´s not even gonna try?
+2230|lk|C´mon Goofy!
+2231|lk|The hesitant king will one day lose<br/>all his friends.
+2232|lk|King Simba the doubtful...
+2233|lk|Worried by a silly ol´ ghost...
+2234|lk|Ooh, Simba the do-nothing king...
+2235|lk|No!
+2236|lk|Try and stop me!
+2237|lk|You did it!<br/>The ghost is gone!
+2238|lk|We knew you could do it!
+2239|lk|Hooray for Simba!
+223A|lk|
+223B|lk|You know, I´m really lucky to have friends<br/>who´ll stand by me...{:delay DC 00}{:clear }and help me see clearly.
+223C|lk|My father...wasn´t so fortunate.
+223D|lk|There you go again.
+223E|lk|I mean...
+223F|lk|Everyone here, and in the Pride Lands,<br/>wants me to succeed.
+2240|lk|Sora, Donald and Goofy.<br/>Pumbaa, Timon, Rafiki...Nala.
+2241|lk|You all want what´s best for me.{:delay 96 00}{:clear }But my father always had Scar lurking<br/>behind his back, trying to cut him down.
+2242|lk|I´ve got to make the most of my<br/>blessings, and rebuild this kingdom.
+2243|lk|Are you gonna say it, or do it?
+2244|lk|Wait and see.
+2245|lk|Simba!
+2246|lk|Simba! Come quick!{:delay 64 00}{:clear }There´s a bazillion ghosts of Scar<br/>haunting the Pride Lands!
+2247|lk|Everybody but Nala high-tailed it outta there.<br/>And now she needs your help.
+2248|lk|Our little Simba...all grown up and<br/>finding his place in the world...
+2249|lk|Nice try. You´re coming, too!
+224A|lk|We´re here!
+224B|lk|Where´s Simba?
+224C|lk|I´ve come back, Nala.
+224D|lk|Get out!
+224E|lk|Way to go, Simba!
+224F|lk|Are you with me?
+2250|lk|Now and forever, Your Majesty!
+2251|lk|Ha! The king has returned!
+2252|lk|The Pride Lands will not forget<br/>King Simba´s courage.{:delay C8 00}{:clear }Or the courage of those<br/>who fought beside him.
+2253|lk|Do you think your quest will ever be over?
+2254|lk|I don´t know...
+2255|lk|But I think, as long as the Keyblade<br/>stays with me... {:delay C8 00}{:clear }I´ll have to keep fighting.
+2256|lk|Ahh... The struggle never ends.<br/>That is the great Circle of Life.
+2257|lk|Never ever?
+2258|lk|The secret to victory...
+2259|lk|...is a strong heart.
+225A|lk|Go on, go on, go--go then!{:delay 72 00}{:clear }{:delay AE 00}Go on, get out! Yes, yes!
+225B|lk|It is time! Your fight continues...
+225C|lk|Till we meet again, Your Majesty.
+225D|lk|I hope that´s soon.
+225E|lk|It will be! So long!
+225F|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+2260|lm|{:unk13 FA 00 90 01}Let the music move you! You can do it!
+2261|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Don´t be shy, let the music inside{:unk0e 00}
+2262|lm|{:unk13 FA 00 90 01}{:unk0e 0A}And dance, dance, dance!{:unk0e 00}
+2263|lm|{:unk13 FA 00 90 01}See, you can do it!
+2264|lm|{:unk13 FA 00 90 01}Don´t worry, shake it off!
+2265|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+2266|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+2267|lm|{:unk13 FA 00 90 01}Watch the stage, now! How exciting!
+2268|lm|{:unk13 FA 00 90 01}{:unk0e 0A}See the sign? Can you reach it in time{:unk0e 00}
+2269|lm|{:unk13 FA 00 90 01}{:unk0e 0A}And tap, tap, tap?{:unk0e 00}
+226A|lm|{:unk13 FA 00 90 01}Yeah, that´s it, mon!
+226B|lm|{:unk13 FA 00 90 01}Don´t worry, you´ll get the next one!
+226C|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+226D|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+226E|lm|{:unk13 FA 00 90 01}And if you can´t reach the target, use magic!
+226F|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s all the same, if you´ve got steady aim{:unk0e 00}
+2270|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Just zap, zap, zap!{:unk0e 00}
+2271|lm|{:unk13 FA 00 90 01}There, you got the rhythm now!
+2272|lm|{:unk13 FA 00 90 01}Oops! Almost got it.
+2273|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+2274|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+2275|lm|{:unk13 FA 00 90 01}It´s not over yet! You can do it--keep going!
+2276|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+2277|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+2278|lm|{:unk13 FA 00 90 01}Now, what about the bubbles?
+2279|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Just a touch, ´cause it won´t take too much{:unk0e 00}
+227A|lm|{:unk13 FA 00 90 01}{:unk0e 0A}To pop, pop, pop!{:unk0e 00}
+227B|lm|{:unk13 FA 00 90 01}Ha ha! On to the next one!
+227C|lm|{:unk13 FA 00 90 01}Hmm...maybe that was a little rough.
+227D|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+227E|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+227F|lm|{:unk13 FA 00 90 01}Drum solo! Here´s the sign.<br/>Give him the cue!
+2280|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Count him in so he´ll know to begin{:unk0e 00}
+2281|lm|{:unk13 FA 00 90 01}{:unk0e 0A}To drum, drum, drum!{:unk0e 00}
+2282|lm|{:unk13 FA 00 90 01}Now the cues are up to you.
+2283|lm|{:unk13 FA 00 90 01}Mistakes don´t matter. Try again!
+2284|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+2285|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+2286|lm|{:unk13 FA 00 90 01}Here´s your big moment! Make ´em cheer!
+2287|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Don´t dilly-dally, it´s your big finale{:unk0e 00}
+2288|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Sha-la-la!{:unk0e 00}
+2289|lm|{:unk13 FA 00 90 01}You made quite a splash!<br/>That was fantastic!
+228A|lm|{:unk13 FA 00 90 01}Not quite, but very close,<br/>and still so fun.
+228B|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim this way, we´ll dance and we´ll play now{:unk0e 00}
+228C|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s very easy, come on in<br/>Just take a chance and shake a fin{:unk0e 00}
+228D|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Swim along, just join in the song{:unk0e 00}
+228E|lm|{:unk13 FA 00 90 01}{:unk0e 0A}A musical for everyone<br/>to have a lot of finny fun.{:unk0e 00}
+228F|sys|Hammer Staff
+2290|sys|A staff used for its strength.
+2291|sys|Victory Bell
+2292|sys|A staff used to increase strength.<br/>Also increases magic.
+2293|sys|Meteor Staff
+2294|sys|A staff of great strength that increases<br/>magic. Increases damage done with<br/>thunder-based attacks by {:color #F0F00080}20%{:reset}.
+2295|sys|Comet Staff
+2296|sys|A staff used for its strength and<br/>magic, inspired by the stars.
+2297|sys|Lord´s Broom
+2298|sys|A staff used to increase strength<br/>and magic.
+2299|sys|Wisdom Wand
+229A|sys|A staff with great magic and strength.<br/>
+229B|sys|Rising Dragon
+229C|sys|A staff with great strength and magic.<br/>Increases damage done with fire-based<br/>attacks by {:color #F0F00080}20%{:reset}.
+229D|sys|Nobody Lance
+229E|sys|A lance with great strength and magic.<br/>Increases the effect of restoration<br/>items used on the field by {:color #F0F00080}50%{:reset}.
+229F|sys|Shaman´s Relic
+22A0|sys|A staff with great magic and strength.<br/>Increases damage done with ice-based<br/>attacks by {:color #F0F00080}20%{:reset}.
+22A3|lm|So help me Ariel, I am going<br/>to get through to you.
+22A5|sys|Buy Tickets
+22A6|sys|Touch The Light
+22A7|sys|Learn The Rules
+22A8|sys|Approach
+22A9|sys|{:width 90}Examine The Table
+22AA|sys|{:width 80}Listen to the story
+22AB|sys|Approach
+22AC|sys|Touch The Beam
+22AD|sys|Isla de Muerta: Treasure Heap
+22BC|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Wouldn´t you think my collection´s complete?{:unk0e 00}
+22BD|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Wouldn´t you think I´m the girl...{:unk0e 00}
+22BE|lm|{:unk13 FA 00 90 01}{:unk0e 0A}The girl who has everything?{:unk0e 00}
+22BF|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Look at this trove, treasures untold.{:unk0e 00}
+22C0|lm|{:unk13 FA 00 90 01}{:unk0e 0A}How many wonders can one cavern hold?{:unk0e 00}
+22C1|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Looking around here<br/>you´d think...{:unk0e 00}{:delay 9C 00}{:clear }{:unk0e 0A}"Sure, {:unk0e 00}
+22C2|lm|{:unk13 FA 00 90 01}{:unk0e 0A}she´s got everything."{:unk0e 00}
+22C3|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I´ve got gadgets and gizmos aplenty.{:unk0e 00}
+22C4|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I´ve got whozits and whatzits galore.{:unk0e 00}
+22C5|lm|{:unk13 FA 00 90 01}You want thingamabobs?
+22C6|lm|{:unk13 FA 00 90 01}I got twenty.
+22C7|lm|{:unk13 FA 00 90 01}{:unk0e 0A}But who cares? No big deal. {:unk0e 00}
+22C8|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I want more.{:unk0e 00}
+22C9|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I wanna be where the people are.{:unk0e 00}
+22CA|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I wanna see...wanna see 'em dancing,{:unk0e 00}
+22CB|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Walking around on those{:delay 91 00}{:clear }What do you call ´em?{:unk0e 00}
+22CD|lm|{:unk13 FA 00 90 01}Oh, "feet."
+22CE|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Up where they walk, up where they run...{:unk0e 00}
+22CF|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Up where they stay all day in the sun,{:unk0e 00}
+22D0|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Wandering free, wish I could be...{:unk0e 00}
+22D1|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Part of that world.{:unk0e 00}
+22D2|lm|{:unk13 FA 00 90 01}{:unk0e 0A}upon the sea{:unk0e 00}
+22D3|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Triton can´t be rid of me{:unk0e 00}
+22D4|lm|{:unk13 FA 00 90 01}{:unk0e 0A}not that easily{:unk0e 00}
+22D5|lm|{:unk13 FA 00 90 01}{:unk0e 0A}And like all who dare defy me,{:unk0e 00}
+22D6|lm|{:unk13 FA 00 90 01}{:unk0e 0A}he will learn his lesson well:{:unk0e 00}
+22D7|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Never toy with a girl like me{:unk0e 00}
+22D8|lm|{:unk13 FA 00 90 01}You got what you deserved!
+22D9|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Flotsam and Jetsam!{:unk0e 00}
+22DA|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Loyal darlings, strong as the tide{:unk0e 00}
+22DB|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Sweetest poopsies, hasten to my side{:unk0e 00}
+22DC|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Right now! Mommy needs you.{:unk0e 00}{:delay DB 00}{:clear }{:unk0e 0A}Crush those stupid fools,{:unk0e 00}
+22DD|lm|{:unk13 FA 00 90 01}I don´t think so!
+22DE|lm|{:unk13 FA 00 90 01}All right!
+22DF|lm|{:unk13 FA 00 90 01}{:unk0e 0A}What a feeble human.<br/>No, I can´t believe my eyes
+22E0|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Such a stubborn royal<br/>who is fighting for his prize{:unk0e 00}
+22E1|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Without your precious mermaid<br/>now you´re crazy with revenge{:unk0e 00}
+22E2|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I suppose I sympathize{:unk0e 00}
+22E3|lm|{:unk13 FA 00 90 01}I´m not gonna lose her!
+22E4|lm|{:unk13 FA 00 90 01}Right! We´re with you all the way!
+22E5|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Flotsam and Jetsam!{:unk0e 00}
+22E6|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Loyal darlings,{:unk0e 00}
+22E7|lm|{:unk13 FA 00 90 01}{:unk0e 0A}strong as the tide{:unk0e 00}
+22E8|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Sweetest poopsies,{:unk0e 00}
+22E9|lm|{:unk13 FA 00 90 01}{:unk0e 0A}hasten to my side{:unk0e 00}
+22EA|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Right now! Mommy needs you.{:unk0e 00}{:delay DB 00}{:clear }{:unk0e 0A}Smash those stupid fools, make them writhe!{:unk0e 00}
+22EB|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Smash those stupid fools, make them writhe!{:unk0e 00}
+22EC|lm|{:unk13 FA 00 90 01}Sorry, "Mommy"...
+22ED|lm|{:unk13 FA 00 90 01}{:unk0e 0A}happy age of new beginnings.{:unk0e 00}
+22EE|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Land and sea have come together,{:unk0e 00}
+22EF|lm|{:unk13 FA 00 90 01}{:unk0e 0A}joined in peace and harmony{:unk0e 00}
+22F0|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Fairy tales and miracles {:unk0e 00}
+22F1|lm|{:unk13 FA 00 90 01}{:unk0e 0A}are what we´re singing of:{:unk0e 00}
+22F2|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Our dear princess, Ariel,{:unk0e 00}
+22F3|lm|{:unk13 FA 00 90 01}{:unk0e 0A}truly fell in love{:unk0e 00}
+22F4|lm|{:unk13 FA 00 90 01}{:unk0e 0A}With a prince, a human prince{:unk0e 00}
+22F5|lm|{:unk13 FA 00 90 01}{:unk0e 0A}who lived so far above{:unk0e 00}
+22F6|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Wishes really can come true{:unk0e 00}
+22F7|lm|{:unk13 FA 00 90 01}{:unk0e 0A}if you want them to{:unk0e 00}
+22F8|lm|{:unk13 FA 00 90 01}{:unk0e 0A}And this happiness inside{:unk0e 00}
+22F9|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I owe to ev´ry{:unk0e 00}
+22FA|lm|{:unk13 FA 00 90 01}{:unk0e 0A}How about you introduce us{:unk0e 00}
+22FB|lm|{:unk13 FA 00 90 01}{:unk0e 0A}to these lovely friends of yours?{:unk0e 00}
+22FC|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Come take a bow: Donald{:unk0e 00}
+22FD|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Goofy, and Sora{:unk0e 00}
+22FE|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Congratulations,{:unk0e 00}
+22FF|lm|{:unk13 FA 00 90 01}{:unk0e 0A}dear princess, to you{:unk0e 00}
+2300|lm|{:unk13 FA 00 90 01}{:unk0e 0A}You found your first love{:unk0e 00}
+2301|lm|{:unk13 FA 00 90 01}{:unk0e 0A}and he found you, too{:unk0e 00}
+2302|lm|{:unk13 FA 00 90 01}{:unk0e 0A}We were glad to help you out{:unk0e 00}
+2303|lm|{:unk13 FA 00 90 01}{:unk0e 0A}and very proud, it´s true{:unk0e 00}
+2304|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Seeing how we made you grin{:unk0e 00}
+2305|lm|{:unk13 FA 00 90 01}{:unk0e 0A}just makes us want to twirl a fin{:unk0e 00}
+2306|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Wishes really can come true,{:unk0e 00}
+2307|lm|{:unk13 FA 00 90 01}{:unk0e 0A}if you want them to{:unk0e 00}
+2308|lm|{:unk13 FA 00 90 01}{:unk0e 0A}And this happiness inside{:unk0e 00}
+2309|lm|{:unk13 FA 00 90 01}{:unk0e 0A}I owe to ev´ry one of you{:unk0e 00}
+230A|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Be so kind to introduce{:unk0e 00}
+230B|lm|{:unk13 FA 00 90 01}{:unk0e 0A}the King, and these his loyal friends{:unk0e 00}
+230C|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Please say hello: Daddy{:unk0e 00}
+230D|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Sebastian, Flounder{:unk0e 00}
+230E|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Ariel, I´m so happy for you{:unk0e 00}
+230F|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Yes, happy endings are so rare and so few{:unk0e 00}
+2310|lm|{:unk13 FA 00 90 01}{:unk0e 0A}We were glad to help, and{:unk0e 00}
+2311|lm|{:unk13 FA 00 90 01}{:unk0e 0A}very proud, it´s true{:unk0e 00}
+2312|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Seeing how we made you grin<br/>just makes us want to twirl a fin{:unk0e 00}
+2313|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Any other friends of yours{:unk0e 00}
+2314|lm|{:unk13 FA 00 90 01}{:unk0e 0A}that might be waiting in the wings?{:unk0e 00}
+2315|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Come say hello:<br/>All my friends{:unk0e 00}
+2316|lm|{:unk13 FA 00 90 01}{:unk0e 0A}from ev´ry corner{:unk0e 00}
+2317|lm|{:unk13 FA 00 90 01}{:unk0e 0A}of the world{:unk0e 00}
+2318|lm|{:unk13 FA 00 90 01}{:unk0e 0A}A new day is dawning{:unk0e 00}
+2319|lm|{:unk13 FA 00 90 01}{:unk0e 0A}on a happy age of new beginnings{:unk0e 00}
+231A|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Land and sea have come together{:unk0e 00}
+231B|lm|{:unk13 FA 00 90 01}{:unk0e 0A}joined in peace and harmony{:unk0e 00}
+231C|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Fairy tales and miracles{:unk0e 00}
+231D|lm|{:unk13 FA 00 90 01}{:unk0e 0A}are what we´re singing of:{:unk0e 00}
+231E|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Our dear princess, Ariel,<br/>Prince Eric from above{:unk0e 00}
+2321|sys|Enter Password
+2323|sys|Key Counter
+2324|sys|Lunarsault
+2325|sys|Break Raid
+2326|hb|The computer room´s through here.{:clear }Computers are delicate. It´s okay to<br/>touch them, but don´t goof around.
+2327|hb|If she keeps that up, she´ll destroy the<br/>study before we find the password.{:clear }Sorry, Sora, but keep an eye on<br/>that girl.
+2328|hb|Leave this to us. You just concentrate on<br/>the data.{:clear }Use that password and work with Tron to<br/>free that DTD data.
+2329|hb|Help {:theme 0A}Tron {:reset}until the<br/>program´s done.{:clear }Don´t worry,<br/>I´ll handle things here.
+232A|hb|Finding Ansem´s research data will have<br/>to come first.{:clear }I´ll explain everything later.<br/>Please be careful.
+232B|hb|{:theme 0A}The computer´s up ahead.{:reset}{:clear }The way gets a bit tricky inside.<br/>If you get lost, just walk along the wall.
+232C|hb|Have you seen someone with a big sword?<br/>No, he doesn´t have a scar on his face.{:clear }He has strangely colored eyes,<br/>and tries to take everything upon himself.
+232D|hb|Leon and the others are in the borough.<br/>They went to Merlin´s house.
+232E|hb|That sea salt ice cream's good, isn't it?<br/>But now's no time to be eating ice cream!{:clear }Go help Leon and the others.<br/>Don't expect a reward, though.
+232F|hb|Tell me if you come across a man with long,<br/>silver hair and a long blade.{:clear }His name is Sephiroth.<br/>He is my darkest enemy.
+2330|hb|Hm... It seems your clothes are designed to<br/>gather energy when you use up your magic.{:clear }In that case, don´t hold back, since your<br/>magic will recover with time.
+2331|hb|That MCP thingy set the town´s<br/>defense devices to attack us.{:clear }We can´t fight back, so if you get close to<br/>them you´ll just have to dodge their attacks.
+2332|hb|It´ll take awhile, but so long as we keep<br/>at it, this world will return to normal.{:clear }You´re free to go your own way now.<br/>Be careful, Sora.
+2333|hb|Have you seen the town´s defense<br/>devices? They´re called Claymores.{:clear }They´re not as powerful as you,<br/>but depending on how you use them,{:clear }they can really help.
+2334|hb|You can get to the computer room from<br/>the {:theme 0A}postern{:reset}. Watch your backs.
+2335|hb|Sorry, but I need a little more time to<br/>complete the MCP Eradication program.{:clear }In the meantime, go help Tron from the<br/>{:theme 0A}computer room{:reset}.
+2336|hb|Leon went to the bailey. Don´t make him<br/>wait too long, okay?
+2337|hb|If you go to the right from here and climb<br/>the stairs, you´ll arrive at the bailey.{:clear }There are Heartless roaming about, so<br/>prepare yourselves at the marketplace.
+2338|hb|Like I said before, this town is equipped with<br/>defense devices.{:clear }They can be helpful. Fighting alongside them<br/>should make it easier for you.
+2339|hb|We're monitors of the Heartless!{:clear }As such, we place you in charge of<br/>attacking them! Good luck! ♪
+233A|hb|The MCP is using the Heartless<br/>manufacturing machine in the study.{:clear }It´s also taken over the town´s defense<br/>system. Apparently it´s getting serious.
+233B|hb|I know you´re good friends with Pooh.{:clear }We really should wait for Merlin,<br/>but I´d like to check on Pooh. Oh...
+233C|sys|Rising Sun
+26B3|jm|Twilight Town
+26B4|jm|Hollow Bastion
+26B5|jm|Beast´s Castle
+26B6|jm|Olympus Coliseum
+26B7|jm|Agrabah
+26B8|jm|The Land Of Dragons
+26B9|jm|100 Acre Wood
+26BA|jm|Pride Lands
+26BB|jm|Atlantica
+26BC|jm|Disney Castle
+26BD|jm|Timeless River
+26BE|jm|Halloween Town
+26BF|jm|Port Royal
+26C0|jm|Space Paranoids
+26C1|jm|The World That Never Was
+26C2|jm|Collection
+26C3|jm|Other
+26C4|jm|Heartless
+26C5|jm|Nobody
+26C6|jm|Radiant Garden
+26C7|ca|A Heartless is trying to blow up a barrel!
+26C8|sys|Duel Stance
+26C9|sys|The End
+26CD|sys|Fail-Safe
+26CE|sys|Scapegoat
+26CF|ca|Retrieve the medallion before the Nobody escapes!
+26D0|ca|Retrieve the medallion from the Nobody in hiding!
+26D1|ca|The Nobody will appear once all the pirates have been defeated!
+26D2|ca|Find the Nobody hiding in the dark and retrieve the medallion!
+26D3|ca|Retrieve the medallion before the Nobody escapes!
+26D4|ca|Retrieve the medallion before the Nobody escapes!
+26D9|sys|Jump!
+26DA|ca|Wow!
+26DB|ca|This place is...
+26DC|ca|Kinda different.
+26DD|ca|Something´s up.
+26DE|ca|Organization {XIII}?
+26DF|ca|Or the Heartless!
+26E0|ca|Only one way to find out.
+26E1|ca|Aztec treasure, eh?
+26E2|ca|Aye! And thanks to the<br/>curse put on it,{:delay BE 00}{:clear }we are neither among the<br/>livin´ nor the dead.
+26E3|ca|Really? ´Cause ya look like<br/>regular pirates to me.
+26E5|ca|Whoa! Now I get what you were sayin´...
+26E6|ca|Well, if you see two doofuses and a<br/>brat holdin´ a Keyblade, steer clear. {:delay 72 01}{:clear }They got a kinda magic that don´t<br/>belong in this world, see?{:delay F6 00}{:clear }And nobody knows what<br/>it´d do to ya.{:delay C6 00}{:clear }´Specially when the moon´s<br/>showing whatcha really are.
+26E7|ca|A match for Barbossa, you say?
+26E8|ca|Hey!
+26E9|ca|See there? I knew it!{:delay AE 00}{:clear }Those are the punks I<br/>was tellin´ ya about.
+26EA|ca|Who´re you calling punks? It´s Sora, Donald,<br/>and Goofy to you! And don´t you forget it!
+26EB|ca|That we won´t. And we´ll engrave<br/>it on your tombstone, to be sure.
+26EC|ca|Whoa! I like your style.
+26ED|ca|Men--half of you stay here<br/>and indulge these cullies.{:delay AE 00}{:clear }The rest--bring me that medallion!
+26EE|ca|Aye!
+26EF|ca|Aw, we only get to stomp on a few of you?
+26F0|ca|It´s no use! We can´t beat them!
+26F1|ca|Aye, whaddya expect?
+26F3|ca|You best be sayin´ your prayers!
+26F4|ca|Hey, watch out! They can see ya!{:delay 80 00}{:clear }Stay away from their magic!
+26F5|ca|What for?
+26F6|ca|Weren´t you listenin´ to me before?
+26F7|ca|Hey, Pete, thanks for the tip!
+26F8|ca|{:unk13 1C 01 4E 00}{:unk08 01 01 06}Hey! This ain´t over!
+26F9|ca|{:unk13 45 01 C6 00}{:unk08 01 00 01}If Pete´s here, that must<br/>mean we have work to do.
+26FA|ca|{:unk13 54 01 0E 01}{:unk08 01 00 02}Yep.{:clear }And that pirate captain<br/>looked pretty mean, too.
+26FB|ca|{:unk13 45 01 C6 00}{:unk08 01 00 01}Man, I´d hate to see him<br/>turn into a Heartless.
+26FC|ca|{:unk13 C8 00 AF 00}{:unk08 01 00 05}Well, we ARE here...
+26FD|ca|{:unk13 AB 00 39 00}{:unk08 01 01 07}Hey, maybe we can take a<br/>pirate ship out for a spin!
+26FE|ca|{:unk13 C5 00 37 00}{:unk08 01 01 07}Just kidding!{:clear }Weren´t those guys<br/>headed into town?
+26FF|ca|{:unk13 24 01 E6 00}{:unk08 01 00 01}Yeah. I think they were<br/>looking for treasure.
+2700|ca|Where are you taking me!? Let me go!
+2701|ca|Elizabeth!
+2702|ca|Stop!
+2703|ca|What are they?
+2704|ca|It´s the Heartless! Watch out!
+2705|ca|We´ll deal with them!
+2706|ca|Go! Take cover!
+2707|ca|{:unk13 B1 00 39 00}{:unk08 01 01 07}Well done!{:clear }My own fencing skills are<br/>not to be ashamed of...{:clear }but I´ve never faced<br/>foes such as that before.
+2708|ca|{:unk13 C8 00 EC 00}{:unk08 01 00 01}You really think we´re that good?
+2709|ca|{:unk13 16 01 F6 00}{:unk08 01 00 01}Did you find your friend?
+270A|ca|{:unk13 D5 00 39 00}{:unk08 01 01 07}I was too late. But<br/>I must rescue her!{:clear }Would you<br/>help me?
+270C|ca|{:unk13 C2 00 39 00}{:unk08 01 01 07}And I´m William Turner,<br/>but call me Will.
+270D|ca|{:unk13 BF 00 F5 00}{:unk08 01 00 01}Okay, Will.<br/>Let´s go!
+270E|ca|{:unk13 D9 00 39 00}{:unk08 01 01 07}Right. We´ve got to<br/>get to the docks!
+270F|ca|We´re too late!
+2710|ca|Huh?
+2711|ca|Those pirates kidnapped Miss Swann<br/>and took her to their ship.{:delay B4 00}{:clear } {:delay 35 00}{:clear }Now they´ve sailed, and I´ll<br/>never be able to find her!
+2712|ca|Then she´s long gone.<br/>The Black Pearl is nigh uncatchable.
+2713|ca|Best find yourself<br/>another girl, mate.
+2714|ca|You... What are you doing<br/>aboard the Interceptor?{:delay AE 00}{:clear } {:delay 39 00}{:clear }She´s off limits to civilians.
+2715|ca|Ah, fortunate that I´m going<br/>to commandeer her, then.{:delay BE 00}{:clear }She´ll make a fine<br/>pirate ship.
+2716|ca|A pirate!
+2717|ca|Captain Jack Sparrow, if you please.
+2718|ca|Take me with you. Help me hunt down<br/>the Black Pearl and save Miss Swann.{:delay EA 00}{:clear } {:delay 3A 00}{:clear }I got you out of that jail cell, Sparrow.<br/>Do this and your debt´s repaid.
+2719|ca|You´ll have to win fair<br/>lady´s heart alone, mate.{:delay 9D 00}{:clear }I see no profit in it for me.
+271A|ca|C´mon, Captain!
+271B|ca|Are you sure you can sail<br/>her, all on your own?
+271C|ca|You´ve a point there.
+271D|ca|Thanks, Sparrow.
+271E|ca|CAPTAIN Sparrow.
+271F|ca|I´m Sora. This is Donald and Goofy.
+2720|ca|I´m Will Turner.
+2721|ca|That would be short for<br/>William, I imagine.{:delay 89 00}{:clear }No doubt named for your father, eh?
+2722|ca|Yes.
+2723|ca|Well, then, Mr. Turner.{:delay 60 00}{:clear }You get us ready to make way.<br/>I´ve some effects to liberate.
+2724|ca|Aye aye! But hurry.
+2725|ca|Naturally.
+2726|ca|Sora...
+2727|ca|You really wanna be a pirate?
+2728|ca|Of course not!
+2729|ca|What do you make of this Will?
+272A|ca|I don´t know. We just met him.
+272B|ca|Hmm... I think my luck´s<br/>about to change.
+272C|ca|{:unk13 01 01 D1 00}{:unk08 01 00 05}Shall we be on our way?
+272D|ca|You can release me.{:delay 5A 00}{:clear } {:delay 39 00}{:clear }You have your trinket; I´m<br/>of no further value to you.
+272E|ca|This is no trinket, missy.<br/>This is cursed Aztec gold.{:delay 5C 01}{:clear }One of eight hundred and eighty-two identical<br/>pieces they delivered in a stone chest{:delay FC 00}{:clear }to Cortez himself.
+272F|ca|I hardly believe in ghost stories<br/>anymore, Captain Barbossa.
+2730|ca|That´s exactly what I thought.{:delay 77 00}{:clear }Buried on an Island of Dead<br/>what cannot be found{:delay A5 00}{:clear }´cept for those who know<br/>where it is.{:delay A5 00}{:clear }Find it, we did.{:delay 66 00}{:clear }There be the chest. Inside be the gold.<br/>And we took ´em all!{:delay 14 01}{:clear }We spent ´em and traded ´em and frittered<br/>´em away on drink and food and{:delay 14 01}{:clear }pleasurable company.{:delay 72 00}{:clear }The more we gave ´em away,<br/>the more we came to realize...{:delay 0B 01}{:clear }the drink would not satisfy,{:delay 8A 00}{:clear }and food turned to ash in our mouths.{:delay EA 00}{:clear }We are cursed men, Miss Turner.<br/>Compelled by greed, we were,{:delay FC 00}{:clear }but now...<br/>we are consumed by it.
+2731|ca|How very sad for you.
+2732|ca|{:delay 78 00}{:clear }There is one way we can end our curse.{:delay C1 00}{:clear }All the scattered pieces of the Aztec gold must<br/>be gathered and restored to the stone chest.{:delay 64 01}{:clear }And the blood of every soul who touched<br/>a piece o´ the treasure must be repaid.
+2733|ca|Miss Turner! For ten years we´ve searched<br/>every league of these waters,{:delay 50 01}{:clear }every town and village--preying<br/>on sailors and settlers alike!{:delay 4A 01}{:clear }Eight hundred and eighty-one pieces we found,<br/>but despaired of ever finding the last.{:delay 86 01}{:clear }All those years, you been safe in your bed,{:delay D8 00}{:clear }readin´ your pirate stories,<br/>dreamin´ of adventures on the high seas--{:delay 32 01}{:clear }we´ve endured torments<br/>worse than death itself!
+2734|ca|But now, thanks to ye,{:delay B4 00}{:clear }we have the final piece--<br/>at last.{:delay 14 01}{:clear }When this medallion is restored to the chest,<br/>we´ll be free to roam the seas as men.{:delay 92 01}{:clear }No longer will we be ghosts!
+2735|ca|And the blood that´s to be repaid?
+2736|ca|That´s why there´s no sense<br/>to be killin´ ye...yet.
+2737|ca|Ye see, the moonlight shows<br/>us for what we really are.{:delay 68 01}{:clear }We are not among the livin´,<br/>and so we cannot die.{:delay 3E 01}{:clear }But neither are we dead.{:delay CC 00}{:clear }I´ve suffered too long!
+2738|ca|You´d best start believin´ in<br/>ghost stories, Miss Turner.{:delay 3B 01}{:clear }For, you see, tonight--you´re in one!
+2739|ca|{:unk13 F2 00 9F 00}{:unk08 01 00 05}Why are you so fixated<br/>on that compass?
+273A|ca|{:unk13 6F 01 17 01}{:unk08 01 00 01}It´ll be she that leads<br/>us to the Isla de<br/>Muerta--{:clear }where Barbossa´s<br/>headed. Savvy?
+273B|ca|{:unk13 1E 01 90 00}{:unk08 01 01 06}How do you know?
+273C|ca|{:unk13 A4 00 DA 00}{:unk08 01 01 01}Ah, lad...{:clear }He and I once had our eyes<br/>on a treasure--Aztec gold.{:clear }´Twas hidden on the<br/>Isla de Muerta.{:clear }But he turned traitor<br/>and stole my ship.
+273D|ca|{:unk13 7A 01 99 00}{:unk08 01 00 01}So he´s after that<br/>treasure, then.
+273E|ca|{:unk13 B4 00 FC 00}{:unk08 01 00 02}Treasure´s<br/>already his.{:clear }So´s the curse upon it.{:clear }I´ve no desire for such<br/>treacherous spoils.{:clear }But I will have back<br/>what´s mine--{:clear }the Black Pearl.
+273F|ca|{:unk13 3D 01 FA 00}{:unk08 01 01 01}You lads<br/>wait here.{:clear }Young Turner and I<br/>will rescue the lady.
+2740|ca|{:unk13 B7 00 34 00}{:unk08 01 00 05}Hey! What about us?
+2741|ca|{:unk13 3D 01 FA 00}{:unk08 01 01 01}You´re to guard the<br/>ship, o´ course.{:clear }It´s a task given only<br/>to the bravest pirates.
+2742|ca|{:unk13 A3 00 36 00}{:unk08 01 00 05}All right...
+2743|ca|{:unk13 20 01 E2 00}{:unk08 01 01 02}Guard her well!
+2744|ca|{:unk13 F7 00 A7 00}{:unk08 01 00 01}Shall we?
+2745|ca|{:unk13 0E 01 39 00}{:unk08 01 00 05}I think he was just<br/>trying to fast-talk us...
+2746|ca|{:unk13 1B 01 A6 00}{:unk08 01 00 05}And you fell for it.
+2747|ca|{:unk13 E1 00 2C 00}{:unk08 01 00 05}What´s keeping those two?
+2748|ca|{:unk13 0C 01 3F 00}{:unk08 01 01 06}They sure are taking their time...
+2749|ca|{:unk13 4D 01 39 00}{:unk08 01 00 04}If Pete´s hanging around, there<br/>must be Heartless here, too.{:clear }And Jack and Will aren´t used<br/>to fighting Heartless...
+274A|ca|{:unk13 D6 00 2C 00}{:unk08 01 00 05}Let´s go see.
+274B|ca|Every last piece that went astray<br/>we have returned, save for this!
+274C|ca|And now, the blood will be repaid to<br/>free us from this curse forever!
+274D|ca|Quick, they´re after us!
+274E|ca|We´ll hold them off! Give us a sign<br/>when the ship´s ready to sail!
+274F|ca|Right! We´ll light the signal fire!
+2750|ca|The signal!
+2751|ca|{:unk13 DD 00 74 00}{:unk08 01 01 06}Where´s Jack?
+2752|ca|{:unk13 C4 00 85 00}{:unk08 01 00 05}Well...
+2753|ca|And now, the blood will be repaid to<br/>free us from this curse forever!
+2754|ca|No! Not yet.{:delay 47 00}{:clear } {:delay 44 00}{:clear }We wait for the opportune moment.
+2755|ca|When it´s of greatest profit to you?
+2756|ca|May I ask you something?
+2757|ca|Have I ever given you<br/>reason not to trust me?{:delay 91 00}{:clear }Stay here...<br/>and try not to do anything stupid.
+2758|ca|Begun by blood...by blood undone.
+2759|ca|You! Maid! Your father.<br/>Was your father William Turner!?
+275A|ca|No.
+275B|ca|What´s going on?
+275C|ca|Who brought this wench to us?
+275D|ca|She said her name was Turner!
+275E|ca|Hurry!
+275F|ca|You there!
+2760|ca|The medallion!
+2761|ca|After them, you ingrates!
+2762|ca|{:unk13 0A 01 39 00}{:unk08 01 00 05}I had to.{:clear }Jack´s no fairy-tale<br/>pirate. {:clear }The real ones aren´t<br/>to be trusted.
+2763|ca|{:unk13 11 01 39 00}{:unk08 01 00 05}We sail for Port Royal.<br/>I´ll take the helm.
+2764|ca|Is it true? You gave Barbossa<br/>my name instead of yours.
+2765|ca|Why choose my name?
+2766|ca|I don´t know.
+2767|ca|Elizabeth...where did you get that?
+2768|ca|It´s yours. From that day we<br/>found you--drifting at sea.
+2769|ca|After all this time...{:delay 3C 00}{:clear } {:delay 58 00}{:clear }I thought I´d lost it.{:delay 66 00}{:clear } {:delay 75 00}{:clear }It was a gift from my father...<br/>he sent it to me.
+276A|ca|I´m sorry.
+276B|ca|Why did you take it?
+276C|ca|Because I was afraid<br/>that you were a pirate.{:delay 12 01}{:clear }That would have been awful.
+276D|ca|Of course...{:delay 94 00}{:clear }Don´t you see?{:delay 2A 00}{:clear } {:delay 85 00}{:clear }It wasn´t your blood they needed...<br/>it was my father´s blood--
+276E|ca|My blood.{:delay BE 00}{:clear }The blood...{:delay 3C 00}{:clear } {:delay BA 00}{:clear }of a pirate.
+276F|ca|How the blazes did you get<br/>off that island, Jack?
+2770|ca|When you sailed away in my ship and marooned<br/>me on that godforsaken spit of land, {:delay 4A 01}{:clear }with naught but a pistol and a single shot,{:delay B0 00}{:clear }you forgot one very important thing, mate.{:delay AA 00}{:clear }I´m Captain Jack Sparrow.
+2771|ca|I won´t be makin´ that mistake again.
+2772|ca|Then what say you to puttin´ the past behind us,{:delay B1 00}{:clear }untying these ropes, and letting me negotiate<br/>the return of your medallion, eh?{:delay 0B 01}{:clear }What say you to that?
+2773|ca|Seein´ as how the Black Pearl´s mine now, Jack,{:delay DE 00}{:clear }lettin´ you go doesn´t seem<br/>to fall within my interest.
+2774|ca|Odd, {:delay 36 00}{:clear }I´m not actually concerned<br/>with YOUR INTEREST.{:delay C8 00}{:clear }Give me back the Pearl!
+2776|ca|All right! Lock him in the brig!
+2777|ca|We´re comin´ up on<br/>the Interceptor.{:delay 6F 00}{:clear }What do we do, Captain?
+2778|ca|Whaddya think, you idiot?
+2779|ca|Hooray!
+277A|ca|We beat the pirates!
+277B|ca|Well, did you now, laddie?
+277C|ca|Jack!
+277D|ca|
+277E|ca|Now then, I´ll be having<br/>back that medallion.
+277F|ca|Unless it´s more important than their lives?
+2780|ca|Barbossa!
+2781|ca|She goes free!
+2782|ca|Go ahead, boy--shoot! We can't die.
+2783|ca|You can´t...{:delay 3C 00}{:clear } {:delay A8 00}{:clear }But I can.
+2784|ca|My name is Will Turner!{:delay 78 00}{:clear }My father was Bootstrap Bill Turner!<br/>His blood runs in my veins!
+2785|ca|On my word, do as I say,{:delay 74 00}{:clear }or I'll pull this trigger and be<br/>lost to Davy Jones's locker.
+2786|ca|Name your terms...Mr. Turner.
+2787|ca|Release Elizabeth...and Sora, and Donald,{:delay A4 00}{:clear }and Goofy, too!
+2788|ca|Anythin´ else?
+2789|ca|Leave--now!
+278A|ca|Agreed. Leave we shall...
+278B|ca|but the Heartless stay!
+278D|ca|No fair!
+278E|ca|{:unk13 95 01 74 00}{:unk08 01 00 02}Good work,<br/>Barbossa!{:clear }Who knew it´d<br/>be this easy?
+278F|ca|{:unk13 58 00 9B 00}{:unk08 01 01 05}Barbossa,<br/>you coward!
+2790|ca|{:unk13 1F 01 B9 00}{:unk08 01 00 05}That´s the last time<br/>I trust a pirate!
+2791|ca|{:unk13 C3 00 57 00}{:unk06 02}The powder kegs are<br/>ready, Captain!
+2792|ca|{:unk13 12 01 77 00}{:unk08 01 01 02}Then I bid ye farewell!
+2793|ca|{:unk13 32 01 49 00}{:unk08 03 01 05}{:unk06 02}What are we gonna do!?
+2794|ca|{:unk13 97 01 01 01}{:unk08 03 00 01}{:unk06 02}We´ll be blown<br/>to smithereens!
+2795|ca|{:unk13 55 01 0B 01}{:unk08 01 00 01}Why struggle, mate?{:clear }A pirate knows<br/>when to surrender.
+2796|ca|{:unk13 92 00 77 00}{:unk08 01 01 05}Are you serious, Jack?
+2797|ca|{:unk13 10 01 03 01}{:unk08 01 00 02}Your average pirate, anyway.
+2798|ca|{:unk13 64 01 A3 00}{:unk08 01 00 02}First, we´ve got to<br/>see to the gunpowder.{:clear }I´m not about to<br/>lose this ship!
+2799|ca|{:unk13 FE 00 DD 00}{:unk08 01 00 05}I still don´t plan to<br/>trust pirates again.
+279A|ca|{:unk13 93 01 7E 00}{:unk08 01 00 01}Wise policy, lad.
+279B|ca|All clear!
+279C|ca|That´s the second time I´ve had to<br/>watch that man sail away with my ship.{:delay D8 00}{:clear }But I´ll be havin´ her back soon enough.
+279D|ca|{:unk13 4C 01 50 00}{:unk08 01 00 05}You stay with<br/>the ship, lass!
+279E|ca|{:unk13 FA 00 39 00}{:unk08 01 00 04}I´ll do no such thing!<br/>Will could die in there.
+279F|ca|{:unk13 4C 01 50 00}{:unk08 01 00 05}Dear William is<br/>fine. Trust me.
+27A0|ca|{:unk13 FC 00 2F 00}{:unk08 01 00 04}I am not a fool, Jack.
+27A1|ca|{:unk13 A0 01 76 00}{:unk08 01 00 05}Then trust<br/>me instead!
+27A2|ca|{:unk13 27 01 39 00}{:unk08 01 00 04}Sora, Donald, Goofy--<br/>bring Will back safely!
+27A3|ca|This ain´t over!
+27A4|ca|Right! Care to surrender, Barbossa?
+27A5|ca|Well, enough of this, then...
+27A6|ca|What say you we call it--a draw?
+27A7|ca|Jack, how many times do I have to tell ya--
+27A9|ca|Laugh while you can, Barbossa!
+27AA|ca|I feel...cold.
+27AB|ca|What now, Jack?
+27AC|ca|Whatever I want, now that<br/>the Pearl is mine again.
+27AD|ca|That she is.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Thank you, Jack.
+27AE|ca|I didn´t want ye hittin´ me again, mate.
+27AF|ca|Hey, Jack--good luck.
+27B0|ca|And remember to be good!
+27B1|ca|I´m off.
+27B2|ca|Will!
+27B3|ca|Good for them.
+27B4|ca|Uh-huh!
+27B5|ca|Hey, Sora--{:delay 40 00}{:clear }how come your face is all red?
+27B6|ca|What? It is not red!
+27B7|ca|Aw, I know who you´re thinking about.
+27B8|ca|
+27B9|ca|You know...for a minute there...{:delay 99 00}{:clear }I was afraid we were gonna lose Donald<br/>to the curse of the treasure!
+27BA|ca|Yup. Me, too.
+27BB|ca|What!?
+27BC|ca|{:unk13 51 01 4D 01}{:unk08 01 00 01}That´s coming from the port.
+27BD|ca|{:unk13 05 01 82 00}{:unk08 01 00 05}Let´s check it out.
+27BE|ca|Jack!
+27BF|ca|Zola! Some assistance!
+27C0|ca|That´s SORA, Donald, and Goofy!
+27C1|ca|Will ye leave a mate to perish?
+27C2|ca|Aye aye...
+27C4|ca|{:unk13 F3 00 39 00}{:unk08 01 00 04}Some scallywag<br/>must´ve got greedy.
+27C5|ca|{:unk13 C8 00 39 00}{:unk08 01 00 05}Oh, I see...{:clear }You don´t trust<br/>me, do you?
+27C6|ca|{:unk13 CF 00 39 00}{:unk08 01 00 05}Likely a wise choice.<br/>I AM a pirate, mates.
+27C7|ca|{:unk13 69 00 96 00}{:unk08 03 00 04}{:unk06 02}Jack! Sora!
+27C8|ca|{:unk13 16 01 9E 00}{:unk08 01 01 06}Elizabeth!
+27C9|ca|{:unk13 87 00 1D 01}{:unk08 02 01 01}Some sticky business<br/>is afoot, I fear.
+27CB|ca|{:unk13 FA 00 46 00}{:unk08 01 01 07}Aye, there it is.{:clear }If you´ll be wanting<br/>him rescued,<br/>best do it alone, lass.
+27CC|ca|{:unk13 01 01 39 00}{:unk08 01 00 04}Alone? Really, Jack?{:clear }Sail to the island and take<br/>on the cursed pirates?
+27CD|ca|{:unk13 03 01 2F 00}{:unk08 01 01 07}Well, if any lass could...
+27CE|ca|{:unk13 E4 00 6A 00}{:unk08 01 01 05}Are you sure he´s in trouble?
+27CF|ca|{:unk13 01 01 39 00}{:unk08 01 00 04}No. Not certain. But he´s<br/>been gone too long.{:clear }I wanted to go with him,{:clear }but he insisted<br/>I stay here.{:clear }I can´t just sit and wait!{:clear }I´ve got to know<br/>if he´s all right.
+27D0|ca|{:unk13 1F 01 2F 00}{:unk08 01 01 07}Lucky man...
+27D1|ca|{:unk13 D4 00 39 00}{:unk08 01 00 04}Please, Jack.<br/>Take me to him!
+27D2|ca|{:unk13 FA 00 39 00}{:unk08 01 01 07}Hold a moment.{:clear }I see no profit<br/>in it for me.
+27D3|ca|{:unk13 E8 00 39 00}{:unk08 01 00 04}I shall reward you.<br/>Of course...{:clear }you do owe Will.{:clear }He has saved your<br/>life before.
+27D4|ca|{:unk13 B0 00 42 00}{:unk08 01 01 07}Right. Shall we?
+27D5|ca|Interceptor off the starboard bow!
+27D6|ca|Will!
+27D7|ca|Stop that, Jack.
+27D8|ca|We´ve got to rescue him!
+27D9|ca|Will, wake up.
+27DA|ca|{:delay 0A 01}{:clear }Elizabeth...
+27DB|ca|What happened?
+27DC|ca|The medallions...{:delay 55 00}{:clear }and...the stone chest--<br/>someone´s taken them...{:delay DF 00}{:clear } {:delay 54 00}{:clear }Next thing I knew, we were attacked...{:delay D3 00}{:clear }but I couldn´t see who it was--<br/>his face was shrouded...in a black hood.
+27DD|ca|The Organization!
+27DE|ca|We found a way out of the cave...{:delay A2 00}{:clear }but the villain sent a horde of<br/>terrible creatures after us...{:delay B4 00}{:clear } {:delay 42 00}{:clear }I´ve never seen their likes before...{:delay 60 00}{:clear } {:delay 60 00}{:clear }I think I´m the only one who<br/>made it back to the ship...
+27DF|ca|Will...
+27E0|ca|Elizabeth...{:delay 3C 00}{:clear } {:delay 36 00}{:clear }I feel rather...
+27E1|ca|Our turn, guys.
+27E2|ca|You´d best go prepared. We´ve<br/>no idea what´s out there.
+27E3|ca|Pardon me, lads and lass,{:delay 72 00}{:clear }but your captain will have<br/>no monsters today.{:delay AE 00}{:clear }Thank ye. We´re turning for home.
+27E4|ca|Just like that?
+27E5|ca|Just like that!
+27E6|ca|Don´t remember invitin´ you.
+27E7|ca|So it was the Organization.<br/>We´ll handle this!
+27E8|ca|The darkness of men´s hearts--drawn<br/>to these cursed medallions;{:delay 13 01}{:clear }and this Heartless--a veritable maelstrom<br/>of avarice: {:delay 1C 01}{:clear }I wonder, are they worthy to serve<br/>Organization {XIII}?
+27E9|ca|And you want an answer now?
+27EA|ca|Precisely!
+27EB|ca|Oh, boy!
+27EC|ca|Not over yet!
+27ED|ca|Throw him overboard!
+27EE|ca|Aye aye!
+27EF|ca|Parley!
+27F0|ca|´Scuse me?
+27F1|ca|Barley?
+27F2|ca|It´s a bit of a pirates´ code.{:delay 60 00}{:clear } {:delay 24 00}{:clear }Anyone who invokes "parley" must not be<br/>harmed ´til negotiations are complete.
+27F3|ca|This is no time for rules!
+27F4|ca|True. But as we´re honorable pirates{:delay A2 00}{:clear }we should always stick to the Code.{:delay B4 00}{:clear }All right, you. Out with it!
+27F5|ca|I surrender the chest<br/>with my humblest apologies.
+27F6|ca|Rather accommodating of you, mate.{:delay 84 00}{:clear }And for that you want...?
+27F7|ca|Just a few souvenirs...for the memories.
+27F8|ca|Huh?
+27F9|ca|Oh, no!{:delay 38 00}{:clear }We can´t stop the curse unless<br/>we got all the medallions!
+27FA|ca|Our friend´s about to learn what<br/>it means to cross a pirate.
+27FB|ca|Oh?
+27FC|ca|Sora! Donald! Goofy! He´s yours!
+27FD|ca|Fire!
+27FE|ca|You stole a medallion again!?
+27FF|ca|Were I only that fortunate...
+2800|ca|Fortunate?
+2801|ca|So, uh, how come you´re all skeleton-y?
+2802|ca|Perhaps I got a touch o´ somethin´ from<br/>that monster what attacked us.{:delay F0 00}{:clear }Yet, why´s the skin restin´<br/>right on you three?
+2803|ca|´Cause we´re not greedy!
+2804|ca|What´re you looking at?
+2805|ca|That still doesn´t solve the mystery.
+2806|ca|Gawrsh...{:delay 42 00}{:clear }Maybe the reason we´re all okay is<br/>because we´re not from this world.
+2807|ca|There must be different laws.
+2808|ca|Yeah...{:delay 3C 00}{:clear }{:delay 36 00}{:clear }we´re always just passing through...
+2809|ca|Wonder when we´ll see home again...
+280A|ca|Sora...
+280B|ca|Just kiddin´ you.{:delay 6E 00}{:clear }Lucky we didn´t get cursed, huh?
+280C|ca|Quit yammerin´, mates!{:delay 4E 00}{:clear }We´ve got to find ourselves<br/>a ship that´ll float.
+280D|ca|Look!
+280E|ca|A medallion! Get it!
+280F|ca|Three more to go!
+2810|ca|How do you know?
+2811|ca|A pirate must have a keen eye.{:delay 78 00}{:clear }Else he won´t be sailin´ free<br/>for very long. Savvy?
+2812|ca|Huh? What´s that?
+2813|ca|Ahoy, mateys!
+2814|ca|Ridiculous imitation--<br/>and yet, I´m flattered.
+2815|ca|{:unk13 58 01 8C 00}{:unk08 01 00 02}Jack, what happened!?<br/>This is horrible!
+2816|ca|{:unk13 4E 01 39 00}{:unk08 01 00 05}Ah, but who´s to<br/>blame for it, eh?
+2817|ca|{:unk13 EE 00 D7 00}{:unk08 01 00 01}Well, it certainly isn´t Elizabeth.
+2818|ca|{:unk13 62 01 6E 00}{:unk08 01 00 06}It´s Organization {XIII}.{:clear }They´re the ones<br/>behind it all.
+2819|ca|{:unk13 D2 00 0A 01}{:unk08 01 01 01}Wonder where they went.
+281A|ca|{:unk13 94 00 AD 00}{:unk08 01 01 01}The hooded man took<br/>the pirates and his<br/>creatures with him{:clear }into some strange hole.{:clear }We saw them leave<br/>from inside the<br/>captain´s stateroom.
+281B|ca|{:unk13 0A 01 A6 00}{:unk08 01 01 02}Didn´t occur to you<br/>to fight them, mate?
+281C|ca|{:unk13 8A 00 9C 00}{:unk08 01 01 01}I´m no fool.{:clear }I knew I was no<br/>match for them.
+281D|ca|{:unk13 23 01 9D 00}{:unk08 01 01 02}That I believe.
+281E|ca|{:unk13 E3 00 39 00}{:unk08 01 00 04}Sora, I think we´ll<br/>need your help.
+281F|ca|{:unk13 7F 01 5C 00}{:unk08 01 01 05}Got it.
+2820|ca|{:unk13 F2 00 39 00}{:unk08 01 00 04}First, let´s find<br/>all the medallions.{:clear }Otherwise, the curse<br/>can´t be broken...{:clear }and the creatures<br/>will remain invincible.
+2821|ca|That´s four medallions!<br/>We got ´em all!
+2822|ca|But where´s the chest?
+2823|ca|If we find the hooded<br/>man, we´ll find it.
+2824|ca|Prob´ly in Port Royal.
+2825|ca|Why´s that?
+2826|ca|Organization {XIII} is after people´s hearts.{:delay AE 00}{:clear }So they´re gonna go<br/>wherever there´s lots of people.
+2827|ca|They´ll hurt the townsfolk?
+2828|ca|No, they´re bringin´ ´em flowers, mate.{:delay A3 00}{:clear }I don´t know who these Organizers are,{:delay 8A 00}{:clear }but I will say they´re makin´ we<br/>pirates look like proper gents.
+2829|ca|Well, Jack...{:delay 3C 00}{:clear }{:delay 54 00}{:clear }then...we have to help!
+282A|ca|Then let go and haul to run free!
+282B|ca|Go! He´s for me.
+282C|ca|Now to break that curse!
+282D|ca|The curse--it´s gone!
+282E|ca|Then what´s this?
+282F|ca|Aw, I understand.{:delay 7E 00}{:clear }Jack musta been cursed by that monster,<br/>not from takin´ the gold.
+2830|ca|Oh, I´ve no worries, then.
+2831|ca|It´s okay, Jack.{:delay 42 00}{:clear }We´ll just have to defeat the monster,<br/>that´s all.
+2832|ca|Get the gold!
+2833|ca|All better.
+2834|ca|Ah, not quite, mate.
+2835|ca|Sora, bravo.
+2837|ca|Just who was that chap?
+2838|ca|He´s part of an Organization that´s<br/>collecting hearts.{:delay C0 00}{:clear }First they release Heartless<br/>into different worlds.{:delay B4 00}{:clear }We defeat those Heartless.{:delay 72 00}{:clear }Then they get the hearts.{:delay 8A 00}{:clear }We´re never gonna stop ´em like this.
+2839|ca|What´s the plan, then?
+283A|ca|We´ve gotta find their stronghold and<br/>finish them off once and for all.
+283B|ca|Sailin´ these waters, I´ve heard<br/>some tales, but not a one like this.
+283C|ca|Is there any way we can help?
+283D|ca|
+283E|ca|Anything at all?
+283F|ca|There is.
+2840|ca|It´s certain we don´t need the likes of that<br/>hooded fellow and the Heartless about.{:delay 12 01}{:clear }They´ll ruin the market for us true pirates.
+2841|ca|So that´s why you went to Port Royal.{:delay 82 00}{:clear }And we thought you actually<br/>wanted to save everyone.
+2842|ca|A pirate always looks to profit, Miss Swann.
+2843|ca|Too bad. You had us going there,<br/>thinking you´d turned over a new leaf.
+2844|ca|The question is, what´s beyond the leaf?<br/>Savvy?
+2845|ca|Oh...oh, yes--a reward. And what´ll it be?
+2846|ca|That lovely blade of Sora´s.
+2847|ca|Huh?
+2848|ca|Okay. Sure.
+2849|ca|Hold on! That was far too easy.{:delay A9 00}{:clear }What´s the rub?
+284A|ca|There, you see?
+284B|ca|Well, you´ve always got the Pearl, Jack.
+284C|ca|That I do.{:delay 50 00}{:clear }But someday, I´ll gather a blood-thirsty<br/>crew, and come to take that blade.{:delay 1A 01}{:clear }Chance by then I´ll have<br/>the way to wield it.
+284D|ca|And if I succeed, I´ll ask you two to<br/>join me. That´d be reward enough.
+284E|ca|Done.
+284F|ca|Maybe someday, Jack´ll be able<br/>to use the Keyblade after all.
+2850|ca|Why´s that?
+2851|ca|A-hyuck! He and Sora are<br/>kind of alike, dontcha think?
+2852|ca|Are not!
+2853|ca|Some say Jack Sparrow´s the worst<br/>pirate ever to sail the Spanish Main.
+2854|ca|No one could really mean that.
+2855|ca|Right. We know he´s the best.
+2856|ca|I hope we´ll get to see him again.
+2857|lm|{:unk13 FA 00 90 01}{:unk0e 0A}This is not the end, my dears<br/>I swear I´ve just begun{:unk0e 00}
+2858|sys|Aerial Recovery
+2859|sys|Quickly regains balance with {:icon button-circle} when<br/>knocked down.
+285A|sys|Peter Pan
+285B|sys|Lamp Charm
+285C|sys|With the help of two friends, use<br/>the Summon Command to call forth<br/>Genie for a helping hand.
+285D|sys|Feather Charm
+285E|sys|With the help of two friends, use<br/>the Summon Command to call forth<br/>Peter Pan for a helping hand.
+285F|sys|Pinball
+2860|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s not over until Ursula has won!{:unk0e 00}
+2861|sys|The Black Pearl
+2862|sys|The Black Pearl
+2863|sys|The Black Pearl
+2864|sys|The Interceptor
+2865|sys|The Interceptor
+2866|jm|The Chain Gang (1930)
+2867|jm|Pinocchio (1940)
+2868|jm|The Wise Little Hen (1934)
+2869|jm|Two Weeks Vacation (1952)
+286A|jm|Beauty and the Beast (1991)
+286B|jm|Aladdin (1992)
+286C|jm|Mulan (1998)
+286D|jm|Pirates of the Caribbean (2003)
+286E|jm|The Nightmare <br/>	Before Christmas (1993)
+286F|jm|The Lion King (1994)
+2870|jm|Hercules (1997)
+2871|jm|Tron (1982)
+2872|jm|The Little Mermaid (1989)
+2873|jm|Winnie the Pooh and<br/>	the Honey Tree (1966)
+2874|jm|Winnie the Pooh and<br/>	the Blustery Day (1968)
+2875|jm|Mickey´s Surprise Party (1939)
+2876|jm|Don Donald (1937)
+2877|jm|Private Pluto (1943)
+2878|jm|The Sorcerer´s Apprentice (1940)
+2879|jm|Steamboat Willie (1928)
+287A|jm|Plane Crazy (1928)
+287B|jm|Orphan´s Benefit (1934)
+287C|jm|The Plowboy (1929)
+287D|jm|Final Fantasy III
+287E|jm|Final Fantasy VI
+287F|jm|Final Fantasy VII
+2880|jm|Final Fantasy VIII
+2881|jm|Final Fantasy IX
+2882|jm|Final Fantasy X
+2883|jm|Final Fantasy X-2
+2884|jm|The Sword in the Stone (1963)
+2885|jm|Scrooge McDuck and Money (1967)
+2886|jm|Donald´s Nephews (1938)
+2887|jm|Lilo and Stitch (2002)
+2888|wi|I gotta go find the little runt<br/>what stole my boat!
+2889|mu|Look at how much we´ve<br/>restored that burnt village.{:clear }Even if there may always be war,<br/>there will also always be hope.
+28AD|lm|{:unk13 FA 00 90 01}{:unk0e 0A}A happy end forever after,{:unk0e 00}
+28AE|sys|Air Twister
+28AF|sys|Tornado Ride
+28B0|sys|Quick Blade
+28B1|lm|{:unk13 FA 00 90 01}{:unk0e 0A}one of you.{:unk0e 00}
+28B2|lm|{:unk13 FA 00 90 01}{:unk0e 0A}full of joy and love.{:unk0e 00}
+28B3|sys|Dodge Roll
+28B4|lm|{:unk13 FA 00 90 01}{:unk0e 0A}In somebody else´s lake.{:unk0e 00}
+28B5|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Under the sea.{:unk0e 00}
+28B6|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Take it from me.{:unk0e 00}
+28B7|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Under the water{:unk0e 00}
+28B8|lm|{:unk13 FA 00 90 01}{:unk0e 0A}Down in the muck here...{:unk0e 00}
+28B9|lm|{:unk13 FA 00 90 01}{:unk0e 0A}But that is a big mistake.{:unk0e 00}
+28BA|lm|{:unk13 FA 00 90 01}{:unk0e 0A}It´s music to me.{:unk0e 00}
+28BB|ca|Ah, but in the moonlight...
+28BC|sys|Begin Game
+28BD|sys|Stop Dice
+28BF|ca|It's an ambush! You'll have to defeat them all or escape within the ship!
+28C0|ca|When Barbossa captured me,<br/>I didn´t want him to find out{:clear }I was the Governor´s daughter.{:clear }That´s why I told him the name Turner.<br/>I had no idea it would lead to all that!
+28C1|sys|Aura Guard
+28C2|sys|Dismiss
+28C3|sys|The Black Pearl: Captain´s Stateroom
+28C7|sys|Open The Door
+28C9|sys|Root Ravager
+28CA|sys|Clear Shot
+28CB|sys|Big Ben
+28CC|sys|Sora:<br/>Let´s get to Merlin´s house.
+28CD|sys|
+28CE|tr|There´s a power booster for me!
+28CF|tr|And flight routines<br/>for the solar sailer!
+28D0|jm|The First Day
+28D1|jm|The First Day
+28D2|jm|Summer vacation is almost over.<br/>To get our minds off that grim<br/>fact, Hayner suggested we go to<br/>the beach.
+28D3|jm|Follow Pence outside!
+28D4|jm|When I got back to the usual spot, I<br/>found a note from Hayner telling us all<br/>to meet at the station. It looked like he<br/>was going to try that beach trip today.
+28D5|jm|Head for the station!
+28D6|jm|The Struggle battle tournament is<br/>taking place at the sandlot today.
+28D7|jm|Hurry to the sandlot!
+28D8|jm|Summer vacation is almost over.<br/>We decide to investigate the seven<br/>wonders of Twilight Town for our<br/>school assignment.
+28D9|jm|Go to the station to catch your train!
+28DA|jm|I showed up at the usual spot, but my<br/>friends didn´t seem to notice I was<br/>there. I couldn´t even touch them.
+28DB|jm|Follow Hayner!
+28DC|jm|Sora and friends awoke in a mysterious<br/>old mansion. They must have been<br/>sleeping for a long time. What´s more,<br/>they had lost all of their memories.
+28DD|jm|Look around outside!
+28DE|jm|We went out into town. Even though<br/>it was Sora´s first visit, the<br/>place seemed strangely familiar<br/>somehow.
+28DF|jm|Go into the golden net!
+28E0|jm|Some kids we met in town said the<br/>King was looking for us.
+28E1|jm|Go to the station to see the King!
+28E2|jm|We successfully reunited with the<br/>King, who told Sora to get on<br/>the train and gave him munny for<br/>tickets.
+28E3|jm|Buy a ticket!
+28E4|jm|The King had been locked away in the<br/>realm of darkness. If he was okay, then<br/>Riku must be, too. We set out on our<br/>journey with hearts full of expectation.
+28E5|jm|Get on the train!
+28E6|jm|We boarded the train and arrived<br/>at a mystical tower.
+28E7|jm|Head for the tower!
+28E8|jm|According to Pete, who was supposed to<br/>have been banished to another dimension,<br/>the tower was home to the King´s<br/>teacher.
+28E9|jm|Climb to the top of the tower!
+28EA|jm|Master Yen Sid, the King´s teacher,<br/>told us Sora was the key that connects<br/>Riku and the journey ahead.
+28EB|jm|Read the book and talk with Yen Sid!
+28EC|jm|Master Yen Sid told us about our new<br/>foes, the Nobodies. We need to change<br/>into some new clothes and prepare<br/>ourselves for battle.
+28ED|jm|Go to the wardrobe!
+28EE|jm|Three good fairies--seamstresses--<br/>were waiting for us in the wardrobe.
+28EF|jm|Talk to the fairies!
+28F0|jm|With Sora's new outfit, we're ready to<br/>be on our way. Seems Master Yen Sid has<br/>a little something for us before we go.
+28F1|jm|Find Master Yen Sid!
+28F2|jm|The worlds have prepared new paths for<br/>us to follow, and we´ll open gates as<br/>we discover the way to go. Our journey<br/>is about to begin...
+28F3|jm|Set sail for the next world!
+28F8|jm|When we arrived in Twilight Town, we<br/>came across Vivi, who was searching<br/>for help. Apparently something was<br/>going on at the sandlot.
+28F9|jm|Hurry to the sandlot!
+28FA|jm|Organization {XIII} backed off and Seifer<br/>was saved, but now Kairi seems to be<br/>caught up in something.
+28FB|jm|Go to the station!
+28FC|jm|The box we´d found in the realm of<br/>darkness contained a photo of the old<br/>mansion in Twilight Town. There´s<br/>something about that mansion...
+28FD|jm|Go to the old mansion!
+28FE|jm|If there are two one-of-a-kind items in<br/>this world, that means there are two<br/>Twilight Towns. Could Kairi be in the<br/>other one?
+28FF|jm|Go inside the old mansion!
+2900|jm|According to the King, the computer in<br/>the old mansion appears to be connected<br/>to the other Twilight Town.
+2901|jm|Look for the computer!
+2902|jm|We found the computer, but it won´t work<br/>without a password. Any ideas as to what<br/>that might be...?
+2903|jm|Try to remember that ice cream flavor!
+2904|jm|Entering the password started up the<br/>device, which then shot out a beam of<br/>light. This must be the path to the<br/>other Twilight Town.
+2905|jm|Touch the beam!
+2906|jm|We arrived in the other Twilight Town,<br/>the one Roxas lived in. There ought to<br/>be a way into the dark realm here<br/>somewhere.
+2907|jm|Look for a way into the darkness!
+2908|jm|The party is once again in Hollow<br/>Bastion. Things are different, but the<br/>Heartless are loose as usual...<br/><br/>
+2909|jm|Take a look around town!<br/><br/>
+290A|jm|Sora and his friends are happy to<br/>see Yuffie. Everyone else is waiting<br/>at Merlin´s house.<br/><br/>
+290B|jm|Head for Merlin´s house!<br/><br/>
+290C|jm|Leon and the gang are trying to rebuild<br/>the town. Sora´s team promises to<br/>help. Leon has something to show.<br/><br/>
+290D|jm|Head for the bailey!<br/><br/>
+290E|jm|Organization {XIII} suddenly appears,<br/>leaving only strange words in their wake.<br/>The Keyblade lights the way to other<br/>worlds.<br/><br/>
+290F|jm|Set sail for the next world!<br/><br/>
+2910|jm|Guided by Merlin, the party returns<br/>to Hollow Bastion. Merlin shows them<br/>the Book of Pooh.<br/><br/>
+2911|jm|Hop inside the book!<br/><br/>
+2912|jm|The Heartless have torn the book´s<br/>pages out, and Pooh´s lost his memory.<br/>Find the torn pages and help him!<br/><br/>
+2913|jm|Collect the torn pages!<br/><br/>
+2914|jm|Thorns have appeared in Disney<br/>Castle. Merlin might know something<br/>about what´s going on.<br/><br/>
+2915|jm|Go see Merlin!<br/><br/>
+2916|jm|Merlin explains how to save Disney<br/>Castle. It´s time for Sora and his<br/>team to act!<br/><br/>
+2917|jm|–––
+2918|jm|Sora and his friends managed to save<br/>Disney Castle from impending danger.<br/><br/>
+2919|jm|Set sail for the next world!<br/><br/>
+291A|jm|The party´s return to Hollow Bastion is<br/>met by increasing numbers of Heartless<br/>and Nobodies. Time to find Leon.<br/><br/>
+291B|jm|Go to Merlin´s house!<br/><br/>
+291C|jm|Sora and friends learn of a computer<br/>Ansem used. The computer room is<br/>somewhere in the postern.<br/><br/>
+291D|jm|Go to the postern!<br/><br/>
+291E|jm|According to Aerith, the King is with<br/>Leon! Let´s go find that computer<br/>posthaste!<br/><br/>
+291F|jm|Go through the underground corridors!<br/><br/>
+2920|jm|The party reaches Ansem´s study, but<br/>there´s no King and no computer. Leon<br/>arrives.<br/><br/>
+2921|jm|Ask Leon what´s going on!<br/><br/>
+2922|jm|Leon fiddles with the study´s wall and<br/>uncovers a switch that opens the way<br/>to the computer room.<br/><br/>
+2923|jm|Enter the computer room!<br/><br/>
+2924|jm|While Sora and Donald mess with the<br/>computer, a device activates and sends<br/>them to an unknown world.<br/><br/>
+2925|jm|–––
+292A|jm|Sora´s team returns from the computer<br/>world. To get the research data, they´ll<br/>need Ansem´s password.<br/><br/>
+292B|jm|Look for Ansem´s password!<br/><br/>
+292C|jm|Reunited with the King at last! Using<br/>writing on the study wall, Sora pieces<br/>together the password.<br/><br/>
+292D|jm|Go tell Tron the password!<br/><br/>
+292E|jm|The party returns to the computer<br/>world to keep their promise to<br/>Tron.<br/><br/>
+292F|jm|Go with Tron to the dataspace!<br/><br/>
+2932|jm|Sora and friends return safely to Hollow<br/>Bastion. Thanks to Tron, the DTD data<br/>is now accessible.<br/><br/>
+2933|jm|Use the computer terminal!<br/><br/>
+2934|jm|Sora and his friends are overwhelmed by<br/>the letdowns and surprises they dig out<br/>of the DTD. A tremor rocks the room.<br/><br/>
+2935|jm|See what´s going on outside!<br/><br/>
+2936|jm|Outside, Heartless and Nobodies pour<br/>into the town. Leon and the others in<br/>the borough might be in trouble.<br/><br/>
+2937|jm|Hurry to the borough!<br/><br/>
+2938|jm|Leon and the others stand against<br/>the Heartless and Nobodies. Sora´s<br/>team hurried after the King.<br/><br/>
+2939|jm|Go to the bailey!<br/><br/>
+293A|jm|The great maw of the valley is buried in<br/>the enemy horde. Work together and<br/>bring the battle to an end!<br/><br/>
+293B|jm|Battle your way into the great maw!<br/><br/>
+293C|jm|Organization {XIII}´s goal is to defeat<br/>Heartless with the Keyblade. Speculation<br/>runs wild, but the battle is over for now.<br/><br/>
+293D|jm|–––
+293E|jm|The battle is over in Hollow Bastion for<br/>now, but how is the town holding up?<br/><br/>
+293F|jm|Onward to Hollow Bastion!<br/><br/>
+2940|jm|Hollow Bastion was supposed to be at<br/>peace, but something´s strange in town.<br/>Better go see Leon.<br/><br/>
+2941|jm|Go to Merlin´s house!<br/><br/>
+2942|jm|The MCP hijacked the computer system<br/>and sent Heartless after Heartless into<br/>the town. Sora´s team decides to go see<br/>Tron.<br/><br/>
+2943|jm|Head for Ansem´s study!<br/><br/>
+2944|jm|The MCP Eradication program is nearly<br/>complete. Leon tells Sora to head for the<br/>I/O tower with Tron and wait there.<br/><br/>
+2945|jm|Access the computer!<br/><br/>
+2946|jm|Tron gives Sora and friends a gift: a<br/>view of the town´s early days. Everyone<br/>remembers the town´s true name.<br/><br/>
+2947|jm|–––
+294C|jm|The Beast is acting strange when<br/>Sora and his friends stop by the<br/>castle. What could be the matter?<br/><br/>
+294D|jm|Have a look around the castle!<br/><br/>
+294E|jm|Someone´s at the top of the stairs.<br/>Is it Belle? Better talk to her and<br/>find out what´s going on.<br/><br/>
+294F|jm|Belle should be here. Find her!<br/><br/>
+2950|jm|The Beast has locked up the servants<br/>in the dungeon. Head for the west<br/>hall to find the entrance.<br/><br/>
+2951|jm|Head for the west hall!<br/><br/>
+2952|jm|There ought to be a way into the<br/>dungeon somewhere in the west<br/>hall...<br/><br/>
+2953|jm|Look for the basement entrance!<br/><br/>
+2954|jm|The wardrobe in front of the<br/>basement door won´t move. There´s<br/>got to be a way in.<br/><br/>
+2955|jm|Move the wardrobe from the door!<br/><br/>
+2956|jm|The wardrobe is really an enchanted<br/>human, as is the Beast. Rescue the<br/>others before hearing the rest.<br/><br/>
+2957|jm|Head for the dungeon!<br/><br/>
+2958|jm|After defeating the door, the party<br/>finds the transformed servants<br/>locked in the dungeon.<br/><br/>
+2959|jm|Follow the servants!<br/><br/>
+295A|jm|The Beast´s attitude seems to be due<br/>to the Heartless. A secret passage<br/>leads toward his chamber.<br/><br/>
+295B|jm|Use the passage to find the Beast!<br/><br/>
+295C|jm|There´s a trick to that passage!<br/>Light all the lanterns in the passage<br/>to open a hidden door.<br/><br/>
+295D|jm|Work together to light the lanterns!<br/><br/>
+295E|jm|Everyone works together to open<br/>the door and move onward.<br/><br/>
+295F|jm|Head for the Beast´s room!<br/><br/>
+2960|jm|It´s Xaldin from Organization {XIII}!<br/>The Beast is worried about how he<br/>treated Belle earlier.<br/><br/>
+2961|jm|Go with the Beast to see Belle!<br/><br/>
+2962|jm|The Beast goes to Belle´s room, but<br/>she´s not there. She´s off chasing a<br/>mysterious figure.<br/><br/>
+2963|jm|Look for Belle!<br/><br/>
+2964|jm|Moving further into the castle, the<br/>team hears Belle in the ballroom,<br/>calling for help!<br/><br/>
+2965|jm|Hurry to the ballroom and help Belle!<br/><br/>
+2966|jm|The Beast saves Belle and apologizes.<br/>They grow closer, but the spell is far<br/>from broken.<br/><br/>
+2967|jm|–––
+2968|jm|Sora and friends visit the castle again.<br/>Everything seems okay, but the Beast is<br/>awfully restless.<br/><br/>
+2969|jm|Talk to the Beast!<br/><br/>
+296A|jm|Xaldin interrupts the dance to say he´s<br/>taken something "very dear." The Beast<br/>runs to his chambers.<br/><br/>
+296B|jm|To the Beast´s room!<br/><br/>
+296C|jm|The rose is gone! Along with his only<br/>hope, the Beast has lost his will to<br/>fight. What can be done?<br/><br/>
+296D|jm|Encourage the Beast!<br/><br/>
+296E|jm|Sora and company cheer up the Beast<br/>and go with him in search of his rose.<br/><br/>
+296F|jm|Look for the rose with the Beast!<br/><br/>
+2970|jm|Xaldin was after the Beast in order to<br/>get Kingdom Hearts. Don´t let that fiend<br/>escape!<br/><br/>
+2971|jm|Head outside and go after Xaldin!<br/><br/>
+2972|jm|The rose is returned and the Beast sees<br/>what´s truly dear to him. Will the<br/>spell be broken?<br/><br/>
+2973|jm|–––
+2974|jm|Sora and his friends arrive a little<br/>outside the Coliseum and spot<br/>Heartless closing in on a woman.<br/><br/>
+2975|jm|Help that woman!<br/><br/>
+2976|jm|Megara was on her way to ask Hades<br/>to give Hercules a break. Sora and his<br/>friends offer to go instead.<br/><br/>
+2977|jm|Go to the Underworld to see Hades!<br/><br/>
+2978|jm|Auron refuses Hades´ demand. Sora,<br/>weakened by the Underworld´s curse,<br/>works with Auron to escape.<br/><br/>
+2979|jm|Escape from the Underworld!<br/><br/>
+297A|jm|Sora and company contain Cerberus<br/>and escape the Underworld, but<br/>where´s Auron? Time to find Meg.<br/><br/>
+297B|jm|Head for the Coliseum to see Meg!<br/><br/>
+297C|jm|While Hercules fetches the Olympus<br/>Stone to negate the Underworld´s<br/>curse, the party trains under Phil.<br/><br/>
+297D|jm|Go see Phil!<br/><br/>
+297E|jm|Phil´s as lively as ever. Looks like<br/>Sora and his friends can start<br/>training whenever they like.<br/><br/>
+297F|jm|Complete your training!<br/><br/>
+2980|jm|Sora and company complete their<br/>training when Hercules returns,<br/>deep in thought.<br/><br/>
+2981|jm|Go talk to Hercules!<br/><br/>
+2982|jm|The Olympus Stone has been stolen--<br/>and Hades has kidnapped Meg. The<br/>party heads for the Underworld.<br/><br/>
+2983|jm|Go to the Underworld to help Meg!<br/><br/>
+2984|jm|Phil was at the entrance to the<br/>Underworld when he was attacked<br/>by someone in black--the Olympus<br/>Stone thief?<br/>
+2985|jm|Follow the black-robed figure!<br/><br/>
+2986|jm|Sora and friends are no match for<br/>the curse´s power. They need the<br/>Olympus Stone, and fast.<br/><br/>
+2987|jm|Keep following that man in black!<br/><br/>
+2988|jm|They defeat a member of Organization<br/>{XIII} and win back the Stone. Safe from<br/>the curse, they go help Meg.<br/><br/>
+2989|jm|Go deeper into the Underworld!<br/><br/>
+298A|jm|Sora and company approach the lock<br/>and open it to find Meg and a door<br/>to...somewhere.<br/><br/>
+298B|jm|Go help Meg!<br/><br/>
+298C|jm|Hercules catches up in time to<br/>rescue Meg. He must be exhausted!<br/>He can´t be left alone like this.<br/><br/>
+298D|jm|Go back and help Herc!<br/><br/>
+298E|jm|Sora and Hercules defeat Pete, but<br/>Hades tosses off a chilling remark<br/>about the Hydra back on the surface.<br/><br/>
+298F|jm|Return to the Coliseum!<br/><br/>
+2990|jm|Something huge and mysterious has<br/>appeared at the entrance to the<br/>Underworld.<br/><br/>
+2991|jm|What´s going on in the Underworld?<br/><br/>
+2992|jm|The Underworld coliseum had appeared<br/>out of nowhere and was hosting all kinds<br/>of battles.<br/><br/>
+2993|jm|Take part in the tournament!<br/><br/>
+2994|jm|Hades announces that the Hades Cup will<br/>be held at the Underdrome. Sora and<br/>Hercules will take part.<br/><br/>
+2995|jm|Take part in the Hades Cup!<br/><br/>
+2996|jm|Hades announces that the Hades Cup will<br/>be held at the Underdrome. Sora and<br/>Hercules will take part.<br/><br/>
+2997|jm|Take part in the Hades Cup!<br/><br/>
+2998|jm|They might fight Auron if they make<br/>it to the finals, but Herc just<br/>doesn´t believe he can do it.<br/><br/>
+2999|jm|Take part in the first round!<br/><br/>
+299A|jm|Even after a successful battle, Hercules<br/>is still down on himself. Next up are the<br/>semifinals.<br/><br/>
+299B|jm|Take part in the semifinals!<br/><br/>
+299C|jm|After the final match-up is decided, the<br/>party sees Auron, but he´s acting strange.<br/>He enters the Underworld.<br/><br/>
+299D|jm|Follow Auron!<br/><br/>
+299E|jm|Auron was being controlled by Hades.<br/>Sora and friends follow Auron out of<br/>the Underworld, wanting to help.<br/><br/>
+299F|jm|Talk to Auron!<br/><br/>
+29A0|jm|While Hercules is fighting in the final<br/>round, Sora and company seek out the<br/>statue controlling Auron.<br/><br/>
+29A1|jm|Go to the Underworld to get that statue!<br/><br/>
+29A2|jm|The statue contained Auron´s free will.<br/>His difficult past made him strong.<br/>Return the statue to Auron.<br/><br/>
+29A3|jm|Head for the Underdrome!<br/><br/>
+29A4|jm|The party meets Iago, former lackey of<br/>the evil Jafar. He swears he´s changed,<br/>so they take him to the palace.<br/><br/>
+29A5|jm|Go to the palace!<br/><br/>
+29A6|jm|At the palace, Jasmine is surprised and<br/>upset by Iago´s presence. They go<br/>into town to talk with Aladdin.<br/><br/>
+29A7|jm|Go back into town to find Aladdin!<br/><br/>
+29A8|jm|Walking into town, they hear a peddler shout<br/>"Stop, thief!" as he chases Abu<br/>and Aladdin. What´s going on?<br/><br/>
+29A9|jm|Follow Aladdin!<br/><br/>
+29AA|jm|Abu´s swiped a lamp from the peddler.<br/>Aladdin returns it to the man, but it<br/>turns out to have Jafar in it!<br/><br/>
+29AB|jm|Go to the shop to get the lamp!<br/><br/>
+29AC|jm|Sora and friends try to buy the<br/>lamp off the peddler, but his<br/>asking price is a treasure fit<br/>for a sultan.<br/><br/>
+29AD|jm|Talk with Aladdin outside the shop!<br/><br/>
+29AE|jm|The price for the lamp is treasure,<br/>but they can´t loot the palace to buy a<br/>measly lamp. Iago suggests finding<br/>treasure in the Cave of Wonders.<br/><br/>
+29AF|jm|Leave town for the Cave of Wonders!<br/><br/>
+29B0|jm|Sora and company arrived at the Cave of<br/>Wonders, former home of the magic lamp,<br/>in search of treasure.<br/><br/>
+29B1|jm|Enter the Cave of Wonders!<br/><br/>
+29B2|jm|They disarm the traps set within the<br/>Cave of Wonders and continue onward.<br/><br/>
+29B3|jm|Go deeper into the cave!<br/><br/>
+29B4|jm|With the party´s trials completed, a<br/>staircase appears before them.<br/><br/>
+29B5|jm|Read the sign!<br/><br/>
+29B6|jm|They open the door.<br/><br/>
+29B7|jm|Go through the door!<br/><br/>
+29B8|jm|Sora and friends bring some treasure back<br/>from the Cave of Wonders, but the<br/>shop is empty. What´s going on?<br/><br/>
+29B9|jm|See what´s going on outside!<br/><br/>
+29BA|jm|Pete is chasing after the peddler,<br/>trying to get the magic lamp. The two<br/>run toward the palace.<br/><br/>
+29BB|jm|Follow them to the palace!<br/><br/>
+29BC|jm|Sora and company retrieve the magic<br/>lamp, which is sealed away inside the<br/>palace. Iago´s not so bad after all...<br/><br/>
+29BD|jm|–––
+29BE|jm|With the lamp sealed away, Agrabah is<br/>peaceful once again. Wonder what<br/>everyone's been up to.<br/><br/>
+29BF|jm|Onward to Agrabah!<br/><br/>
+29C0|jm|Jafar´s back--the peddler let him out of<br/>the magic lamp! Iago says he´s in the<br/>desert ruins.<br/><br/>
+29C1|jm|Follow Iago´s lead!<br/><br/>
+29C2|jm|Genie´s magic lets Sora and friends pass<br/>through a sandstorm on their way to the<br/>ruins.<br/><br/>
+29C3|jm|Go through the desert to the ruins!<br/><br/>
+29C4|jm|The ruins are deserted. It´s a trap! Sora<br/>and company escape and hurry toward<br/>the palace, Jafar´s real target.<br/><br/>
+29C5|jm|Hurry to the palace--and Jafar!<br/><br/>
+29C6|jm|They defeat the gigantic Jafar, and<br/>Genie restores the battle-scarred town<br/>to its former, peaceful self.<br/><br/>
+29C7|jm|–––
+29C8|jm|<br/><br/>
+29C9|jm|<br/><br/>
+29CA|jm|The shadow turns out to be Mushu.<br/>Sora meets Mulan, who is pretending<br/>to be a man so she can join the army.<br/><br/>
+29CB|jm|Head for camp and join the army!<br/><br/>
+29CC|jm|Ping is turned away from the army.<br/>He must complete the Captain´s<br/>assignments as a test of his worth.<br/><br/>
+29CD|jm|Complete the Captain´s assignments!<br/><br/>
+29CE|jm|Ping works hard on his assignments<br/>and grows ever stronger. He gets a<br/>new assignment from the Captain.<br/><br/>
+29CF|jm|Go past the checkpoint to the trail!<br/><br/>
+29D0|jm|Ping is allowed to join the army, but<br/>must earn respect. He follows a<br/>suspicious person into a cave.<br/><br/>
+29D1|jm|Head for the cave near the village!<br/><br/>
+29D2|jm|A swarm of Heartless waited inside<br/>the cave, but Ping and the party<br/>defeated them handily.<br/><br/>
+29D3|jm|Tell the captain what happened!<br/><br/>
+29D4|jm|Shan-Yu´s army has destroyed both<br/>the village and the troops. The party<br/>heads to the summit to face the Huns.<br/><br/>
+29D5|jm|Follow Shan-Yu to the summit!<br/><br/>
+29D6|jm|Ping´s plan defeats Shan-Yu´s army, but<br/>her cover is blown and she´s dismissed.<br/>Sora agrees to accompany her home.<br/><br/>
+29D7|jm|Head back down the mountain!<br/><br/>
+29D8|jm|Shan-Yu is spotted heading toward<br/>the Imperial City. The Emperor must<br/>be alerted at once!<br/><br/>
+29D9|jm|Head for the Imperial City!<br/><br/>
+29DA|jm|Shan-Yu disappears into the palace. The<br/>Heartless in the courtyard are defeated,<br/>but the Emperor´s in danger!<br/><br/>
+29DB|jm|Hurry to the palace!<br/><br/>
+29DC|jm|Mulan defeats Shan-Yu and saves<br/>China. The Emperor and the Captain<br/>praise her as China's bravest woman.<br/><br/>
+29DD|jm|–––
+29DE|jm|What can Mulan be up to now that she´s<br/>saved China?<br/><br/>
+29DF|jm|Onward to the Land of Dragons!<br/><br/>
+29E0|jm|Sora and friends stop by the village and,<br/>with Mulan, head for the mountain<br/>chasing after someone in black.<br/><br/>
+29E1|jm|Follow the black-cloaked figure!<br/><br/>
+29E2|jm|The black-cloaked figure seems to be<br/>searching for something as he approaches<br/>the mountain summit.<br/><br/>
+29E3|jm|Head for the mountain summit!<br/><br/>
+29E4|jm|Sora and company lose track of the man<br/>before they learn who he is. They go<br/>back down the mountain.<br/><br/>
+29E5|jm|Head back down the mountain for now!<br/><br/>
+29E6|jm|Halfway down the mountain, they spot a<br/>giant Heartless--and it´s headed for<br/>the Imperial City!<br/><br/>
+29E7|jm|Follow the Heartless to the Imperial City!<br/><br/>
+29E8|jm|<br/><br/>
+29E9|jm|<br/><br/>
+29EA|jm|The party defeats the Heartless in their<br/>path and hurries onward to the palace<br/>and the man in black.<br/><br/>
+29EB|jm|Hurry to the palace!<br/><br/>
+29EC|jm|The doors are shut tight, but Mulan´s<br/>quick thinking gets them inside, where<br/>they find the man in black...<br/><br/>
+29ED|jm|Find out who that man in black is!<br/><br/>
+29EE|jm|They defeat Xigbar´s underlings, but are<br/>worried about the Captain and the Emperor<br/>and go to check on them.<br/><br/>
+29EF|jm|Check what´s going on in the palace!<br/><br/>
+29F0|jm|The Emperor and the Captain are safe.<br/>They had seen a different man in black<br/>earlier. A huge tremor shakes the palace.<br/><br/>
+29F1|jm|Check what´s going on outside!<br/><br/>
+29F2|jm|The Emperor´s story makes Sora believe<br/>Riku is safe. Mulan takes an imperial<br/>post. Sora can´t suppress his emotions.<br/><br/>
+29F3|jm|–––
+29F4|jm|Sora visits the Hundred Acre Wood<br/>again and finds Pooh´s house.<br/><br/>
+29F5|jm|Go see Pooh!<br/><br/>
+29F6|jm|Sora sees Pooh in front of his house,<br/>thinking hard about something.<br/><br/>
+29F7|jm|Talk to Pooh!<br/><br/>
+29F8|jm|A strange force blows Sora out of<br/>the book. Upon his return, he finds<br/>that only Pooh´s house remained.<br/><br/>
+29F9|jm|Go check on Pooh!<br/><br/>
+29FA|jm|What could have happened? At least<br/>Pooh is safe and sound. Sora is<br/>relieved to see the bear again.<br/><br/>
+29FB|jm|Talk to Pooh!<br/><br/>
+29FC|jm|The pages the Heartless had torn out<br/>had made Pooh lose his memory. Sora<br/>needs to collect those pages.<br/><br/>
+29FD|jm|Find the pages and put them back!<br/><br/>
+29FE|jm|All this trouble was due to the pages<br/>the Heartless had torn out.<br/><br/>
+29FF|jm|bring back Pooh´s memory with the<br/>missing pages!<br/><br/>
+2A00|jm|When Sora arrived with the torn page,<br/>a tree with a tiny door appeared.<br/><br/>
+2A01|jm|Go to the tree with the door!<br/><br/>
+2A02|jm|Sora spots Piglet being blown around by<br/>the wind.<br/><br/>
+2A03|jm|Save Piglet!<br/><br/>
+2A04|jm|Piglet was finally rescued, but was so<br/>stunned that Pooh had forgotten him<br/>that the wind carried him off again.<br/><br/>
+2A05|jm|Talk to Pooh and help Piglet!<br/><br/>
+2A06|jm|Piglet´s act of courage helps Pooh<br/>remember his friend. The book´s torn<br/>page is restored.<br/><br/>
+2A07|jm|Find the other pages!<br/><br/>
+2A08|jm|When Sora arrived with the torn page,<br/>a tree surrounded by a garden appeared.<br/><br/>
+2A09|jm|Go to the tree with the garden!<br/><br/>
+2A0A|jm|Pooh didn´t remember Eeyore, either.<br/>Eeyore thinks a full stomach might help,<br/>so he leads Pooh to honey.<br/><br/>
+2A0B|jm|Follow Eeyore!<br/><br/>
+2A0C|jm|But the honey doesn´t help Pooh<br/>remember a thing. Rabbit says he knows<br/>where to get even more honey.<br/><br/>
+2A0D|jm|Talk to Rabbit and get more honey!<br/><br/>
+2A0E|jm|Pooh watches Rabbit rack his brain and<br/>remembers both Rabbit and Eeyore. The<br/>world becomes a happier place.<br/><br/>
+2A0F|jm|Find the other pages!<br/><br/>
+2A10|jm|When Sora arrived with the torn page,<br/>a tree full of packages appeared.<br/><br/>
+2A11|jm|Go to the heavily laden tree!<br/><br/>
+2A12|jm|Worried about Pooh, Kanga and Roo<br/>brought over some medicine for him, but<br/>Tigger bounced away with it.<br/><br/>
+2A13|jm|Go after that Tigger!<br/><br/>
+2A14|jm|Tigger says it might help Pooh´s memory<br/>if everyone bounced together.<br/><br/>
+2A15|jm|Talk to Tigger and bounce together!<br/><br/>
+2A16|jm|Seeing the downhearted Tigger made<br/>Pooh remember the rest of his friends.<br/>The book is almost restored.<br/><br/>
+2A17|jm|Find the other pages!<br/><br/>
+2A18|jm|When Sora arrived with the torn page,<br/>a spooky-looking cave appeared.<br/><br/>
+2A19|jm|Go to the spooky-looking cave!<br/><br/>
+2A1A|jm|It looks like Pooh´s gone into the cave<br/>all by himself.<br/><br/>
+2A1B|jm|Talk to Kanga and go look for Pooh!<br/><br/>
+2A1C|jm|Pooh was looking for someone who´d<br/>made him a special promise--and<br/>remembered Sora at last.<br/><br/>
+2A1D|jm|Find the last page!<br/><br/>
+2A1E|jm|When Sora arrived with the torn page,<br/>a hill surrounded by a starry sky<br/>appeared.<br/><br/>
+2A1F|jm|Go to the hill with the starry sky!<br/><br/>
+2A20|jm|Pooh had gotten his head stuck in a<br/>honey pot. Silly bear!<br/><br/>
+2A21|jm|Help Pooh!<br/><br/>
+2A22|jm|Pooh was looking for a way to keep Sora<br/>from leaving. Sora says he´ll stay in<br/>Pooh´s heart forever.<br/><br/>
+2A23|jm|–––
+2A24|jm|Arriving in a gorge, Sora was bewildered<br/>by his new body. Better practice moving<br/>in it!
+2A25|jm|Move about to get used to your new form!
+2A26|jm|The party protects the lioness, Nala,<br/>from the Heartless and agrees to<br/>help restore her homeland.
+2A27|jm|Head for Pride Rock!
+2A28|jm|The shaman, Rafiki, said the one to save<br/>the Pride Lands would be king--so it<br/>couldn't be Sora.
+2A29|jm|Leave Pride Rock!
+2A2A|jm|Sora and his friends had escaped Scar.<br/>When Nala asks about Simba, they go<br/>somewhere quiet to talk.
+2A2B|jm|Cross Wildebeest Valley!
+2A2C|jm|The party crosses a huge canyon in<br/>search of a place to speak with Simba,<br/>next in line for the throne.
+2A2D|jm|Head into Wildebeest Valley!
+2A2E|jm|Scar had told Nala that Simba had died<br/>along with Mufasa in Wildebeest<br/>Valley. Rafiki points to the oasis.
+2A2F|jm|Go onward through the Wastelands!
+2A30|jm|Sora and company are happily reunited<br/>with Simba when the lion´s friends<br/>scream for help.
+2A31|jm|Help Simba´s pals in the jungle!
+2A32|jm|Nala asks Simba to return to the Pride<br/>Lands, but Simba prefers to forget the<br/>past and live for today.
+2A33|jm|See what Simba has to say!
+2A34|jm|Simba had blamed himself for his father´s<br/>death, but a vision of his dad<br/>convinces him to go home.
+2A35|jm|Get back to the kingdom and settle this!
+2A36|jm|Scar was the one who killed Mufasa.<br/>Simba and Scar head for the peak,<br/>fighting the whole way.
+2A37|jm|Follow Simba and Scar to the peak!
+2A38|jm|Simba lets out a roar of triumph from the<br/>Pride Rock overlook. The lionesses greet<br/>their new ruler.
+2A39|jm|–––
+2A3A|jm|Simba is king of the Pride Lands. How is<br/>the kingdom faring under its new ruler?<br/><br/>
+2A3B|jm|Onward to the Pride Lands!<br/><br/>
+2A3C|jm|Sora and friends arrive on the savannah.<br/>Simba´s nothing but a big joke<br/>to the hyenas...what´s going on?<br/><br/>
+2A3D|jm|Go see Simba!<br/><br/>
+2A3E|jm|Scar´s ghost appeared before the party<br/>on their way to see Simba. The king<br/>should know about this!<br/><br/>
+2A3F|jm|Tell Simba about the ghost!<br/><br/>
+2A40|jm|Simba´s subjects were very uneasy about<br/>his rule, citing the ghost as a sign of<br/>the Pride Land´s decline.<br/><br/>
+2A41|jm|See what Simba has to say!<br/><br/>
+2A42|jm|Simba worried what his great father<br/>Mufasa would have done, but realizes<br/>it´s his own decisions that count.<br/><br/>
+2A43|jm|See what Rafiki has to say!<br/><br/>
+2A44|jm|Scar´s ghost was a manifestation of<br/>Simba´s weakness. They head for the<br/>elephant graveyard to learn more.<br/><br/>
+2A45|jm|Head for the elephant graveyard!<br/><br/>
+2A46|jm|The hyenas in the elephant graveyard<br/>seem to know what´s really going on.<br/><br/>
+2A47|jm|Catch those hyenas and get the story!<br/><br/>
+2A48|jm|Simba ran away from Scar´s ghost. He<br/>should be at the oasis.<br/><br/>
+2A49|jm|Head for the oasis!<br/><br/>
+2A4A|jm|Simba recognizes his friends´ support<br/>and defeats Scar´s ghost. But what about<br/>all the other ghosts?<br/><br/>
+2A4B|jm|The kingdom´s in crisis! Do something!<br/><br/>
+2A4C|jm|Simba drove out the ghosts and saved<br/>Nala. Peace reigned over the Pride Lands<br/>once again.<br/><br/>
+2A4D|jm|–––
+2A4E|jm|Sora´s come to Atlantica just in time to<br/>take part in a musical. Better practice!<br/><br/>
+2A4F|jm|See Sebastian when you´re ready!<br/><br/>
+2A50|jm|Sora and friends joined the musical to<br/>distract Ariel. It´s time for their debut.<br/><br/>
+2A51|jm|See Sebastian when you´re ready!<br/><br/>
+2A52|jm|Flounder wants to move a statue into<br/>Ariel´s grotto as a gift, but it won´t<br/>budge.<br/><br/>
+2A53|jm|See Flounder when you have Magnet!<br/><br/>
+2A54|jm|Ariel´s secret love has intensified. The<br/>musical number is ready, but Sora and his<br/>friends can´t sing it yet.<br/><br/>
+2A55|jm|{:width 95}See Sebastian when your drive gauge is at 5!<br/><br/>
+2A56|jm|Ariel´s in love with a human prince.<br/>She´s found something of his, but she<br/>can´t reach it.<br/><br/>
+2A57|jm|See Ariel when you have Magnera!<br/><br/>
+2A58|jm|Ariel signed a contract with Ursula,<br/>trading her voice for a chance to be<br/>human and be with Eric on the shore.<br/><br/>
+2A59|jm|Talk to Sebastian to check on Ariel!<br/><br/>
+2A5A|jm|Eric and Ariel are a great couple.<br/>Sebastian asks Sora and his friends for<br/>help with the musical.<br/><br/>
+2A5B|jm|See Sebastian when you have Thundaga!<br/><br/>
+2A5C|jm|The musical was a big hit! Land and sea<br/>came together in harmony.<br/><br/>
+2A5D|jm|–––
+2A5E|jm|Something´s not quite right at Disney<br/>Castle. Better go talk to Queen Minnie<br/>on the double.<br/><br/>
+2A5F|jm|Find Queen Minnie in the Library!<br/><br/>
+2A60|jm|The peaceful castle was overrun with<br/>Heartless. Queen Minnie and Sora<br/>head for the audience chamber.<br/><br/>
+2A61|jm|Head for the audience chamber!<br/><br/>
+2A62|jm|Queen Minnie broke the seal on the<br/>audience chamber. What could be<br/>inside?<br/><br/>
+2A63|jm|Enter the audience chamber!<br/><br/>
+2A64|jm|The Cornerstone of Light is being<br/>overgrown by thorns. Time to go ask<br/>Merlin, in Hollow Bastion.<br/><br/>
+2A65|jm|Go see Merlin!<br/><br/>
+2A66|jm|Merlin creates a mysterious door.<br/>They can restore the castle by<br/>closing a door beyond this one.<br/><br/>
+2A67|jm|Go through the mysterious door!<br/><br/>
+2A68|jm|Beyond Merlin´s door lies a black-and-<br/>white world that strikes the party<br/>as rather nostalgic.<br/><br/>
+2A69|jm|Save the castle!<br/><br/>
+2A6A|jm|The party passed through the door<br/>and into a monochrome world. They see<br/>a strange Pete, but he runs away.<br/><br/>
+2A6B|jm|Is that...Pete? After him!<br/><br/>
+2A6C|jm|Searching for Merlin´s door, they look<br/>through a strange window to see<br/>Heartless in four different places.<br/><br/>
+2A6D|jm|Defeat the Heartless in the windows!<br/><br/>
+2A6E|jm|They peered into the window and saw<br/>Maleficent angrily scolding someone.<br/><br/>
+2A6F|jm|Three more groups of Heartless to go!<br/><br/>
+2A70|jm|This window showed a door just like the<br/>one Merlin had made. It should lead to<br/>this same black-and-white world, too.<br/><br/>
+2A71|jm|Two more groups of Heartless to go!<br/><br/>
+2A72|jm|The mysterious doors were connected to<br/>the past, and that´s where Sora and<br/>his friends realized they were.<br/><br/>
+2A73|jm|One more group of Heartless to go!<br/><br/>
+2A74|jm|Pete´s stolen the Cornerstone of Light.<br/>Soon the castle will be overcome by<br/>darkness. After him!<br/><br/>
+2A75|jm|Follow Pete toward the waterway!<br/><br/>
+2A76|jm|The party managed to protect the<br/>Cornerstone of Light, but Pete got off<br/>his boat and escaped.<br/><br/>
+2A77|jm|Follow Pete!<br/><br/>
+2A78|jm|Sora and company sealed the door Pete<br/>used and returned the Cornerstone of<br/>Light. The castle is safe again.<br/><br/>
+2A79|jm|–––
+2A7A|jm|Sora and friends arrive in Halloween<br/>Town and are puzzled by its appearance<br/>until they spot Jack´s friend Zero.<br/><br/>
+2A7B|jm|Follow Zero!<br/><br/>
+2A7C|jm|Jack is in the town square, obsessed with<br/>Christmas. He wants to show them something<br/>and takes them to Sally.<br/><br/>
+2A7D|jm|Head for the lab to see Sally!<br/><br/>
+2A7E|jm|Jack sets off to see Santa despite<br/>Sally´s feeling of dread. Just then,<br/>Heartless appear in the town square.<br/><br/>
+2A7F|jm|Clear the Heartless from the square!<br/><br/>
+2A80|jm|Jack asks Sora to be Santa´s bodyguard.<br/>The doorway to Christmas Town is in the<br/>woods past the graveyard.<br/><br/>
+2A81|jm|Head for the doorway in the woods!<br/><br/>
+2A82|jm|A snowy world awaits the party past<br/>the gate--Christmas Town, bright<br/>and festive and free of terror and fear.<br/><br/>
+2A83|jm|Head into town to see Santa!<br/><br/>
+2A84|jm|There are Heartless in Christmas Town<br/>too! Sora and company fight as one to<br/>keep Christmas safe and sound.<br/><br/>
+2A85|jm|Go into Santa´s house!<br/><br/>
+2A86|jm|The party is excited to meet Santa.<br/>During their visit, they hear a loud noise<br/>come from a back room.<br/><br/>
+2A87|jm|Check out the back room!<br/><br/>
+2A88|jm|They spot Lock, Shock, and Barrel<br/>running from the toy workshop. Better<br/>not let them escape!<br/><br/>
+2A89|jm|Follow those footprints!<br/><br/>
+2A8A|jm|They spot Lock, Shock, and Barrel<br/>running from the toy workshop. Better<br/>not let them escape!<br/><br/>
+2A8B|jm|Catch that mischievous trio!<br/><br/>
+2A8C|jm|They find Lock, Shock, and Barrel, who<br/>tell them that Oogie´s back! Then<br/>the pranksters run off again.<br/><br/>
+2A8D|jm|See what´s going on in town!<br/><br/>
+2A8E|jm|Oogie´s kidnapped Santa! Sally says<br/>Oogie´s headed straight for Christmas<br/>Town.<br/><br/>
+2A8F|jm|Hurry to Christmas Town!<br/><br/>
+2A90|jm|The party chases Oogie to Christmas<br/>Town, where they spot smoke rising from<br/>Santa´s chimney.<br/><br/>
+2A91|jm|Hurry to Santa´s house!<br/><br/>
+2A92|jm|Jack wants to do Santa´s job this<br/>Christmas, but Santa reminds him of his<br/>own important job of Pumpkin King.<br/><br/>
+2A93|jm|–––
+2A96|jm|Jack´s the Pumpkin King again. What´s<br/>he up to these days?<br/><br/>
+2A97|jm|Onward to Halloween Town!<br/><br/>
+2A98|jm|Sora and friends find presents all over<br/>the place in Halloween Town. They<br/>help Jack deliver them to Santa.<br/><br/>
+2A99|jm|Bring the presents back to Santa!<br/><br/>
+2A9A|jm|The presents had been stolen. Just as<br/>they leave to find the culprit, they hear<br/>something in the workshop.<br/><br/>
+2A9B|jm|Check out the toy workshop!<br/><br/>
+2A9C|jm|They enter the toy workshop to find the<br/>source of the suspicious sound.<br/><br/>
+2A9D|jm|Keep exploring the toy workshop!<br/><br/>
+2A9E|jm|The three pranksters hadn´t taken the<br/>presents. Sally shows up to say that<br/>Heartless were in the town square.<br/><br/>
+2A9F|jm|Go back to Halloween Town!<br/><br/>
+2AA0|jm|The doctor´s experiment was stolen, too!<br/>The party heads for Santa´s house to<br/>make decoy presents as bait.<br/><br/>
+2AA1|jm|Go to Santa´s house for help!<br/><br/>
+2AA2|jm|Sora and company go up to the second<br/>floor of the toy workshop to make the<br/>decoy presents.<br/><br/>
+2AA3|jm|Go up to the second floor!<br/><br/>
+2AA4|jm|The decoy presents are complete. Santa<br/>says he knows a great place to set<br/>the trap for the thief.<br/><br/>
+2AA5|jm|Talk to Santa!<br/><br/>
+2AA6|jm|Sora´s team came to Port Royal. They<br/>looked around and noticed a disturbance<br/>down at the harbor.<br/><br/>
+2AA7|jm|Go down the stairs toward the harbor!<br/><br/>
+2AA8|jm|It was Pete and undead pirates! What are<br/>they up to? They headed into town looking<br/>for a medallion.<br/><br/>
+2AA9|jm|Follow the pirates into town!<br/><br/>
+2AAA|jm|Elizabeth, the governor´s daughter, has<br/>been kidnapped! Sora and Will head for<br/>the harbor after the pirates.<br/><br/>
+2AAB|jm|Hurry after the pirates to the harbor!<br/><br/>
+2AAC|jm|The pirates´ ship had already sailed.<br/>With pirate Jack Sparrow´s help, Sora´s<br/>team decided to follow.<br/><br/>
+2AAD|jm|Talk to Will and get on the ship!<br/><br/>
+2AAE|jm|The pirates were cursed by gold<br/>medallions, but if the gold is recovered<br/>and the blood repaid, the curse will be<br/>broken.<br/><br/>
+2AAF|jm|Chase the pirates´ ship, the Black Pearl!<br/><br/>
+2AB0|jm|Barbossa, leader of the undead pirates,<br/>was once part of Jack´s crew. Jack said<br/>he wants the Black Pearl back.<br/><br/>
+2AB1|jm|Head for Isla de Muerta, where the<br/>pirates are!<br/><br/>
+2AB2|jm|At Isla de Muerta, Sora´s team was told<br/>to watch the boat. But no one´s back yet,<br/>and they´re worried.<br/><br/>
+2AB3|jm|Go in the cave!<br/><br/>
+2AB4|jm|The pirates have all the gold back. Now<br/>the blood must be repaid. The ceremony is<br/>about to begin.<br/><br/>
+2AB5|jm|Proceed to the back of the cave!<br/><br/>
+2AB6|jm|The blood has been repaid, but the curse<br/>remains... Will saved Elizabeth, and<br/>everyone escaped.<br/><br/>
+2AB7|jm|Return to Port Royal!<br/><br/>
+2AB8|jm|On the way back to Port Royal, the truth<br/>came out. Will´s is the blood to be<br/>repaid.<br/><br/>
+2AB9|jm|Return to Port Royal!<br/><br/>
+2ABA|jm|Barbossa tracked down the Interceptor,<br/>taking Will and rigging the ship with<br/>gunpowder. It´s gonna blow!<br/><br/>
+2ABB|jm|Do something about the powder barrels!<br/><br/>
+2ABC|jm|Sora´s team somehow survived the crisis.<br/>Now they need to go after Barbossa and<br/>help Will.<br/><br/>
+2ABD|jm|Go into the heart of Isla de Muerta!<br/><br/>
+2ABE|jm|Barbossa was defeated, and Will and<br/>Elizabeth reunited. Jack set sail once<br/>again on the Black Pearl.<br/><br/>
+2ABF|jm|–––
+2AC0|jm|How was Port Royal holding up now that<br/>the undead pirates were gone?<br/><br/>
+2AC1|jm|Onward to Port Royal!<br/><br/>
+2AC2|jm|Sora´s team returned to Port Royal, but<br/>there´s more trouble at the harbor.<br/><br/>
+2AC3|jm|Go see what´s up at the harbor!<br/><br/>
+2AC4|jm|The undead pirates were behind the<br/>harbor trouble. With Jack´s help, they<br/>fell. Will has gone to Isla de Muerta<br/>alone.<br/><br/>
+2AC5|jm|Take the ship to Isla de Muerta!<br/><br/>
+2AC6|jm|Sora´s team finds Will, and he talks about<br/>a monster Organization {XIII} set loose.<br/>Jack is not keen on chasing it.<br/><br/>
+2AC7|jm|Get the ship moving away from here!<br/><br/>
+2AC8|jm|In the heat of battle, the Interceptor<br/>was sunk and Sora´s team was sent<br/>flying. They washed up at a ship<br/>graveyard.<br/><br/>
+2AC9|jm|Search the island for a seaworthy ship!<br/><br/>
+2ACA|jm|Once again Jack is cursed by the<br/>Organization´s monster. Only the stolen<br/>gold the enemy has can stop it now.<br/><br/>
+2ACB|jm|Collect the gold medallions!<br/><br/>
+2ACC|jm|Sora´s team collected all the gold. The<br/>Organization must have gone to a place<br/>with lots of people.<br/><br/>
+2ACD|jm|Head toward Port Royal!<br/><br/>
+2ACE|jm|The cursed gold was sent to Davy Jones´s<br/>locker, and Port Royal is at peace.<br/><br/>
+2ACF|jm|–––
+2AD0|jm|Sora and friends have been dragged into<br/>the computer system. They decide to<br/>attempt a jailbreak with Tron's help.<br/><br/>
+2AD1|jm|Open the pit cell door!<br/><br/>
+2AD2|jm|The party escapes with Tron´s help. To<br/>return to the outside world, they´ll<br/>need the energy core in the canyon.<br/><br/>
+2AD3|jm|Seek out the canyon´s energy core!<br/><br/>
+2AD4|jm|Working the energy core in the canyon<br/>will restore power to the terminal<br/>needed to reach the outside world.<br/><br/>
+2AD5|jm|Seek out the canyon´s energy core!<br/><br/>
+2AD6|jm|Thanks to Tron, the way home is open.<br/>To get the terminal started, the party<br/>must go back to the pit cell.<br/><br/>
+2AD7|jm|Return to the pit cell!<br/><br/>
+2AD8|jm|Tron was asking about the password to<br/>a dataspace called the DTD. Ansem, his<br/>user, had it.<br/><br/>
+2AD9|jm|Find Ansem´s password!<br/><br/>
+2ADA|jm|Sora tracked down the password. Now<br/>they head for the DTD dataspace with<br/>Tron.<br/><br/>
+2ADB|jm|Head for the dataspace!<br/><br/>
+2ADC|jm|Tron uses the password to unlock the<br/>dataspace, but the MCP counters with a<br/>program that could wreck the town.<br/><br/>
+2ADD|jm|Hurry to the I/O tower!<br/><br/>
+2ADE|jm|The hostile program continues to be<br/>transmitted into the town from the I/O<br/>tower.<br/><br/>
+2ADF|jm|Take on the foes in the tower hallway!<br/><br/>
+2AE0|jm|Sora and friends save the town. They<br/>will return to the outside world, though<br/>questions about Ansem remain.<br/><br/>
+2AE1|jm|Return to Hollow Bastion!<br/><br/>
+2AE2|jm|With a special connection to Tron, the<br/>party returns to the outside world.<br/><br/>
+2AE3|jm|–––
+2AE4|jm|Tron should be holding off the MCP.<br/>How´s he doing?<br/><br/>
+2AE5|jm|Onward to Space Paranoids!<br/><br/>
+2AE6|jm|The party is once again in the computer<br/>world. They´re concerned about Tron,<br/>who´s trapped on the game grid.<br/><br/>
+2AE7|jm|Warp to the game grid!<br/><br/>
+2AE8|jm|The MCP plans all-out war with<br/>the Users. Together again with Tron,<br/>the party goes to pick up a program<br/>that can delete the MCP.<br/><br/>
+2AE9|jm|Head for the I/O tower!<br/><br/>
+2AEA|jm|The party is almost at the I/O Tower.<br/>Leon´s doing what he can from the<br/>outside world.<br/><br/>
+2AEB|jm|Hurry into the I/O Tower!<br/><br/>
+2AEC|jm|The program Leon sent opens up the<br/>solar sailer, which the party can use<br/>to reach the MCP.<br/><br/>
+2AED|jm|Use the solar sailer to reach the MCP!<br/><br/>
+2AEE|jm|Sora´s team gets off the solar sailer at<br/>the MCP´s mesa. The final battle is near.<br/><br/>
+2AEF|jm|Enter the central computer core!<br/><br/>
+2AF0|jm|Sora and friends promise they´ll see<br/>Tron again. Tron sends a gift: a view<br/>of the town´s early days.<br/><br/>
+2AF1|jm|–––
+2AF2|jm|With Axel´s help, we made our way out of<br/>the darkness. It seemed Kairi was being<br/>held in the castle dungeon.<br/><br/>
+2AF3|jm|Find the castle to save Kairi!<br/><br/>
+2AF4|jm|The First Day<br/><br/>
+2AF5|jm|The Second Day<br/><br/>
+2AF6|jm|The Third Day<br/><br/>
+2AF7|jm|The Fourth Day<br/><br/>
+2AF8|jm|The Fifth Day<br/><br/>
+2AF9|jm|<br/><br/>
+2AFA|jm|Guided by a voice calling out to him,<br/>Sora awoke in a mysterious old mansion.<br/>He must have been sleeping there for<br/>a long time, but he couldn´t remember<br/>a thing.<br/><br/>
+2AFB|jm|Stepping outside, he found the town<br/>strangely familiar, even though he had<br/>never been there before.<br/><br/>
+2AFC|jm|Sora was wandering around Twilight<br/>Town as puzzled as ever when he met<br/>Hayner, Pence, and Olette in the back<br/>alley. They said they´d seen someone<br/>at the station who was looking for<br/>Sora and his friends. From the sounds<br/>of things, it must be the King.<br/><br/>
+2AFD|jm|Sora and his friends hurried to the<br/>station, but suddenly found themselves<br/>surrounded by swarms of foes. The<br/>black-clad warrior who rescued them<br/>from their predicament was none other<br/>than the King himself! There was little<br/>time to celebrate their reunion. "You<br/>gotta board the train and leave town!"<br/>said the King, who gave Sora a pouch<br/>of munny before disappearing. But if<br/>the King had been locked away in the<br/>realm of darkness and was safe and sound,<br/>that meant Riku must be, too. Sora made<br/>up his mind to search for Riku: "He and<br/>I can go back to the islands together.<br/>Kairi´s there waiting for us!" Donald<br/>and Goofy agreed to come along too, of<br/>course.<br/><br/>
+2AFE|jm|It was time for them to set out on<br/>their next journey. Just like the King<br/>said, they had to take a train out of<br/>town; they said good-bye to Hayner and<br/>the others, who had come to the station<br/>to see them off.<br/><br/>
+2AFF|jm|It was a tearful farewell, even though<br/>Sora had only just met the three<br/>friends... Still feeling strangely sad,<br/>they rode the train to the base of a<br/>lonely tower.<br/><br/>
+2B00|jm|Donald and Goofy knew the fellow at<br/>the tower entrance--Pete, who was<br/>never up to any good. The King had<br/>banished him to another dimension, but<br/>the sorceress Maleficent freed Pete,<br/>who served her now. He was gathering an<br/>army of Heartless and had his eye on<br/>making a Heartless out of the King´s<br/>teacher, Master Yen Sid.<br/><br/>
+2B01|jm|The tower was overflowing with Heartless.<br/>Master Yen Sid was waiting for Sora and<br/>his friends when they finally made their<br/>way to the top: "Chosen wielder of the<br/>Keyblade! You are the key that will open<br/>the door to light."<br/><br/>
+2B02|jm|According to Yen Sid, the light was<br/>under a new threat from the enemies<br/>called "Nobodies." These were the<br/>empty shells left behind when someone<br/>with a strong heart became a Heartless,<br/>yet they had purpose and will they<br/>could act on. A group called Organization<br/>{XIII} was controlling these Nobodies,<br/>although their goals are still unknown.<br/>The King is on a journey to discover<br/>what exactly Organization {XIII} is trying<br/>to accomplish, and if they find the<br/>King, they´ll likely know where Riku<br/>is, too.<br/><br/>
+2B03|jm|Sora decided to go out in search of<br/>the King, but needed to change out of<br/>his too-small outfit first.<br/><br/>
+2B04|jm|The three good fairies gave Sora<br/>enchanted garments in preparation<br/>for his journey.<br/><br/>
+2B05|jm|All that was left was to set sail in<br/>the Gummi ship Master Yen Sid had<br/>prepared. If they opened the gates as<br/>indicated by the beam of light streaming<br/>from the Keyblade, new paths should<br/>appear one after the other, connecting<br/>the worlds once more. Yes, everything<br/>is connected, even hearts that are far<br/>apart and out of reach. A new adventure<br/>awaits!<br/><br/>
+2B08|jm|They arrived in Twilight Town again to<br/>find Vivi desperately searching for help.<br/><br/>
+2B09|jm|Sora and friends ran to the sandlot and<br/>defeated the Nobodies who were<br/>threatening Seifer and his gang. Saïx,<br/>a member of Organization {XIII}, appeared<br/>to give the group a warning. It seems<br/>Axel had gone AWOL and was aiming to<br/>turn Sora into a Heartless. He then<br/>made a fleeting remark about Riku before<br/>vanishing into the darkness. Seifer<br/>tried to get Sora to accept a trophy<br/>proclaiming him the strongest guy in<br/>town. That´s when a flustered Pence<br/>came by and asked, "You know somebody<br/>named Kairi?"<br/><br/>
+2B0A|jm|The box found in the realm of darkness<br/>held some ice cream and photos of the<br/>old mansion in Twilight Town.<br/><br/>
+2B0B|jm|Sora and his friends came by the mansion<br/>searching for clues, only to find Hayner<br/>and his friends recovering after being<br/>attacked by Heartless. Olette said they<br/>thought the old mansion was some kind of<br/>gateway to an alternate Twilight Town.<br/>"What do you mean, alternate?" For<br/>some strange reason, Sora and friends<br/>found they had duplicates of the<br/>handmade pouch and crystals that had<br/>supposedly been one of a kind. This<br/>proved that there was a Twilight Town<br/>"out there" that closely resembled the<br/>one "over here." "That other town must<br/>be where whatever´s missing from here<br/>went!" said Pence. If Kairi had<br/>disappeared from this Twilight Town...<br/>could she be waiting in the other one?<br/>That´s when the King appeared. He was<br/>on the trail of Ansem the Wise, who was<br/>heading for Organization {XIII}´s stronghold.<br/>Though he was pretty vague about it, it<br/>sounded like Sora might be able to meet<br/>up with Riku if he tagged along, too.<br/><br/>
+2B0C|jm|According to the King, the old mansion´s<br/>computer was connected to the Twilight<br/>Town "over there," where they should<br/>be able to find a way into the realm of darkness.<br/><br/>
+2B0D|jm|The computer was password-protected,<br/>but Sora and his friends remembered a<br/>likely hint: the ice cream that had been<br/>in the box with the photos of the mansion!<br/><br/>
+2B0E|jm|Turns out the password was "sea salt<br/>ice cream." Entering the name of<br/>Ansem the Wise´s favorite treat<br/>activated the device, which shot out<br/>a beam of light. The road to the other<br/>Twilight Town had been opened.<br/><br/>
+2B0F|jm|Sora and his friends arrived in the<br/>other Twilight Town and joined the King<br/>in his search for a way into the dark<br/>realm.<br/><br/>
+2B10|jm|Once again we came to Hollow Bastion.<br/>Things were different, but peace<br/>remained as far-off as ever.<br/><br/>
+2B11|jm|While wandering through a town still<br/>plagued by Heartless, we were reunited<br/>with Yuffie.<br/><br/>
+2B12|jm|"Welcome to the Hollow Bastion Restoration<br/>Committee!" We were led to Merlin´s house<br/>and found Leon and all our old friends<br/>there. Apparently they had all only recently<br/>remembered us. We agreed to help rebuild<br/>the town, but some big obstacles remained.<br/><br/>
+2B13|jm|In Villain´s Vale the Heartless were<br/>swarming, as Nobodies darted about.<br/>Sora was ready to take the entire horde<br/>on, but just then Organization {XIII} appeared,<br/>mocking Sora with puzzling words. But<br/>with no time to reflect on this, the<br/>Keyblade shone, opening the way to<br/>another world. Remembering Yen Sid´s<br/>words, we set off once again.<br/><br/>
+2B14|jm|Guided by Merlin, we returned to Hollow<br/>Bastion. And what did he have? The Book<br/>of Pooh!<br/><br/>
+2B15|jm|But the Heartless tore out the pages,<br/>and Pooh´s memories with them. To<br/>put things back in order, we had no<br/>choice but to find all the torn pages.<br/><br/>
+2B16|jm|Thorns had appeared in Disney Castle.<br/>If we didn´t hurry, it would fall to<br/>the darkness.<br/><br/>
+2B17|jm|With Merlin´s assistance, we found<br/>out a way to save Disney Castle.<br/><br/>
+2B18|jm|Thanks to Sora and his friends,<br/>peace returned to the castle once<br/>more.<br/><br/>
+2B19|jm|The Heartless and Nobodies in Hollow<br/>Bastion continued to grow in number.<br/><br/>
+2B1A|jm|Upon returning to Merlin´s house, we<br/>learned of a computer Ansem used<br/>in his research.<br/><br/>
+2B1B|jm|What´s more, we found out the King<br/>was with Leon!<br/><br/>
+2B1C|jm|But when we got to Ansem´s study,<br/>there was no King and no computer.<br/><br/>
+2B1D|jm|The door to the computer room was<br/>concealed by a hidden switch.<br/><br/>
+2B1E|jm|Hardly computer savvy, Sora and<br/>Donald pounded on the computer´s keys,<br/>until a strange device activated and<br/>sucked us all into a strange world.<br/><br/>
+2B21|jm|The world we found ourselves in was<br/>the computer system itself! With the<br/>help of a security program named Tron,<br/>we got back to the outside world and<br/>began looking for the password to a<br/>dataspace inside the computer. Inside<br/>that dataspace was all of Ansem´s<br/>research data.<br/><br/>
+2B22|jm|Back in the outside world, we used<br/>scribbles on a blueprint ("Door to<br/>Darkness") and the King´s own hints<br/>to figure out the password: the names<br/>of the Seven Princesses that were<br/>used to open that very door.<br/><br/>
+2B23|jm|We headed back into the computer<br/>world to keep our promise to Tron.<br/><br/>
+2B25|jm|We unlocked the dataspace and returned<br/>to Hollow Bastion. Now we could get to<br/>the data inside the DTD.<br/><br/>
+2B26|jm|But nearly all the data was corrupted,<br/>and no entries on Riku or Kairi were to<br/>be found. While poking around, we dug<br/>up someone´s portrait. The King said it<br/>was Ansem, but he wasn´t the Ansem we<br/>knew! The Ansem we knew was just the<br/>Heartless of someone who was pretending<br/>to be Ansem, and the Nobody of that same<br/>guy was the leader of Organization {XIII}.<br/>Whew! The King said he was searching for<br/>the real Ansem, who would know who the<br/>fake Ansem was. With all that said,<br/>the room lurched with a loud noise.<br/><br/>
+2B27|jm|Outside, the Heartless and Nobodies<br/>were swarming into the town.<br/><br/>
+2B28|jm|<br/><br/>
+2B29|jm|Leon and our other friends confronted<br/>the enemy horde. Everyone charged<br/>fearlessly into the sea of foes pouring<br/>from the valley´s great maw.<br/><br/>
+2B2A|jm|And who showed his face at the end?<br/>Xemnas, leader of Organization {XIII}.<br/>His true identity was Xehanort, pupil<br/>of Ansem the Wise. Sora tried to ask<br/>about Riku and Kairi, but Xemnas told<br/>him to "ask your King" and disappeared<br/>into the darkness. Then Axel appeared,<br/>warning Sora that the Organization<br/>was using him. Lost for answers,<br/>Sora was surrounded by Heartless--<br/>and then a ray of light appeared...<br/>Amidst much speculation, the battle<br/>drew to a tentative close.<br/><br/>
+2B2B|jm|Hollow Bastion was supposed to be<br/>at peace...<br/><br/>
+2B2C|jm|But something was wrong.<br/><br/>
+2B2D|jm|The MCP hijacked the computer system<br/>and sent Heartless after Heartless<br/>into the town.<br/><br/>
+2B2E|jm|We headed off to see Tron again.<br/><br/>
+2B2F|jm|The source of the crisis was the<br/>MCP, which hoped to seize power.<br/>After destroying the MCP, we received<br/>a present from Tron. It was a<br/>picture of the town in its early<br/>days. Seeing the old sights brought<br/>back our friends´ memories. When<br/>the name Hollow Bastion came into<br/>use, they did not know--but the<br/>town´s true name was "Radiant<br/>Garden."<br/><br/>
+2B32|jm|We stopped by the castle, but the<br/>Beast wasn´t being very friendly. It<br/>seemed all he was interested in was<br/>his precious rose.<br/><br/>
+2B33|jm|We asked Belle what was going on.<br/><br/>
+2B34|jm|Belle told us the Beast had been<br/>acting strange lately, and had locked<br/>up the servants in the dungeon.<br/><br/>
+2B35|jm|We went to the west hall to rescue<br/>the servants and learn more.<br/><br/>
+2B36|jm|But a wardrobe was blocking the<br/>door to the basement.<br/><br/>
+2B37|jm|When we tried to move the wardrobe,<br/>it talked! It was a human who had<br/>been magically transformed. When<br/>an enchantress turned the young<br/>master, a prince, into a beast<br/>because of his cruelty, she<br/>transformed all of his servants as<br/>well.<br/><br/>
+2B38|jm|We defeated the marauding door and<br/>entered the dungeon, where we<br/>found the enchanted servants.<br/><br/>
+2B39|jm|Having served the Beast for many<br/>years, they believed Heartless had<br/>caused the change in his demeanor.<br/>We stepped up to the plate at the<br/>first mention of Heartless.<br/><br/>
+2B3A|jm|The servants showed us to<br/>a secret passage.<br/><br/>
+2B3B|jm|We opened the hidden door and headed<br/>for the Beast´s room.<br/><br/>
+2B3C|jm|Inside was Xaldin from Organization<br/>{XIII}, stoking the flames of the Beast´s<br/>anger. Enraged, the Beast set upon<br/>us, but he recovered his senses with<br/>the servants´ help. The Beast worried<br/>that he had done something terrible<br/>to Belle while his mind was not his<br/>own.<br/><br/>
+2B3D|jm|Wanting to talk to Belle, the Beast<br/>went in search of her, but she was<br/>nowhere to be found.<br/><br/>
+2B3E|jm|Just then, her voice came from the<br/>ballroom, calling for help!<br/><br/>
+2B3F|jm|We fought the Heartless that had<br/>come after Belle. She was unharmed,<br/>although Xaldin escaped. The Beast<br/>apologized for his behavior and the<br/>two became closer than ever. Still,<br/>it may be some time before the spell<br/>is broken.<br/><br/>
+2B40|jm|We visited the castle again. The Beast<br/>was restless and ill at ease.<br/><br/>
+2B41|jm|It was a special day indeed, when he<br/>would enjoy an elegant dance with<br/>Belle. As the dance was beginning,<br/>however, Xaldin appeared and said he<br/>had taken that which the Beast held<br/>"very dear."<br/><br/>
+2B42|jm|Xaldin had taken the Beast´s precious<br/>rose. Brokenhearted, the Beast<br/>tried to send Belle and us out of<br/>the castle. The rose was the key<br/>to breaking the spell cast on the<br/>Beast and his servants; it was their<br/>only hope.<br/><br/>
+2B43|jm|But there was no time to mope. "Don´t<br/>throw away your last chance,"<br/>encouraged Sora. The Beast found<br/>the strength to fight again.<br/><br/>
+2B44|jm|The fearless Xaldin looked down upon<br/>the revitalized Beast. "When Kingdom<br/>Hearts is ours, we can exist fully<br/>and completely."<br/><br/>
+2B45|jm|Xaldin tried to kidnap Belle as a way<br/>of trapping the Beast, but she fought<br/>back. We seized that moment to defeat<br/>Xaldin. The rose was returned safely,<br/>and the Beast realized what was truly<br/>dear to him. Their dance began. The<br/>spell will surely be broken any day<br/>now...<br/><br/>
+2B46|jm|We arrived a short distance from the<br/>Coliseum and spotted Heartless closing<br/>in on a woman.<br/><br/>
+2B47|jm|It turned out to be Hercules´ friend<br/>Megara, who was on her way to ask<br/>Hades to give Herc some time off. We<br/>were worried for her safety, so we<br/>headed for the Underworld in her place.<br/><br/>
+2B48|jm|Meanwhile, Hades was trying to make<br/>the warrior Auron, who had been<br/>summoned from the Underworld, go<br/>up against Hercules. Auron refused.<br/>We arrived in time to help Auron<br/>fight Hades, but the curse of the<br/>Underworld sapped our strength.<br/><br/>
+2B49|jm|After a bitter struggle, we managed<br/>to contain Cerberus and escape the<br/>Underworld. At the same time, Hades<br/>was looking for a way to use Sora´s<br/>Keyblade to unlock the Underworld´s<br/>coliseum.<br/><br/>
+2B4A|jm|We met up with Hercules at the Coliseum.<br/>When we told him we wanted to<br/>"teach Hades a thing or two," Herc<br/>offered to get us the Olympus Stone,<br/>which keeps its bearer safe from the<br/>power of the Underworld.<br/><br/>
+2B4B|jm|While Hercules was away, we trained<br/>hard under Phil´s watchful eye.<br/><br/>
+2B4C|jm|When Herc returned, it was with a<br/>heavy heart.<br/><br/>
+2B4D|jm|The Olympus Stone had been stolen by<br/>someone dressed in black. Just then,<br/>Hades arrived to say he´d dragged<br/>Meg down into the Underworld. Herc<br/>wanted to go save her right away, but<br/>he had a match with the Hydra to worry<br/>about.<br/><br/>
+2B4E|jm|Phil, too, was attacked by someone<br/>in black. We were the only ones who<br/>could unravel this mystery.<br/><br/>
+2B4F|jm|Still suffering from the Underworld´s<br/>curse, we made our way deeper into<br/>Hades´ lair.<br/><br/>
+2B50|jm|We found and defeated a member of<br/>Organization {XIII} and won back the<br/>Olympus Stone.<br/><br/>
+2B51|jm|The curse could no longer touch us.<br/>Sora discovered a suspicious lock<br/>deep within the Underworld and<br/>unlocked it with the Keyblade.<br/><br/>
+2B52|jm|That´s where Meg was! But why did<br/>Hades look so happy as he left the<br/>scene? Hercules caught up to the<br/>party and distracted the enemy so<br/>we could take Meg back up to the<br/>surface. Meg, however, was worried<br/>about Herc.<br/><br/>
+2B53|jm|We went back to lend a hand and take<br/>down Pete, who had been working for<br/>Hades. Hades left the party with<br/>these chilling words: "Maybe you<br/>should go check on that Hydra..."<br/><br/>
+2B54|jm|Something huge and mysterious had<br/>appeared at the Underworld entrance.<br/><br/>
+2B55|jm|The Underdrome that Zeus had locked<br/>up had apparently been unlocked and<br/>put back in business.<br/><br/>
+2B56|jm|All of us, including Hercules, were<br/>forced to participate in the Hades Cup.<br/><br/>
+2B57|jm|The Underdrome that Zeus had locked<br/>up had apparently been unlocked and<br/>put back in business. All of us,<br/>including Hercules, were forced to<br/>participate in the Hades Cup, to<br/>be held at the Underdrome.<br/><br/>
+2B58|jm|<br/><br/>
+2B59|jm|If we made it all the way to the<br/>finals, we would have to face Auron.<br/>Hercules was still down on himself,<br/>but kept moving up the ranks.<br/><br/>
+2B5A|jm|The final challengers were decided!<br/>But what was wrong with Auron?<br/>He was acting strange.<br/><br/>
+2B5B|jm|Hades, the big baddie we´d all been<br/>after, had been controlling Auron<br/>with a magical statue.<br/><br/>
+2B5C|jm|If we could find that statue, Auron´s<br/>will would be his own again. We headed<br/>for the Underworld as Herc´s clash<br/>with Auron commenced.<br/><br/>
+2B5D|jm|We finally found the statue, which<br/>contained remnants of Auron´s<br/>difficult past. His heart was<br/>strengthened by the very suffering<br/>he had had to endure.<br/><br/>
+2B5E|jm|We ran into Iago, former lackey of<br/>our old nemesis, Jafar. He swore<br/>he was a new bird, and so we took<br/>him along to the palace to see<br/>Aladdin.<br/><br/>
+2B5F|jm|We found Jasmine, who was surprised<br/>and upset to see Iago. She must´ve<br/>suspected he was up to no good.<br/><br/>
+2B60|jm|Walking into town, we heard a peddler<br/>shout "Stop, thief!" He was chasing<br/>after Abu and Aladdin.<br/><br/>
+2B61|jm|We found Jasmine, who was surprised<br/>and upset to see Iago. She must´ve<br/>suspected he was up to no good.<br/>Walking into town, we heard a peddler<br/>shout "Stop, thief!" He was chasing<br/>after Abu and Aladdin. It looks like<br/>Abu had swiped a lamp from the<br/>peddler. Aladdin returned it to its<br/>rightful owner...but that was the lamp<br/>with Jafar in it!<br/><br/>
+2B62|jm|We couldn´t let things stand like that,<br/>so we tried to get the peddler to give<br/>us the lamp. However, his asking price<br/>was a treasure fit for a sultan.<br/><br/>
+2B63|jm|We couldn´t let things stand like that,<br/>so we tried to get the peddler to give<br/>us the lamp. However, his asking price<br/>was a treasure fit for a sultan. We<br/>couldn´t just go looting the palace to<br/>buy a measly lamp, though. Iago pointed<br/>out that there might be an appropriate<br/>treasure in the Cave of Wonders.<br/><br/>
+2B64|jm|We arrived at the Cave of Wonders,<br/>former home of the magic lamp, in<br/>search of treasure.<br/><br/>
+2B65|jm|We disarmed the traps set within<br/>the Cave and moved further in.<br/><br/>
+2B66|jm|At long last, a staircase appeared<br/>before us.<br/><br/>
+2B67|jm|We opened the door.<br/><br/>
+2B68|jm|Just beyond it was a room filled<br/>with treasure! We chose a suitable<br/>prize and returned to Agrabah, but<br/>the peddler´s shop was empty.<br/><br/>
+2B69|jm|The peddler was being pursued by<br/>Pete, who wanted the magic lamp.<br/><br/>
+2B6A|jm|Pete conjured up some Heartless<br/>to nab the lamp, but they were no<br/>match for us. The lamp was sealed<br/>away, deep inside the palace. Maybe<br/>Iago really had gone straight after<br/>all...<br/><br/>
+2B6B|jm|Things should have been back to<br/>normal in Agrabah...<br/><br/>
+2B6C|jm|Jafar had returned--the peddler<br/>let him out of the magic lamp! Iago<br/>said he was in the desert ruins.<br/><br/>
+2B6D|jm|Iago led us to an oasis. A sandstorm<br/>blocked our way, but Genie´s magic<br/>helped us get through and continue<br/>toward the ruins.<br/><br/>
+2B6E|jm|But Jafar was nowhere to be found.<br/>In fact, Iago had tricked us into<br/>going to the ruins. It was a scheme<br/>of Jafar´s to get them away from<br/>the palace!<br/><br/>
+2B6F|jm|We rushed back to the palace and put<br/>an end to Jafar´s evil ambitions.<br/>Genie restored the battle-scarred<br/>town, and peace returned once more.<br/><br/>
+2B70|jm|<br/><br/>
+2B71|jm|We arrived in a bamboo grove and<br/>spotted what looked like a huge<br/>Heartless nearby. It turned out to<br/>be Mushu, who had journeyed with<br/>us before. Sora met Mulan, and<br/>learned that Mushu is a guardian<br/>dragon for her family. She was<br/>pretending to be a man so she could<br/>join the Imperial Army and face the<br/>Huns.<br/><br/>
+2B72|jm|Mulan attempted to join the army<br/>under the name Ping, but she was<br/>turned away. Sora proposed a way<br/>for Ping to prove himself: he must<br/>complete the captain´s assignments<br/>as a test of his worth.<br/><br/>
+2B73|jm|Ping worked hard on his assignments<br/>and grew ever stronger.<br/><br/>
+2B74|jm|Although Ping was allowed to join the<br/>army, he still wasn´t recognized as<br/>much of a soldier. That´s when Mushu<br/>spotted Shan-Yu walking into a cave.<br/>Ping would be a hero if he could defeat<br/>the mighty Hun leader.<br/><br/>
+2B75|jm|We helped Ping search the cave for<br/>Shan-Yu, but he was gone. We cleared<br/>out a swarm of Heartless who had<br/>appeared in the cave instead.<br/><br/>
+2B76|jm|When we returned to camp to tell the<br/>captain of Ping´s heroic deed, we<br/>found both the village and the<br/>troops had been decimated by<br/>Shan-Yu´s army.<br/><br/>
+2B77|jm|We faced off against the enemy army<br/>at the mountain peak. Ping devised<br/>an ace strategy for defeating both<br/>Shan-Yu and his Heartless hordes,<br/>but she was revealed to be a woman<br/>and expelled from the army.<br/><br/>
+2B78|jm|Mulan was ready to give up and go<br/>back home. Then she spotted Shan-Yu,<br/>who she thought had been defeated,<br/>heading for the Imperial City.<br/><br/>
+2B79|jm|The Emperor was in real trouble!<br/><br/>
+2B7A|jm|We arrived just in time to defeat Shan<br/>Yu and keep the Emperor safe. Mulan<br/>was praised by both the Emperor and<br/>the Captain as China´s bravest woman.<br/><br/>
+2B7B|jm|Peace reigned in the Land of<br/>Dragons...or did it?<br/><br/>
+2B7C|jm|We stopped by the village again and<br/>spotted someone dressed all in black.<br/><br/>
+2B7D|jm|Mulan joined us as we pursued the<br/>man to the mountain´s peak.<br/><br/>
+2B7E|jm|Sora felt something as he came<br/>face to face with the man. Could it<br/>be Riku? He ran away before Sora<br/>could find out.<br/><br/>
+2B7F|jm|Sora felt something as he came<br/>face to face with the man. Could it<br/>be Riku? He ran away before Sora<br/>could find out. A giant Heartless<br/>showed up instead, and it was<br/>headed for the Imperial City!<br/><br/>
+2B80|jm|We ran toward the Imperial City, but<br/>everything was fine. A black-cloaked<br/>man had been spotted nearby.<br/><br/>
+2B81|jm|We hurried to the palace.<br/><br/>
+2B82|jm|The doors were shut tight, but Mulan´s<br/>quick thinking got us inside, where<br/>we found the man in black...<br/><br/>
+2B83|jm|"Riku?" The man revealed his identity<br/>after Sora called out to him. It<br/>was Xigbar from Organization {XIII}.<br/>We held off the enemies Xigbar<br/>sent after us.<br/><br/>
+2B84|jm|We went to make sure the Emperor<br/>and the Captain were safe. They<br/>both said they had met a black-cloaked<br/>man earlier--and it wasn´t Xigbar.<br/>Was it Riku? Just then a huge<br/>tremor shook the palace.<br/><br/>
+2B85|jm|The giant Heartless we saw on the<br/>summit had arrived. We all worked<br/>together to defeat it and protect<br/>the Imperial City. Mulan´s brave<br/>feats were recognized as she was<br/>asked to serve alongside the Captain.<br/>Sora was confident that Riku was<br/>all right.<br/><br/>
+2B86|jm|Sora was back in the Hundred Acre<br/>Wood once again.<br/><br/>
+2B87|jm|Pooh was in front of his house,<br/>thinking hard about something<br/>or other.<br/><br/>
+2B88|jm|When Sora spoke with Pooh, a strange<br/>force blew him back out of the book,<br/>which was about to be stolen by<br/>Heartless. Sora got it back and went<br/>inside, only to find that Pooh´s<br/>house was all that was left.<br/><br/>
+2B89|jm|Sora was relieved to learn that<br/>Pooh was safe and sound.<br/><br/>
+2B8A|jm|But something was wrong. The pages<br/>the Heartless had torn out had<br/>affected Pooh´s memory. He could<br/>hardly remember a thing.<br/><br/>
+2B8B|jm|An extra page<br/><br/>
+2B8C|jm|When Sora arrived with the torn page,<br/>a tree with a tiny door appeared.<br/><br/>
+2B8D|jm|Sora spotted Piglet being blown<br/>around by the wind.<br/><br/>
+2B8E|jm|Piglet was finally rescued, but was<br/>so stunned that Pooh had forgotten<br/>him that he was carried off by the<br/>wind yet again.<br/><br/>
+2B8F|jm|Sora tried to help Piglet, who had<br/>to jump down from a high perch.<br/>This courageous act jogged Pooh´s<br/>memory a little: he remembered<br/>Piglet, but still didn´t recognize Sora.<br/><br/>
+2B90|jm|When Sora arrived with the torn<br/>page, a tree surrounded by a garden<br/>appeared.<br/><br/>
+2B91|jm|Pooh didn´t remember Eeyore, either.<br/>The donkey suspected Pooh´s memory<br/>would improve with a full stomach, so<br/>he led him to a stash of honey.<br/><br/>
+2B92|jm|But the honey didn´t seem to help<br/>Pooh remember a thing. Rabbit,<br/>whose honey Pooh was eating,<br/>thought the bear might need even<br/>more of the sweet and gooey treat.<br/><br/>
+2B93|jm|That didn´t help, either. Watching<br/>Rabbit rack his brain, Pooh<br/>remembered both Rabbit and Eeyore,<br/>although Sora was still a stranger<br/>to him.<br/><br/>
+2B94|jm|When Sora arrived with the torn<br/>page, a tree full of packages<br/>appeared.<br/><br/>
+2B95|jm|Worried about Pooh, Kanga and Roo<br/>brought over some medicine for him,<br/>but Tigger bounced away with it.<br/><br/>
+2B96|jm|Tigger suggested that Pooh´s memory<br/>might return if everyone bounced<br/>together.<br/><br/>
+2B97|jm|But Pooh´s mind remained as blank<br/>as ever. Seeing the downhearted<br/>Tigger brought back Pooh´s memories<br/>of the rest of his friends. Then, in<br/>a dream, Pooh seemed about to<br/>remember something else...<br/><br/>
+2B98|jm|When Sora arrived with the torn<br/>page, a spooky-looking cave appeared.<br/><br/>
+2B99|jm|It looked like Pooh had gone into the<br/>cave all by himself.<br/><br/>
+2B9A|jm|He had been looking for someone<br/>who´d made him a very special<br/>promise. That turned out to be<br/>Sora. Pooh and Sora took each<br/>other´s hand and headed back happy,<br/>surrounded by their friends.<br/><br/>
+2B9B|jm|When Sora arrived with the torn<br/>page, a hill surrounded by a starry<br/>sky appeared.<br/><br/>
+2B9C|jm|Pooh had gotten his head stuck in a<br/>honey pot. Silly bear!<br/><br/>
+2B9D|jm|Pooh was looking for a way to keep<br/>Sora from leaving. "What should I<br/>do so you won´t go far away?" he<br/>asked. Sora pointed to Pooh´s heart<br/>and told him he´ll always be right<br/>there.<br/><br/>
+2B9E|jm|We arrived in a gorge, only to be<br/>threatened by hyenas. We had to<br/>practice moving around so Sora,<br/>Donald, and Goofy could get used to<br/>their new jungle "attire."<br/><br/>
+2B9F|jm|Then they met Nala, a lioness cornered<br/>by Heartless. She told us about the sad<br/>state of her homeland, and Sora agreed<br/>to help make things right.<br/><br/>
+2BA0|jm|But according to the shaman, Rafiki,<br/>whoever saved the Pride Lands would<br/>be king. Sora just wasn't qualified.<br/><br/>
+2BA1|jm|As we started to leave the Pride<br/>Lands, we were surrounded by King<br/>Scar and his hyena henchmen, but<br/>Nala helped us escape. When Sora<br/>asked her if there was anyone else<br/>who could be king, she muttered, "If<br/>only Simba were here..."<br/><br/>
+2BA2|jm|Simba had fought alongside Sora a<br/>year earlier. Nala was thrilled to<br/>hear this news!<br/><br/>
+2BA3|jm|Scar had told Nala that Simba had<br/>died along with Mufasa, their last king.<br/>Just then, Rafiki appeared and pointed<br/>toward the oasis.<br/><br/>
+2BA4|jm|That´s where Simba was.<br/><br/>
+2BA5|jm|Nala asked him to come back to the<br/>Pride Lands, but Simba declined,<br/>saying it was better to forget the<br/>past and live for today--"hakuna<br/>matata."<br/><br/>
+2BA6|jm|Simba had been blaming himself for<br/>his father´s death when he saw a<br/>vision of his father, who gave him<br/>the courage to return to the Pride<br/>Lands.<br/><br/>
+2BA7|jm|Simba challenged Scar to a fight,<br/>during which he learned the truth:<br/>Scar had killed his father Mufasa.<br/>Simba roared with anger!<br/><br/>
+2BA8|jm|Simba defeated Scar and let out a<br/>roar of triumph from the Pride Rock<br/>overlook. The lionesses responded to<br/>his call as their new king ascended<br/>to his throne.<br/><br/>
+2BA9|jm|Simba is king of the Pride Lands.<br/><br/>
+2BAA|jm|<br/><br/>
+2BAB|jm|We met up with the hyenas on the<br/>savannah. They could only laugh at<br/>the very mention of Simba, the new<br/>king. Thinking this was strange, we<br/>set off to see Simba when Scar´s<br/>ghost appeared.<br/><br/>
+2BAC|jm|Although this may have been a sign<br/>that the kingdom was in decline,<br/>Simba seemed unwilling to take any<br/>action. His choice caused great<br/>unease among his subjects.<br/><br/>
+2BAD|jm|But Simba had a reason for his inability<br/>to act--he was tied up in thinking<br/>"What would my father have done?"<br/>We helped him realize that his own<br/>decisions were more important, and<br/>Simba regained his confidence as a<br/>leader.<br/><br/>
+2BAE|jm|According to Rafiki, Scar´s ghost<br/>was a manifestation of Simba´s<br/>weakness.<br/><br/>
+2BAF|jm|Empty
+2BB0|jm|We headed for the elephant graveyard<br/>to learn just what the mystic mandrill<br/>meant by these words. We asked the<br/>hyenas about Scar´s ghost, who<br/>suddenly reappeared. Simba ran away.<br/><br/>
+2BB1|jm|We gave Simba some much-needed<br/>encouragement, and he in turn<br/>realized how his many friends<br/>were there for him. Simba defeated<br/>Scar´s ghost at last.<br/><br/>
+2BB2|jm|Simba rescued Nala from the hands<br/>of a giant Heartless, and peace<br/>reigned over the Pride Lands once<br/>again.<br/><br/>
+2BB3|jm|Sora and friends paid a visit to<br/>Atlantica, the kingdom under the sea,<br/>and got to see Ariel again.<br/><br/>
+2BB4|jm|Everyone was gearing up for a big<br/>musical, but Ariel just couldn´t stay<br/>focused on rehearsals. Sebastian<br/>asked Sora, Donald, and Goofy to<br/>perform, but even then Ariel´s mind<br/>seemed to be somewhere else.<br/><br/>
+2BB5|jm|It turned out she was curious about<br/>the human world. Flounder suggested<br/>showing her a statue he found,<br/>thinking it would cheer her up, since<br/>Ariel loves things from the surface.<br/><br/>
+2BB6|jm|Ariel was spellbound by Flounder´s<br/>gift. It turned out to be a statue<br/>of the man she´d had her eyes on.<br/><br/>
+2BB7|jm|Ariel was in love with a human prince.<br/><br/>
+2BB8|jm|But he lived in the human world,<br/>and Ariel would have to become a<br/>human to be with him. Ursula<br/>convinced her to trade her voice<br/>for a chance to do so.<br/><br/>
+2BB9|jm|Ariel and Eric had a lovely time<br/>together...but Ursula had other plans.<br/>Sora stopped her from using Ariel´s<br/>voice to steal Eric away, but King<br/>Triton was transformed when trying<br/>to stand up for his daughter.<br/>Thankfully, Eric came to the rescue!<br/>He joined forces with Sora and his<br/>friends, and they defeated the sea<br/>witch.<br/><br/>
+2BBA|jm|Eric learned that Ariel is a mermaid,<br/>but that didn´t change his feelings<br/>for her. They were meant to be<br/>together. Sebastian´s musical was<br/>a big hit, with Sora, Donald, and<br/>Goofy playing major roles. Thus land<br/>and sea came together as one.<br/><br/>
+2BBB|jm|We stopped by Disney Castle, but<br/>something wasn´t quite right.<br/><br/>
+2BBC|jm|Heartless had appeared in the peaceful<br/>castle. We got the specifics from<br/>Queen Minnie, then split up to get<br/>to the bottom of things.<br/><br/>
+2BBD|jm|Sora and Queen Minnie headed for<br/>the audience chamber, mowing down<br/>Heartless along the way.<br/><br/>
+2BBE|jm|The reason for the crisis was revealed<br/>in the Hall of the Cornerstone,<br/>hidden beneath the throne. The<br/>Cornerstone of Light that kept the<br/>castle peaceful was being overgrown<br/>by thorns. This was Maleficent´s<br/>doing!<br/><br/>
+2BBF|jm|We took Queen Minnie´s advice and<br/>headed for Hollow Bastion. Merlin<br/>created a mysterious door for us.<br/>He said we could restore the castle<br/>by closing another door beyond this<br/>one.<br/><br/>
+2BC0|jm|We stepped into the world beyond<br/>the mysterious door, where we<br/>came face to face with a rather<br/>nostalgic black-and-white world.<br/><br/>
+2BC1|jm|We made our way through Merlin´s<br/>door and into a black-and-white<br/>world on a quest to save the castle.<br/><br/>
+2BC2|jm|We ran into Pete, but he was like a<br/>completely different person. Maybe<br/>he wasn´t the one who fooled with<br/>the castle. While searching for<br/>another mysterious door, we<br/>discovered a suspicious window.<br/>We tugged on the pull cord and saw<br/>what had happened in this world<br/>moments before we arrived.<br/><br/>
+2BC3|jm|We knocked on another window and<br/>saw Maleficent angrily scolding...<br/>someone.<br/><br/>
+2BC4|jm|Yet another window showed a door<br/>identical to the one Merlin had made.<br/>It must lead to the same black-and-<br/>white world.<br/><br/>
+2BC5|jm|Finally we learned the truth: these<br/>mysterious doors were connected to<br/>the past--and that´s exactly where<br/>we were.<br/><br/>
+2BC6|jm|The final window showed Pete not<br/>as he was when we first met him<br/>in this world, but as old Pete the<br/>villain.<br/><br/>
+2BC7|jm|We brought Pete´s boat to a halt<br/>and kept the Cornerstone of Light<br/>safe from harm.<br/><br/>
+2BC8|jm|Sora´s Keyblade sealed the door<br/>shut, so Pete wouldn´t be able to<br/>come back to the past. The<br/>Cornerstone of Light was returned<br/>to its rightful home, banishing<br/>darkness from the castle for good.<br/><br/>
+2BC9|jm|We stopped by Halloween Town, puzzled<br/>by its new appearance.<br/><br/>
+2BCA|jm|<br/><br/>
+2BCB|jm|Obsessed with Christmas, Jack had<br/>decorated the town in the hopes of<br/>handling the holiday himself this<br/>year. Unaware of Sally´s feeling of<br/>dread, Jack set off to see Santa<br/>Claus.<br/><br/>
+2BCC|jm|Just then, Heartless appeared in<br/>town. "How is Santa supposed to<br/>relax with all this going on?" Jack<br/>fretted, and asked us to be Santa´s<br/>bodyguards.<br/><br/>
+2BCD|jm|Santa lived in Christmas Town, where<br/>a colorful scene unfolded before us<br/>as we walked through the gates.<br/><br/>
+2BCE|jm|But there were Heartless here, too.<br/>We fought as one and made our way<br/>to Santa´s house.<br/><br/>
+2BCF|jm|We were happy to see that Santa<br/>was safe and sound when a loud<br/>noise came from a back room.<br/><br/>
+2BD0|jm|<br/><br/>
+2BD1|jm|Lock, Shock, and Barrel were spotted<br/>running out of the toy workshop.<br/><br/>
+2BD2|jm| <br/><br/>
+2BD3|jm|We followed the trio´s footprints<br/>back to Halloween Town and found<br/>the three pranksters, who said<br/>Oogie had returned--just before<br/>running away. It was then that<br/>the party learned that Maleficent<br/>had brought Oogie back to life!<br/>Sally´s intuition had been right on.<br/>The newly revived Oogie kidnapped<br/>Santa!<br/><br/>
+2BD4|jm|We hurried back to Christmas Town<br/>in pursuit of Oogie.<br/><br/>
+2BD5|jm|Oogie was trying to take over the<br/>toy workshop, but we defeated him<br/>handily. With that taken care of,<br/>Jack told Santa that he´d like to<br/>deliver the presents this time.<br/>Santa reminded Jack that he had<br/>his own special role to play, so<br/>Jack returned to his post as the<br/>Pumpkin King.<br/><br/>
+2BD7|jm|Christmas was right around the corner.<br/><br/>
+2BD8|jm|<br/><br/>
+2BD9|jm|We stopped by Halloween Town and<br/>found presents scattered all over the<br/>place. We returned them to Santa,<br/>who said they had been stolen. We<br/>were about to set out with Jack to<br/>find the culprit when we heard a<br/>noise come from the toy workshop.<br/><br/>
+2BDA|jm|<br/><br/>
+2BDB|jm|We went into the workshop, where<br/>we found Lock, Shock, and Barrel,<br/>who said they were only looking for<br/>parts for the doctor´s experiment.<br/>Sally arrived and said Heartless had<br/>appeared in the town square. Could<br/>they have been responsible?<br/><br/>
+2BDC|jm|<br/><br/>
+2BDD|jm|The Heartless didn´t steal any presents.<br/>And now the doctor´s experiment had<br/>been stolen, too. Who on earth could<br/>the thief be? We would have to lure<br/>them in somehow. We borrowed Santa´s<br/>workshop to make decoy presents.<br/><br/>
+2BDE|jm|We used these presents to set a<br/>trap for the thief.<br/><br/>
+2BDF|jm|When we arrived at Port Royal, there<br/>was some kind of disturbance down at<br/>the harbor.<br/><br/>
+2BE0|jm|There we found Pete and a crew of<br/>undead pirates. They said something<br/>about a medallion and headed into<br/>town.<br/><br/>
+2BE1|jm|We followed them just in time to see<br/>the governor´s daughter Elizabeth<br/>get kidnapped by the pirates. We<br/>went after them along with a young<br/>man named Will.<br/><br/>
+2BE2|jm|But the pirates had already set sail.<br/>We managed to persuade Jack Sparrow,<br/>a lone pirate we met at the harbor,<br/>to take the Royal Navy´s Interceptor<br/>and go after the pirates´ ship, the<br/>Black Pearl.<br/><br/>
+2BE3|jm|Meanwhile Barbossa was divulging<br/>his secret: because they stole<br/>certain Aztec medallions, he and his<br/>crew were put under a horrible<br/>curse. To break the curse, all the<br/>medallions must be restored to<br/>their chest and the blood repaid...<br/><br/>
+2BE4|jm|<br/><br/>
+2BE5|jm|<br/><br/>
+2BE6|jm|It turned out the Black Pearl was<br/>Jack´s boat, which Barbossa had<br/>stolen. The reason Jack helped us<br/>was so he could get his boat back.<br/>With compass in hand, Jack guided<br/>the Interceptor across the seas...<br/>We arrived at Isla de Muerta, the<br/>resting place for the cursed gold.<br/>We were told to watch the boat<br/>while Will and Jack set off to rescue<br/>Elizabeth, but when no one returned,<br/>we started to worry. Inside the<br/>island cave, the raucous pirates<br/>stood before all the medallions they<br/>had finally tracked down. Now the<br/>blood could be repaid, and the curse<br/>broken...<br/><br/>
+2BE7|jm|...except that Elizabeth´s blood had<br/>no effect at all. While the pirates<br/>bickered over their plight, Will<br/>escaped with Elizabeth.<br/><br/>
+2BE8|jm|<br/><br/>
+2BE9|jm|The truth came to light on the way<br/>back to Port Royal. The key to<br/>breaking the curse wasn´t Elizabeth´s<br/>blood, but that of Will´s father--<br/>the blood of a pirate. The blood to<br/>be repaid ran in Will´s veins. The<br/>scheming Barbossa tracked down the<br/>Interceptor, kidnapping Will and<br/>rigging the ship with gunpowder.<br/><br/>
+2BEA|jm|All of us, including Jack, were in a<br/>real pinch, but together we overcame<br/>the crisis and set off to rescue Will.<br/><br/>
+2BEB|jm|Our battle with Barbossa ended in<br/>victory, and thanks to Jack himself<br/>being cursed, no less! Will and<br/>Elizabeth were elated to be together<br/>again, and Jack set sail on the Pearl<br/>once more.<br/><br/>
+2BEC|jm|The town looked peaceful--but<br/>was it?<br/><br/>
+2BED|jm|Our return to Port Royal was once<br/>again met with some sort of fuss<br/>down at the harbor.<br/><br/>
+2BEE|jm|The curse was supposed to be lifted,<br/>but sure enough, undead pirates<br/>were the source of the ruckus.<br/>With Jack´s help we put them in<br/>line, and then Elizabeth showed<br/>up. Will, thinking the medallions<br/>might be the source of the problem,<br/>set off for Isla de Muerta.<br/><br/>
+2BEF|jm|We went out to sea per Elizabeth´s<br/>wishes, and found Will drifting on a<br/>shipwreck. He said Organization {XIII}<br/>took the medallions.<br/><br/>
+2BF0|jm|Jack wanted nothing to do with it,<br/>but then a member of the Organization<br/>showed up. He invoked "parley" from<br/>the Pirates´ Code and made off with<br/>several of the gold medallions. In<br/>all the fuss we were attacked by a<br/>monster, and the Interceptor was sunk.<br/><br/>
+2BF1|jm|We washed up in a ship graveyard.<br/>For some reason, Jack alone had<br/>fallen under the monster´s curse.<br/><br/>
+2BF2|jm|"They´re making pirates look like<br/>proper gents," said Jack, as we set<br/>off after the Organization and the<br/>gold. The final battle was to be in<br/>Port Royal.<br/><br/>
+2BF3|jm|We defeated the monster and removed<br/>Jack´s curse. The Organization got<br/>away, but Port Royal would be at<br/>peace once the Aztec gold was at the<br/>bottom of the sea. The legendary<br/>pirate Jack Sparrow set off on the<br/>Black Pearl for another adventure.<br/><br/>
+2BF4|jm|When we fiddled with Ansem´s computer,<br/>the MCP sucked us into the computer<br/>system. Caught by Commander Sark,<br/>we were sent to a pit cell, where we<br/>met Tron, a security program.<br/><br/>
+2BF5|jm|With Tron´s help, we broke out of<br/>the cell and headed for the energy<br/>core in the canyon.<br/><br/>
+2BF6|jm|We needed it to restore power to<br/>the terminal leading back to the<br/>outside world.<br/><br/>
+2BF7|jm|With everything for our return<br/>journey in order, Tron asked us a<br/>favor.<br/><br/>
+2BF8|jm|To gain access to the dataspace<br/>known as the DTD, we needed to find<br/>Tron´s User and ask him the password.<br/>And the User? None other than Ansem.<br/><br/>
+2BF9|jm|Back in the outside world, we used<br/>scribbles on a blueprint ("Door to<br/>Darkness") and the King´s own hints<br/>to figure out the password: the names<br/>of the Seven Princesses that were<br/>used to open that very door.<br/><br/>
+2BFA|jm|Tron tried the password right away,<br/>unlocking the dataspace, but the<br/>MCP sent a hostile program,<br/>putting the town itself in danger.<br/><br/>
+2BFB|jm|We hurried to the I/O tower, but<br/>the program remained undisrupted.<br/><br/>
+2BFC|jm|By destroying the hostile program,<br/>we were able to save the town.<br/><br/>
+2BFD|jm|After the battle, Tron told us more<br/>about Ansem. Both Tron and the MCP<br/>were improved by Ansem, but why<br/>would the same person restore two<br/>opposing programs? The mysteries<br/>remained, but we figured we´d find<br/>the answer eventually. Having gained<br/>a special connection to Tron, we<br/>returned to the outside world.<br/><br/>
+2BFE|jm|Things should have calmed down in<br/>the computer world...<br/><br/>
+2BFF|jm|The town was facing a crisis because<br/>of the MCP, so we headed back into<br/>the computer world.<br/><br/>
+2C00|jm|It seemed the MCP was ready to wage<br/>all-out war against the Users. Reunited<br/>with Tron, we went to download a<br/>program designed to destroy the MCP<br/>for good.<br/><br/>
+2C01|jm|Leon was doing his part in the outside<br/>world, too.<br/><br/>
+2C02|jm|At the I/O tower, we downloaded<br/>the program, powering up Tron and<br/>getting us access to a solar sailer<br/>in the process.<br/><br/>
+2C03|jm|The final battle was at hand...<br/>We boarded the solar sailer and<br/>headed for the MCP´s mesa.<br/><br/>
+2C04|jm|We defeated Sark, and thwarted the<br/>MCP´s plans to conquer all. We made<br/>a promise with Tron to meet again<br/>and parted ways. Tron used his control<br/>of the system to send us a gift: a<br/>view of the town in its early days.<br/><br/>
+2C05|jm|Axel used the last of his strength<br/>to help us escape the darkness. We<br/>then found ourselves in a town bathed<br/>in eerie moonlight. It seemed Kairi<br/>was being held in the dungeon of this<br/>town´s castle.<br/><br/>
+2C06|jm|A Message
+2C07|jm| 
+2C08|jm|Awakening
+2C09|jm|Sora awakens from a long slumber and<br/>reunites with friends Donald and Goofy
+2C0A|jm|The King´s Teacher
+2C0B|jm|The mysterious tower was inhabited by<br/>Master Yen Sid, the King´s teacher
+2C0C|jm|Kairi Arrives
+2C0D|jm|Kairi arrived in Twilight Town in her<br/>search for Sora
+2C0E|jm|The Road Onward
+2C0F|jm|Sora´s Keyblade began to glow and a<br/>path to another world was opened
+2C10|jm|Another World
+2C11|jm|Sora and friends had traveled to an<br/>alternate Twilight Town
+2C12|jm|Into the Darkness
+2C13|jm|Axel´s power revealed the path leading<br/>to Organization {XIII}´s headquarters
+2C14|jm|Recorded Data
+2C15|jm| 
+2C16|jm|The Committee
+2C17|jm|Leon and friends prepared for the<br/>reconstruction of Hollow Bastion
+2C18|jm|Organization {XIII}
+2C19|jm|Members of Organization {XIII} stood in<br/>Sora´s way
+2C1A|jm|The Journey Begins
+2C1B|jm|The Keyblade opened a new gate<br/>between the worlds
+2C1C|jm|Ansem the Wise
+2C1D|jm|Sora and friends hadn´t defeated the<br/>real Ansem, but his apprentice Xehanort
+2C1E|jm|Battle Royale
+2C1F|jm|Swarms of Heartless and Nobodies<br/>descended on Hollow Bastion
+2C20|jm|A King Decides
+2C21|jm|The King took a stand in the midst<br/>of a fierce battle
+2C22|jm|Heartless Again
+2C23|jm|The once peaceful town was invaded<br/>by Heartless yet again
+2C24|jm|Its True Name
+2C25|jm|Peace reigns anew, and all remember<br/>the town´s true name: Radiant Garden
+2C26|jm|Reunion with Beast
+2C27|jm|Sora and friends see the Beast again,<br/>but he´s obsessed with his rose
+2C28|jm|The Castle Secret
+2C29|jm|The dungeon held servants who had<br/>been transformed into household items
+2C2A|jm|The Beast Deceived
+2C2B|jm|The Beast was misled by Organization {XIII}
+2C2C|jm|Ballroom Battle
+2C2D|jm|Sora and friends fought the Heartless<br/>attacking Belle in the ballroom
+2C2E|jm|Dressed-Up Duo
+2C2F|jm|The two dressed in their very finest<br/>for a fancy formal dance, but...
+2C30|jm|The Most Precious
+2C31|jm|His rose stolen, the forlorn Beast<br/>orders Belle to leave the castle
+2C32|jm|Belle´s Victory
+2C33|jm|Belle seizes just the right moment<br/>to get the rose back from Xaldin
+2C34|jm|Together Forever
+2C35|jm|Belle smiles at the Beast´s words:<br/>"Belle, I´d like you to stay."
+2C36|jm|Auron vs. Hades
+2C37|jm|Auron is called from the Underworld to<br/>be an assassin, but refuses to cooperate
+2C38|jm|Heroic Reunion
+2C39|jm|Sora and friends reunite with the hero<br/>Hercules at the Coliseum
+2C3A|jm|Megara the Captive
+2C3B|jm|Sora goes to rescue Meg and fights<br/>Pete, who is in cahoots with Hades
+2C3C|jm|Destroyed Coliseum
+2C3D|jm|The once-defeated Hydra returns to<br/>destroy the Coliseum
+2C3E|jm|The Hades Cup
+2C3F|jm|Hades plots to put the weakened Hercules<br/>in his Hades Cup tournament
+2C40|jm|Hades´ Puppet
+2C41|jm|Hades was controlling Auron so he<br/>could do away with Hercules
+2C42|jm|The Hero Returns
+2C43|jm|Hercules rescues Megara and feels<br/>like a real hero again
+2C44|jm|Heroes At Last
+2C45|jm|Sora and friends become honorary heroes
+2C46|jm|The Lamp Thief
+2C47|jm|Aladdin was chasing Abu and the lamp<br/>through the streets of Agrabah
+2C48|jm|Quest for Treasure
+2C49|jm|Sora and friends head for the Cave of<br/>Wonders to get a treasure for the peddler
+2C4A|jm|Ordeals Overcome
+2C4B|jm|The Cave of Wonders held mountains<br/>of treasure
+2C4C|jm|Bottled Up
+2C4D|jm|The lamp Jafar was trapped in was<br/>safe deep in the palace basement
+2C4E|jm|Jafar Is Released
+2C4F|jm|The peddler released Jafar from<br/>his lamp prison
+2C50|jm|The Flying Carpet
+2C51|jm|Sora and friends ride Carpet to the<br/>ruins to face Jafar
+2C52|jm|Jafar´s Trap
+2C53|jm|Iago led them to the ruins, but Jafar<br/>was nowhere to be seen
+2C54|jm|Working His Magic
+2C55|jm|Genie restores Agrabah after the<br/>destructive battle with Jafar
+2C56|jm|Mushu and Ping
+2C57|jm|The bamboo grove held Mushu and Mulan--or<br/>"Ping"--who was pretending to be a man
+2C58|jm|Avalanche!
+2C59|jm|To defeat Shan-Yu, Mulan used a cannon<br/>to cause a huge avalanche
+2C5A|jm|Mulan Revealed
+2C5B|jm|When Captain Shang discovers Mulan is a<br/>woman, he dismisses her from the army
+2C5C|jm|China´s Bravest
+2C5D|jm|The Emperor thanked Mulan for defeating<br/>Shan-Yu and saving China
+2C5E|jm|A Man in Black
+2C5F|jm|Sora spots a man in a black coat<br/>on Tung-Shao
+2C60|jm|The Earth Shakes
+2C61|jm|The Heartless that emerged from<br/>Tung-Shao flew toward the city
+2C62|jm|Could It Be Riku?
+2C63|jm|The black-coated man at the palace wasn´t<br/>Riku, but Xigbar from Organization {XIII}
+2C64|jm|Good Friends
+2C65|jm|Mulan is recognized for her efforts and now<br/>serves the Emperor alongside Captain Shang
+2C66|jm|Memories Lost
+2C67|jm|The Heartless tore up the storybook<br/>and now Pooh can´t remember a thing
+2C68|jm|Memories Found
+2C69|jm|Pooh´s memories of his friends in the<br/>Hundred Acre Wood started coming back
+2C6A|jm|Sora Remembered
+2C6B|jm|Pooh suddenly remembered Sora
+2C6C|jm|I´m Always Here
+2C6D|jm|Sora promises Pooh and friends:<br/>"I´ll always be with you--right here."
+2C6E|jm|Pooh 5
+2C6F|jm|Number 5
+2C70|jm|Pooh 6
+2C71|jm|Number 6
+2C72|jm|Pooh 7
+2C73|jm|Number 7
+2C74|jm|Pooh 8
+2C75|jm|Number 8
+2C76|jm|A Chance Meeting
+2C77|jm|Ariel rescues a drifting Eric on a stormy<br/>night
+2C78|jm|Ariel the Human
+2C79|jm|Ariel signs a contract with Ursula, trading her<br/>beautiful voice in exchange for human form
+2C7A|jm|Battle with Ursula
+2C7B|jm|Wielding the trident, the super-sized<br/>Ursula attacks Sora
+2C7C|jm|Two Worlds Now One
+2C7D|jm|Ariel´s wishes come true as land and<br/>sea come together at last
+2C7E|jm|Disney Castle
+2C7F|jm|Sora arrives at Disney Castle, guided<br/>by Queen Minnie´s fervent wish
+2C80|jm|Meeting the Queen
+2C81|jm|Sora and friends speak with the Queen<br/>about the trouble at the castle
+2C82|jm|The Cornerstone
+2C83|jm|Maleficent was behind the thorns<br/>filling the Hall of the Cornerstone
+2C84|jm|Peace Returns
+2C85|jm|By protecting the Cornerstone in the past,<br/>the castle grew peaceful once more
+2C86|jm|Pete?
+2C87|jm|Pete in the black-and-white world<br/>was the Pete of the past
+2C88|jm|The King?
+2C89|jm|Sora and friends fought the Heartless<br/>and rescued the King of the past
+2C8A|jm|Pete and RePete
+2C8B|jm|Pete fought with his past self over<br/>his own steamboat
+2C8C|jm|All Aboard!
+2C8D|jm|As thanks for recovering the steamboat,<br/>Sora got to take it for a spin
+2C8E|jm|Merry...Halloween?
+2C8F|jm|Jack was all fired up about bringing<br/>Christmas to Halloween Town
+2C90|jm|Sandy Claws
+2C91|jm|Sora meets Santa Claus in<br/>Christmas Town
+2C92|jm|Oogie´s Back
+2C93|jm|Maleficent brought the malevolent<br/>Oogie Boogie back to life
+2C94|jm|Santa Jack
+2C95|jm|Santa helps Jack remember what<br/>he does best
+2C96|jm|The Present Thief
+2C97|jm|Accused of stealing presents, Jack<br/>goes in search of the real thief
+2C98|jm|Mischievous Trio
+2C99|jm|Lock, Shock, and Barrel had nothing<br/>to do with the theft
+2C9A|jm|The Real Culprit
+2C9B|jm|Dr. Finkelstein´s experiment had<br/>pilfered the presents
+2C9C|jm|From the Heart
+2C9D|jm|What counts isn´t what´s in the present,<br/>but the act of giving it
+2C9E|jm|Steadfast Friends
+2C9F|jm|Sora and friends go with Will in search<br/>of the pirates who took Elizabeth
+2CA0|jm|The Undead Curse
+2CA1|jm|Cursed treasure made the pirates<br/>horrifically skeletal in the moonlight
+2CA2|jm|A Close Call
+2CA3|jm|Barbossa´s scurvy scheming put Sora<br/>and friends in a real fix
+2CA4|jm|Lifting the Curse
+2CA5|jm|Jack used the power of the curse to<br/>defeat his old nemesis Barbossa
+2CA6|jm|The Curse Returns
+2CA7|jm|The curse should have been lifted, but<br/>the undead pirates were back again
+2CA8|jm|Parley!
+2CA9|jm|Luxord of Organization {XIII} sees his<br/>chance to call a Heartless
+2CAA|jm|To Port Royal
+2CAB|jm|Determined to put a stop to the Organization,<br/>Jack, Sora, and friends head for Port Royal
+2CAC|jm|Battle Spoils
+2CAD|jm|After sinking the Aztec gold, Jack asks<br/>for the Keyblade as a reward
+2CAE|jm|Meeting Tron
+2CAF|jm|Sora and friends meet Tron inside a<br/>computer program
+2CB0|jm|Playing the Game
+2CB1|jm|Commander Sark forces Sora and friends<br/>onto the game grid
+2CB2|jm|Hostile Program
+2CB3|jm|The MCP extracts a program from<br/>the dataspace that will destroy the town
+2CB4|jm|Tron´s User
+2CB5|jm|Ansem the Wise produced Tron and the<br/>MCP
+2CB6|jm|MCP Runs Amok
+2CB7|jm|The MCP churned out Heartless to<br/>invade the real-life town
+2CB8|jm|The Solar Sailer
+2CB9|jm|Sora and friends ride the solar sailer<br/>toward the MCP´s central computer core
+2CBA|jm|MCP Face-Off
+2CBB|jm|Sora and friends have a showdown<br/>with the MCP
+2CBC|jm|Farewell, Tron
+2CBD|jm|Tron bids his new friends farewell
+2CBE|jm|Sora
+2CBF|jm|A boy chosen by the Keyblade,<br/>a mysterious weapon.<br/><br/>Not long ago, Sora journeyed<br/>with Donald and Goofy in search<br/>of his longtime friend Kairi,<br/>who had been spirited away<br/>into the darkness.<br/><br/>In the end, they saved the world<br/>of all worlds from the darkness<br/>that was closing in.<br/><br/>After that, Sora continued<br/>journeying in search of Riku,<br/>his best friend who was trapped<br/>on the other side of the door<br/>to darkness. And somewhere<br/>along the way, Sora fell into a<br/>deep slumber.<br/><br/>With a new outfit and<br/>strengthened resolve, Sora has<br/>set out once more on a search<br/>for his friend Riku.
+2CC0|jm|Donald Duck
+2CC1|jm|The Royal Court Magician.<br/><br/>Not long ago, Donald left Disney<br/>Castle with Goofy to search for<br/>King Mickey. During that quest,<br/>they met Sora and became fast<br/>friends.<br/><br/>After they helped Sora save the<br/>worlds from darkness, Donald<br/>and Goofy continued their search<br/>for King Mickey, who had decided<br/>to stay behind in the realm of<br/>darkness.<br/><br/>But before they could find the<br/>King, the three friends were<br/>plunged into a deep sleep.
+2CC2|jm|Goofy
+2CC3|jm|Captain of the Royal Knights.<br/><br/>Not long ago, Goofy left Disney<br/>Castle with Donald in search of<br/>King Mickey. Along the way, they<br/>joined Sora, obeying the King's<br/>command to "follow the Keybearer."<br/><br/>After helping save the worlds<br/>from darkness, Goofy continued<br/>his quest to find the King.<br/>But like Donald and Sora, he<br/>fell into a deep slumber before<br/>he could finish the quest. Wonder<br/>what Goofy was doing just before<br/>he fell asleep.
+2CC4|jm|Kairi
+2CC5|jm|Longtime friend of Riku and Sora,<br/>and one of the Seven Princesses<br/>with ties to the Keys and Keyholes.<br/>Not long ago, when she was lost in<br/>the darkness, Riku and Sora both<br/>tried to save her, each in his own<br/>way.<br/><br/>Thanks to them, Kairi was able to<br/>return to her home islands, but her<br/>memories of Sora were gone, and she<br/>soon stopped visiting the islet<br/>where they once played.
+2CC6|jm|Ansem
+2CC7|jm|Mysterious wielder of darkness.<br/><br/>What could his true purpose be?
+2CC8|jm|Riku
+2CC9|jm|The form Sora´s longtime friend<br/>Riku chose.<br/><br/>Though Xehanort tried to control<br/>Riku from within, Riku´s heart<br/>proved stronger. But the only<br/>way to wield the darkness fully<br/>was to become it.<br/><br/>Riku began calling himself<br/>"Ansem," perhaps as a sign of<br/>resolve. He would live in darkness<br/>if that´s what it took to wake<br/>Sora.
+2CCA|jm|DiZ
+2CCB|jm|An entity shrouded in mystery.
+2CCC|jm|Ansem
+2CCD|jm|
+2CD0|jm|Organization {XIII}
+2CD1|jm|Organization {XIII}´s Number {I}.<br/>He directs the group as its<br/>leader.<br/><br/>Organization {XIII} is a unique<br/>presence among the Nobodies.<br/>They think and plan, and seem<br/>to have a greater goal.<br/><br/>What that is remains to be<br/>seen, but they appear to know<br/>a bit about the Keyblade.
+2CD2|jm|Organization {XIII}
+2CD3|jm|Organization {XIII}´s Number {II}.<br/>Nothing else about him has come<br/>to light.<br/><br/>He vanished, leaving Sora with<br/>naught but puzzling words.<br/>Apparently Organization members<br/>can use the darkness to come and<br/>go as they please.
+2CD4|jm|Organization {XIII}
+2CD5|jm|Organization {XIII}´s Number {III}.<br/><br/>Nobodies like him are made<br/>whenever people strong of heart<br/>and mind become Heartless. The<br/>empty shell they leave behind<br/>acts of its own will.<br/><br/>Are they empty vessels devoid<br/>of hearts? Are they roaming<br/>spirits? Or are they simply<br/>nothing at all?
+2CD6|jm|Vexen
+2CD7|jm|Formerly Organization {XIII}´s<br/>Number {IV}. He has been<br/>eliminated.<br/><br/>Vexen, Lexaeus, and Zexion<br/>were among Organization {XIII}´s<br/>founding members, and there<br/>was no love lost between them<br/>and neophytes like Marluxia.<br/>Vexen opposed Marluxia´s plans<br/>to take over the Organization,<br/>and was consequently destroyed<br/>by Axel.
+2CD8|jm|Lexaeus
+2CD9|jm|Formerly Organization {XIII}´s<br/>Number {V}. He once brandished a<br/>giant tomahawk, but now he has<br/>been eliminated.<br/><br/>Lexaeus rejected Marluxia´s bid<br/>to dominate the Organization,<br/>and formulated his own plans--<br/>but the plans failed and he met<br/>his end.
+2CDA|jm|Zexion
+2CDB|jm|Formerly Organization {XIII}´s<br/>Number {VI}. He has been<br/>eliminated.<br/><br/>Zexion disliked dirtying his own<br/>hands, and relied on his wits to<br/>dispose of any rivals--but it was<br/>one of his own schemes that wound<br/>up destroying him.
+2CDC|jm|Organization {XIII}
+2CDD|jm|Organization {XIII}´s Number {VII}.<br/><br/>Nobodies like him may look like<br/>they respond emotionally, but this<br/>is, in fact, a ruse. Nobodies have<br/>no hearts.
+2CDE|jm|Axel
+2CDF|jm|Organization {XIII}´s Number {VIII}.<br/>He commands fire and carries a<br/>uniquely shaped weapon.<br/><br/>He has proven to be an odd duck<br/>of sorts within the Organization,<br/>lashing out against treachery,<br/>yet stirring trouble with his<br/>own betrayals all the while.<br/><br/>He claims he and Sora share some<br/>sort of bond, but Sora can´t<br/>imagine what that might be.
+2CE0|jm|Organization {XIII}
+2CE1|jm|Organization {XIII}´s Number {IX}.<br/><br/>Organization members all wear<br/>black coats, and it´s said their<br/>numbers were assigned in the<br/>order they joined. In addition,<br/>their names share something as<br/>a mark of their brotherhood.
+2CE2|jm|Organization {XIII}
+2CE3|jm|Organization {XIII}´s Number {X}.<br/><br/>The Organization has hinted that<br/>not only do they know about the<br/>Keyblade, but they may know<br/>things about Sora himself. Are<br/>they playing mind games, or is<br/>there truth to their words?
+2CE4|jm|Marluxia
+2CE5|jm|Formerly Organization {XIII}´s<br/>Number {XI}. He has been<br/>eliminated.<br/><br/>He plotted an Organization<br/>rebellion and tried to seize the<br/>power of the Keyblade, but Axel´s<br/>betrayal led to his destruction.
+2CE6|jm|Larxene
+2CE7|jm|Formerly Organization {XIII}´s<br/>Number {XII}. She has been<br/>eliminated.<br/><br/>Larxene conspired with Marluxia<br/>to turn on the Organization.<br/><br/>Larxene was unfeeling and loved<br/>nothing more than to bring<br/>other people down, but she met<br/>her demise when that malice came<br/>full circle.
+2CE8|jm|Roxas
+2CE9|jm|Organization {XIII}´s Number {XIII},<br/>a Keyblade wielder and denizen<br/>of darkness.<br/><br/>He vanished with a satisfied<br/>look after battling Sora--<br/>but Sora was the only one who<br/>could see him in the first place.
+2CEA|jm|Selphie
+2CEB|jm|A girl who lived on the same<br/>islands as Sora. She always<br/>played with Sora and the other<br/>boys.<br/><br/>Selphie´s whereabouts were in<br/>question after Destiny Islands<br/>vanished some time ago, but thanks<br/>to Sora´s help, she was able to<br/>return home.
+2CEC|jm|Stitch
+2CED|jm|A strange visitor from a distant<br/>planet.<br/><br/>Stitch is very strong for his<br/>small size and prone to mischief. <br/><br/>He´s always ready to help his friend<br/>Sora whenever Sora needs him.
+2CEE|jm|Genie
+2CEF|jm|
+2CF0|jm|Peter Pan
+2CF1|jm|The boy who can fly. He´s from<br/>Never Land, where children<br/>never grow up.<br/><br/>Not long ago, Peter helped Sora and<br/>the others defeat the Heartless.<br/><br/>During this new adventure, Peter<br/>and his friend Tinker Bell help<br/>Sora out once again.
+2CF2|jm|Chicken Little
+2CF3|jm|Chicken Little has more pluck and<br/>heart than most boys twice his<br/>size. He never turns away from<br/>a challenge, no matter how big<br/>it is.<br/><br/>He´s a loyal pal of Sora´s, and<br/>is always quick to answer a call<br/>for help.
+2CF8|jm|Pete
+2CF9|jm|A tough and mean former<br/>steamboat captain. Donald and<br/>Goofy know Pete real well--<br/>he´s so bad that King Mickey<br/>was forced to banish him to<br/>another dimension.<br/><br/>Maleficent found Pete there<br/>and helped him escape from<br/>exile. Since then, he´s<br/>been traveling the worlds,<br/>assembling an army of<br/>Heartless for Maleficent.<br/>It´s pretty certain that the<br/>two of them are planning to<br/>take over and rule all the<br/>worlds.
+2CFA|jm|Maleficent
+2CFB|jm|A sorceress of frightening power.<br/>In the last adventure, she<br/>controlled the Heartless and led<br/>a group that was trying to<br/>harness the power of darkness.<br/>As part of her villainous plan,<br/>Maleficent tricked Riku into<br/>making the choice to dive into<br/>the realm of darkness.<br/><br/>In the end, Maleficent yielded<br/>to the power of darkness herself<br/>and was defeated by Sora and<br/>his friends. But by using her last<br/>bit of evil power, she was able<br/>to come back again some time later.
+2CFC|jm|Pluto
+2CFD|jm|The King´s faithful dog. But<br/>Pluto´s more than a pet. He<br/>and King Mickey are bound<br/>together by the strongest ties<br/>there are: friendship and loyalty.<br/>When the King disappeared, Pluto<br/>set out with the others to find<br/>his master.<br/><br/>I hope that famous nose of his<br/>will lead him to the King.
+2CFE|jm|Jiminy Cricket
+2CFF|jm|Glad you could join us! Cricket´s<br/>the name--Jiminy Cricket. Queen<br/>Minnie asked me to come along<br/>on this quest as the Royal<br/>Chronicler. And what an adventure<br/>it´s been!<br/><br/>You might remember that I also<br/>help my pal Pinocchio out as his<br/>official conscience. I try to keep<br/>the little fellow on the straight<br/>and narrow and show him right<br/>from wrong. He sure can be a<br/>handful sometimes.
+2D00|jm|King Mickey
+2D01|jm|The king of Disney Castle. It´s<br/>been a while since he set off<br/>alone to fight the darkness<br/>threatening the worlds.<br/><br/>King Mickey and Riku stayed<br/>behind in the realm of darkness<br/>to keep the Heartless from<br/>escaping again.<br/><br/>Donald, Goofy, and Sora will<br/>keep searching until they´re<br/>reunited with the King.
+2D02|jm|King Mickey
+2D03|jm|The king of Disney Castle. He was<br/>the first to realize what a threat<br/>the darkness was, and the first<br/>to act. King Mickey travels across<br/>the worlds, battling the Heartless<br/>and searching for an answer to the<br/>riddle of Organization {XIII} and the<br/>Nobodies.<br/><br/>After many great battles, the King<br/>seems even more determined than<br/>ever to fight against the darkness.
+2D06|jm|Sora
+2D07|jm|The boy chosen by the Keyblade,<br/>truly the "key" to everything.<br/><br/>The magic of Merryweather and<br/>her fairy friends has prepared<br/>new clothes for Sora.<br/><br/>These garments appear to come<br/>complete with various abilities,<br/>such as the power of<br/>transformation.<br/><br/>With renewed resolve, Sora sets<br/>out for adventure once more.
+2D08|jm|Donald Duck
+2D09|jm|The Royal Court Magician.<br/><br/>Like Sora, Donald had fallen into<br/>a deep slumber, but woke up<br/>moments before Sora did.<br/><br/>They´re happy to be reunited<br/>after all this time...but what<br/>lies ahead?
+2D0A|jm|Goofy
+2D0B|jm|Captain of the Royal Knights.<br/><br/>Like Sora, Goofy had fallen into<br/>a deep slumber. He doesn´t<br/>remember why he was asleep, but<br/>he´s thoroughly refreshed after<br/>sleeping so well.<br/><br/>Who can say what´s in store for<br/>our three reunited friends?
+2D0C|jm|Roxas
+2D0D|jm|A boy who lived in Twilight Town<br/>and saw Sora´s memories in<br/>dreams.<br/><br/>His summer vacation has come to<br/>an end, and many of his thoughts<br/>and feelings with it.
+2D10|jm|Naminé
+2D11|jm|A girl with the power to<br/>manipulate memories.<br/><br/>She seems to have some strong<br/>connection to Sora.
+2D12|jm|Hayner
+2D13|jm|A boy who lives in Twilight Town<br/>who has a bit of an attitude<br/>problem. Once he gets an idea,<br/>he has to LIVE it--and Pence and<br/>Olette get dragged along for the<br/>ride.<br/><br/>There´s bad blood between Hayner<br/>and Seifer--the town´s self-<br/>appointed "disciplinarian."
+2D14|jm|Pence
+2D15|jm|A boy who lives in Twilight Town.<br/>He hangs out with Hayner (their<br/>"leader") and Olette (the<br/>responsible one).<br/><br/>As for Pence himself, he´s<br/>relatively laid back. When there´s<br/>a problem, he takes his time and<br/>approaches the problem<br/>realistically.<br/><br/>He likes spending time with his<br/>friends--especially when there´s<br/>sea salt ice cream.
+2D16|jm|Olette
+2D17|jm|A girl who lives in Twilight Town.<br/>She spends most of her time with<br/>Hayner and Pence.<br/><br/>Olette makes sure to look after<br/>the two of them, and won´t stand<br/>for unfinished homework.<br/><br/>She likes to go shopping on Market<br/>Street and watch the sunset while<br/>talking with her friends.
+2D18|jm|Seifer
+2D19|jm|Self-appointed head of the<br/>"Twilight Disciplinary Committee."<br/><br/>Seifer does his best to keep the<br/>town up to his own rigorous<br/>standards, but not everyone<br/>appreciates his high-handed<br/>tactics--take Hayner´s gang, for<br/>example.<br/><br/>His followers Fujin and Raijin are<br/>never far away.
+2D1A|jm|Rai (Raijin)
+2D1B|jm|One of Seifer´s followers...<br/>y´know?<br/><br/>Rai tends to get carried away--and<br/>truth be told, he feels like he can´t<br/>hold a candle to Fuu.
+2D1C|jm|Fuu (Fujin)
+2D1D|jm|One of Seifer´s followers. She<br/>never says a word more than she<br/>has to, leading to some very unusual<br/>"one-worders."<br/><br/>Fuu has Seifer´s complete trust,<br/>and sees her mission in life as<br/>making herself useful to him.
+2D1E|jm|Setzer
+2D1F|jm|A wayfaring gambler who´s ready<br/>for any game and any challenge.<br/>He´d even cast his life to the<br/>chips and let luck choose its<br/>course.<br/><br/>Setzer is the Struggle´s prior<br/>winner. He tends to be followed<br/>by an army of lovestruck, screaming<br/>girls.
+2D20|jm|Vivi
+2D21|jm|A boy who lives in Twilight Town.<br/>It´s not so much that he follows<br/>Seifer. But he´s so meek he does<br/>whatever he´s told anyway, and<br/>usually gets stuck with the chores.<br/><br/>In spite of all that, Vivi likes<br/>Seifer and admires his strength.
+2D22|jm|Yen Sid
+2D23|jm|A powerful sorcerer, second to none.<br/>He tutored the King in magic.<br/><br/>From conjuring up skies full of<br/>beautiful butterflies to parting an<br/>ocean, Yen Sid´s feats of wizardry<br/>are...well, amazing. His name alone<br/>fills some folks with awe.<br/><br/>Yen Sid shared some of his wisdom<br/>with Sora and his friends. He also<br/>taught them some valuable techniques<br/>to help prepare them for what<br/>they´ll face on this new quest.
+2D24|jm|Flora
+2D25|jm|A kind and good fairy, Flora is<br/>always dressed in red. The leader<br/>of the group, she helps Fauna and<br/>Merryweather make the right<br/>decisions.<br/><br/>Flora helped Sora prepare for his<br/>journey with just the right<br/>traveling clothes.
+2D26|jm|Fauna
+2D27|jm|A sweet and gentle fairy, Fauna<br/>dresses in green. Always eager to<br/>please, she only uses magic to help<br/>others.<br/><br/>Fauna helped Sora prepare for his<br/>journey with just the right<br/>traveling clothes.
+2D28|jm|Merryweather
+2D29|jm|A spirited fairy dressed in blue,<br/>Merryweather can sometimes be a bit<br/>stubborn. Together with Fauna and<br/>Flora, she tries to stop Maleficent<br/>from harming others.<br/><br/>Merryweather helped Sora prepare<br/>for his journey with just the<br/>right traveling clothes.
+2D2A|jm|Sora
+2D2B|jm|The chosen hero of the Keyblade.<br/>He´s looking for his friend Riku<br/>so they can return to their<br/>island home together.<br/><br/>Not long ago, Sora waged a great<br/>battle here against Maleficent,<br/>whose Heartless filled the castle<br/>corridors.
+2D2C|jm|Donald Duck
+2D2D|jm|The Royal Court Magician. He´s<br/>traveling the worlds with Sora<br/>and Goofy in search of King Mickey,<br/>who´s battling the forces of<br/>darkness.<br/><br/>Not long ago, Donald helped fight a<br/>great battle here against<br/>Maleficent, whose Heartless<br/>filled the castle corridors.
+2D2E|jm|Goofy
+2D2F|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds with<br/>Sora and Donald in search of<br/>King Mickey, who´s battling<br/>the forces of darkness.<br/><br/>Not long ago, Goofy helped fight<br/>a great battle here against<br/>Maleficent, whose Heartless<br/>filled the castle corridors.
+2D30|jm|Scrooge McDuck
+2D31|jm|Donald´s uncle. Before the<br/>Heartless appeared, he was<br/>using the Gummi Ship to travel<br/>across the worlds, setting<br/>up a big business empire.<br/>Scrooge has more money than<br/>most folks can count. But for<br/>some reason, he´s pretty<br/>stingy about spending it.<br/><br/>Nowadays Scrooge is working on<br/>an ice cream venture he hopes<br/>will make him millions.
+2D32|jm|Huey
+2D33|jm|One of Donald´s three nephews,<br/>Huey is the leader of the bunch.<br/>He keeps Dewey´s plans in line<br/>and makes sure Louie doesn´t<br/>fall behind while they help out<br/>with Uncle Scrooge´s ice cream<br/>business. You can spot him by his<br/>trademark red cap.<br/><br/>The last time we saw Huey, he<br/>was working in Traverse Town,<br/>saving up for an expedition.
+2D34|jm|Dewey
+2D35|jm|One of Donald´s three nephews<br/>who´s helping out with Uncle<br/>Scrooge´s ice cream business.<br/>Dewey always wears a blue cap.<br/>He´s smart and cheerful and<br/>likes to come up with plans to<br/>have fun.<br/><br/>The last time we saw Dewey,<br/>he was working in Traverse<br/>Town, saving up for an<br/>expedition.
+2D36|jm|Louie
+2D37|jm|One of Donald´s three nephews<br/>helping out with Uncle<br/>Scrooge´s ice cream business.<br/>Louie is gentle and carefree, but<br/>notices a lot of things others<br/>miss. To find him, look for his<br/>green cap.<br/><br/>The last time we saw Louie,<br/>he was working in Traverse<br/>Town, saving up for an<br/>expedition.
+2D38|jm|Merlin
+2D39|jm|A powerful wizard who´s currently<br/>living in Hollow Bastion. He´s<br/>letting the Hollow Bastion<br/>Restoration Committee use his<br/>house as a meeting place.<br/><br/>Merlin has wisdom and magical<br/>powers that are second to none,<br/>and he taught Donald most of<br/>what he knows about magic. He<br/>also has a mysterious bag that<br/>can hold anything, no matter how<br/>big it is.
+2D3A|jm|Leon
+2D3B|jm|A swordsman who carries a<br/>gunblade. His real name is Squall<br/>Leonhart. He took the name Leon<br/>to distance himself from his<br/>past self--the man who stood<br/>helpless as Heartless invaded<br/>his home.<br/><br/>For some time he took refuge in<br/>a different town, but thanks in<br/>part to Sora´s help, Leon was<br/>able to reclaim this, his<br/>hometown. Now he works tirelessly<br/>towards its restoration.
+2D3C|jm|Cid
+2D3D|jm|An engineer, tech wizard, and<br/>first-rate pilot. He met Sora<br/>as a castaway while he was<br/>running a shop away from his<br/>hometown.<br/><br/>Now that he's back home, Cid is<br/>an active member of the town's<br/>Restoration Committee.
+2D3E|jm|Cloud
+2D3F|jm|A "SOLDIER" who effortlessly<br/>wields a hefty sword. He once<br/>fought against Sora and his<br/>friends while under contract<br/>with Hades.<br/><br/>Cloud hates letting other people<br/>see what he´s thinking, so he<br/>can be an enigma to other people.<br/><br/>He searches for Sephiroth,<br/>hoping to settle things once and<br/>for all with his inner darkness.
+2D40|jm|Aerith
+2D41|jm|A young woman whose quiet eyes<br/>belie an unbreakable will.<br/>Like Leon, she met Sora while<br/>living away from her hometown,<br/>and helped him now and then on<br/>his journey.<br/><br/>Now Aerith works with Leon and<br/>Yuffie to restore the town to<br/>its past splendor.
+2D42|jm|Tifa
+2D43|jm|A young woman in search of a<br/>certain someone.<br/><br/>Unflinching, unrelenting, Tifa<br/>has looked far and wide.<br/><br/>Her journey won´t be over until<br/>she finds the person she seeks.
+2D44|jm|Yuffie
+2D45|jm|One member of the town´s<br/>Restoration Committee, a<br/>spirited girl who actively does<br/>her part to keep tabs on the<br/>town.<br/><br/>Yuffie met Sora when she was<br/>living away from her hometown.<br/>Thanks to his help last time,<br/>the Heartless were ousted and<br/>she got to come home--so she´s<br/>very grateful to him.
+2D46|jm|Sephiroth
+2D47|jm|An unsurpassed swordsman<br/>who was once revered as a<br/>hero.<br/><br/>For a long time, Sephiroth's<br/>whereabouts were unknown,<br/>and no one can say for sure<br/>why he has returned.<br/><br/>He seems to have some<br/>connection to Cloud's past.
+2D48|jm|Yuna
+2D49|jm|One of a teenybopping trio<br/>of friendly neighborhood<br/>something-or-others.<br/><br/>They were looking for Leon,<br/>but...why?
+2D4A|jm|Rikku
+2D4B|jm|One of a teenybopping trio<br/>of friendly neighborhood<br/>something-or-others.<br/><br/>It looks like these three have<br/>been hired by someone for some<br/>kind of mission...but what?
+2D4C|jm|Paine
+2D4D|jm|One of a teenybopping trio<br/>of friendly neighborhood<br/>something-or-others.<br/><br/>They claim to come in peace...<br/>but, really, what ARE they?
+2D4E|jm|Sora
+2D4F|jm|The hero of the Keyblade who<br/>fights against the Heartless and<br/>the Nobodies. His journey in<br/>search of his lost friend Riku<br/>continues.<br/><br/>Sora joined forces with the<br/>Beast during his travels last<br/>time, when the Beast was trying<br/>to free Belle.
+2D50|jm|Donald Duck
+2D51|jm|The Royal Court Magician.<br/><br/>Donald left Disney Castle in the<br/>Gummi Ship to search for King<br/>Mickey.<br/><br/>Donald already knows the Beast.<br/>The last time they met, they<br/>fought together to free Belle<br/>from her captors.
+2D52|jm|Goofy
+2D53|jm|Captain of the Royal Knights.<br/><br/>Goofy left Disney Castle in the<br/>Gummi Ship to search for King<br/>Mickey.<br/><br/>Goofy already knows the Beast.<br/>The last time they met, they<br/>fought together to free Belle<br/>from her captors.
+2D54|jm|The Beast
+2D55|jm|A hideous beast with sharp teeth<br/>and claws. A mysterious rose<br/>is his most important possession,<br/>kept in a glass case.<br/><br/>Sora and his friends helped the<br/>Beast free Belle from Maleficent´s<br/>clutches once before.
+2D56|jm|The Beast
+2D57|jm|A cold-hearted prince. Because<br/>of his selfish heart, he was<br/>changed into a beast by a<br/>beautiful enchantress.<br/><br/>He was so ashamed of his<br/>hideous appearance that he<br/>turned his back on the world.<br/>Meeting Belle softened his<br/>heart and gave him hope for<br/>the future.
+2D58|jm|The Beast
+2D59|jm|A spoiled and selfish prince. As<br/>punishment for his cold heart, a<br/>beautiful enchantress changed him<br/>into a beast.<br/><br/>Unless he can learn to love and<br/>earn love in return before the<br/>last petal falls from the enchanted<br/>rose, he´ll remain a beast forever.<br/><br/>When Belle came into his world,<br/>he felt something change in him for<br/>the first time in his life.
+2D5A|jm|Belle
+2D5B|jm|A girl who was held captive in the<br/>Beast´s castle. At first he<br/>frightened her, but little by<br/>little, she noticed the injured<br/>heart he was hiding from the<br/>world.<br/><br/>Belle is one of the Seven<br/>Princesses needed to open the<br/>final door to the realm of darkness.<br/>She´s very grateful to the Beast<br/>and to Sora for saving her after<br/>she was kidnapped by the Heartless.
+2D5C|jm|Belle
+2D5D|jm|Belle saw through the Beast´s<br/>rough exterior and helped him<br/>find the heart he´d been hiding<br/>from the world for such a long<br/>time. <br/><br/>Belle loves to read books about<br/>exciting adventures in faraway<br/>places.
+2D5E|jm|Cogsworth
+2D5F|jm|The Beast´s majordomo. He became<br/>a clock when an enchantress put<br/>a spell on the castle. Cogsworth<br/>is very particular about order<br/>and punctuality. Maybe that´s<br/>why he turned into a clock?
+2D60|jm|Lumiere
+2D61|jm|The castle´s maitre d´. He<br/>became a candlestick when an<br/>enchantress put a spell on the<br/>castle. Lumiere has a way with<br/>words and can be quite a charmer.
+2D62|jm|Mrs. Potts
+2D63|jm|The Beast´s housekeeper and<br/>Chip´s mother. She became a<br/>teapot when an enchantress put<br/>a spell on the castle. Mrs. Potts<br/>is always ready to warm your<br/>heart with a comforting cup of<br/>tea.
+2D64|jm|Chip
+2D65|jm|Mrs. Potts´s little boy. Chip<br/>became a teacup when an<br/>enchantress put a spell on the<br/>castle.<br/><br/>His missing front tooth became<br/>a little chip on the rim of this<br/>teacup.
+2D66|jm|The Wardrobe
+2D67|jm|The castle´s lady´s maid. She<br/>became a wardrobe when an<br/>enchantress put a spell on the<br/>castle.
+2D68|jm|Xaldin
+2D69|jm|Organization {XIII}´s Number {III}.<br/>His wiles have clouded the<br/>Beast´s heart.<br/><br/>The Organization´s motives are<br/>a string of mysteries--what<br/>could their true goal be?
+2D6A|jm|Sora
+2D6B|jm|The hero of the Keyblade, whose<br/>journey in search of Riku<br/>continues.<br/><br/>Not long ago, he and Hercules<br/>put the freeze on Hades´ plans<br/>to take over the world. Phil has<br/>dubbed him an honest-to-gods<br/>"Junior Hero."
+2D6C|jm|Donald Duck
+2D6D|jm|The Royal Court Magician.<br/>Donald and Goofy are traveling<br/>with Sora because the King´s<br/>letter told them to "follow<br/>the Keybearer."<br/><br/>Not long ago, they helped Hercules<br/>stop Hades from taking over the<br/>world. Phil has dubbed him a<br/>"Junior Hero."
+2D6E|jm|Goofy
+2D6F|jm|Captain of the Royal Knights.<br/>Goofy and Donald are traveling<br/>with Sora because the King´s<br/>letter told them to "follow<br/>the Keybearer."<br/><br/>Not long ago, they helped Hercules<br/>stop Hades from taking over the<br/>world. Phil has dubbed him a<br/>"Junior Hero."
+2D70|jm|Hercules
+2D71|jm|A legendary hero with super<br/>strength--and a pretty great<br/>fellow, too. Hercules is the son<br/>of the gods Zeus and Hera, but<br/>he´s not a god himself. Not long<br/>ago, he joined forces with Sora<br/>and his friends to stop Hades from<br/>taking over the world.<br/><br/>Hercules really impresses the<br/>crowds when he battles in the<br/>Coliseum. He´s never lost a<br/>match yet.
+2D72|jm|Hercules
+2D73|jm|A legendary hero with super<br/>strength. When the Hydra<br/>destroyed the Coliseum,<br/>Hercules thought he´d let<br/>everyone down. Now he isn´t<br/>sure he´s the hero he thought<br/>he was, and he seems to have<br/>lost his fighting spirit.
+2D74|jm|Philoctetes
+2D75|jm|Or "Phil" for short.<br/>Phil is a veteran trainer of heroes<br/>and Hercules´ mentor. He also<br/>trained Sora and his friends during<br/>their first adventures with<br/>Hercules.<br/><br/>These days Phil is busy running<br/>the Coliseum and screening<br/>contestants for the games.
+2D76|jm|Megara
+2D77|jm|Or "Meg" for short. She´s<br/>tough, witty, and a true friend<br/>to Hercules. Since she met him,<br/>Meg´s been trusting folks a<br/>bit more than she did before.<br/><br/>Meg set out alone for the<br/>Underworld. She knew Hercules<br/>was exhausted and wanted Hades<br/>to give him a break from fighting<br/>in the Coliseum.
+2D78|jm|Pegasus
+2D79|jm|A beautiful horse that can fly<br/>just like an eagle, Pegasus is<br/>Hercules´ loyal partner. Hercules´<br/>father Zeus created Pegasus from<br/>a cloud and gave him to Hercules<br/>when he was a baby.<br/><br/>Hercules and Pegasus were<br/>separated for a while, but they<br/>were reunited again when they grew<br/>up.
+2D7A|jm|Auron
+2D7B|jm|A warrior that Hades called forth<br/>from the Underworld.<br/><br/>In exchange for his freedom,<br/>Auron was commanded to defeat<br/>Hercules. But he refused to work<br/>with Hades, saying, "This is my<br/>story."<br/><br/>He doesn´t talk about himself very<br/>much. What sort of story has he<br/>written thus far?
+2D7C|jm|Pain
+2D7D|jm|One of Hades´ lackeys. Pain<br/>tried to attack Hercules when<br/>the great hero was a little baby,<br/>but Hercules just clobbered him.<br/><br/>Pain can change form whenever<br/>he likes, but he´s a bit of a<br/>bumbler. He´s never far from<br/>his evil partner Panic.
+2D7E|jm|Panic
+2D7F|jm|One of Hades´ lackeys. Panic<br/>tried to attack Hercules when<br/>the great hero was a little baby,<br/>but Hercules just clobbered him.<br/><br/>Panic can change form whenever<br/>he likes, but he´s a bit of a<br/>bumbler. He´s never far from<br/>his evil partner Pain.
+2D80|jm|Hades
+2D81|jm|Lord of the Underworld.<br/><br/>The last time Sora and his friends<br/>tangled with Hades, he was using<br/>the Heartless to try to take over<br/>the world. Together with Hercules,<br/>the three friends put a stop to<br/>his plans. But Hades is as evil as<br/>ever, and won´t rest until he<br/>sends Hercules to the Underworld--<br/>for eternity.
+2D82|jm|Cerberus
+2D83|jm|Guardian of the entrance to<br/>the Underworld and Hades´<br/>loyal "pet."<br/><br/>Hercules, Sora, Donald, and<br/>Goofy teamed up to defeat<br/>him last time, but Hades brought<br/>him back--and he´s as<br/>dangerous as ever.
+2D84|jm|The Hydra
+2D85|jm|A legendary monster<br/>with many heads, sent<br/>by Hades to fight<br/>Hercules. If you cut<br/>off one of its heads,<br/>two more grow back.
+2D88|jm|Demyx
+2D89|jm|Organization {XIII}´s Number {IX}.<br/><br/>He was surveying the world of<br/>Olympus, and even swiped the<br/>Olympus Stone. He´s a lousy<br/>fighter.<br/><br/>Demyx called Sora "Roxas."
+2D8A|jm|Sora
+2D8B|jm|The hero of the Keyblade who<br/>fights against the Heartless and<br/>the Nobodies. His journey in search<br/>of Riku continues.<br/><br/>In his travels last time, he<br/>helped stop Jafar from taking<br/>over Agrabah by trapping him<br/>inside a magic lamp.
+2D8C|jm|Donald Duck
+2D8D|jm|The Royal Court Magician. He´s<br/>traveling the worlds with Sora<br/>and Goofy in search of the King.<br/><br/>The last time he visited Agrabah,<br/>Donald fought side by side with<br/>Aladdin to defend the city from Jafar.
+2D8E|jm|Goofy
+2D8F|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds with<br/>Sora and Donald in search of the<br/>King.<br/><br/>The last time he visited Agrabah,<br/>Goofy fought side by side with<br/>Aladdin to defend the city from Jafar.
+2D90|jm|Aladdin
+2D91|jm|A young man from the desert<br/>city of Agrabah. Not long ago,<br/>Sora and his friends helped Aladdin<br/>defeat Jafar and free Genie from<br/>the lamp.<br/><br/>Aladdin used to worry that<br/>someone known as a "street rat"<br/>couldn´t really earn the love<br/>of a princess. But Jasmine taught<br/>Aladdin that it´s what´s inside<br/>a person´s heart that really counts.<br/><br/>Aladdin´s friend Abu, the monkey,<br/>is never far from his side.
+2D92|jm|The Magic Carpet
+2D93|jm|A magical flying carpet.<br/><br/>Carpet is an old friend of<br/>Genie´s. Ever since Aladdin<br/>found him in the Cave of<br/>Wonders, Carpet will do<br/>anything to help him. Carpet<br/>can carry Aladdin across the<br/>vastness of the desert in the<br/>blink of an eye.
+2D94|jm|Iago
+2D95|jm|Jafar´s boisterous and cunning<br/>parrot. He´s Jafar´s eyes and<br/>ears for everything going on<br/>in Agrabah.<br/><br/>Iago´s mischief finally landed<br/>him inside the lamp, imprisoned<br/>with Jafar. Now that he´s<br/>finally free again, he swears<br/>he´s turned over a new feather.<br/>But I wonder...
+2D96|jm|Abu
+2D97|jm|Aladdin´s faithful and rather<br/>furry sidekick. Abu doesn´t<br/>talk a lot, but he always<br/>understands what Aladdin needs.<br/><br/>Unfortunately, Abu can´t resist<br/>treasure, even if it belongs<br/>to somebody else.
+2D98|jm|Princess Jasmine
+2D99|jm|The princess of Agrabah and one<br/>of the Seven Princesses needed<br/>to open the door to the realm<br/>of darkness.<br/><br/>Jasmine met Aladdin after she<br/>fled the palace to try and lead<br/>her own life. She´s very grateful<br/>to Aladdin, Sora, and his friends<br/>for saving her city from Jafar.
+2D9A|jm|Genie
+2D9B|jm|Genie spent ten thousand<br/>years stuck inside the<br/>magic lamp until Aladdin<br/>found him. After Genie<br/>helped Aladdin defeat<br/>Jafar, Aladdin used his<br/>third and final wish to<br/>set Genie free.<br/><br/>For Genie, it´s a dream<br/>come true. Instead of being<br/>at every master´s beck and<br/>call, he´s enjoying a carefree<br/>life.
+2D9C|jm|Jafar
+2D9D|jm|Before he became an evil genie,<br/>Jafar was the Sultan´s royal<br/>vizier.<br/><br/>The last time we were in Agrabah,<br/>Jafar was trying to use the<br/>Heartless to take over the city.<br/>He even got control of Aladdin´s<br/>pal Genie and wished to become a<br/>powerful genie himself. Aladdin,<br/>Sora, and his friends joined<br/>together to defeat Jafar, and<br/>imprisoned him in his own lamp.
+2D9E|jm|Jafar
+2D9F|jm|When he was master of the<br/>lamp, Jafar used his last<br/>wish to become an all-<br/>powerful genie. He was<br/>imprisoned in the lamp, but<br/>eventually made his escape,<br/>thanks to the peddler.<br/><br/>Jafar then used his magical<br/>power to grow to a colossal size.<br/>He tried to take over Agrabah,<br/>but Sora and his friends defeated<br/>him once more.
+2DA0|jm|The Peddler
+2DA1|jm|He runs a shop offering all kinds of<br/>merchandise. There´s definitely<br/>something suspicious about this<br/>fellow, though.
+2DA2|jm|Sora
+2DA3|jm|The hero of the Keyblade who<br/>fights against the Heartless and<br/>the Nobodies.<br/><br/>Sora continues to hunt for clues<br/>to Riku´s whereabouts since the<br/>two were separated some time ago.
+2DA4|jm|Donald Duck
+2DA5|jm|The Royal Court Magician. He left<br/>Disney Castle on a journey to<br/>find the King, who had disappeared.<br/><br/>He´s traveling the worlds with<br/>Sora in search of clues to the<br/>whereabouts of King Mickey.
+2DA6|jm|Goofy
+2DA7|jm|Captain of the Royal Knights. He<br/>left Disney Castle on a journey<br/>to find the King, who had<br/>disappeared.<br/><br/>Goofy´s loyalty to King Mickey<br/>is second to none, and he´s<br/>always ready to help his pal Sora<br/>when the going gets tough.
+2DAA|jm|Ping
+2DAB|jm|The only daughter of the<br/>distinguished Fa family. Her real<br/>name is Fa Mulan.<br/><br/>She disguised herself as a man<br/>and joined the Imperial Army in<br/>her father´s place to fight<br/>the Huns and uphold the family´s<br/>honor. The other soldiers know<br/>her as Ping.
+2DAC|jm|Mulan
+2DAD|jm|The only daughter of the<br/>distinguished Fa family, Mulan<br/>has a hard time acting the way<br/>everybody wants her to. She´s<br/>sure she´ll never fit in. But<br/>when her aging father was ordered<br/>to join the Imperial Army, she<br/>sneaked away and risked her life<br/>to take his place.
+2DAE|jm|Captain Li Shang
+2DAF|jm|A talented young officer whose<br/>father is a distinguished general<br/>in the Imperial Army.<br/><br/>Captain Shang has to train a<br/>disorganized group of recruits<br/>who´ve been drafted to help<br/>fight the Huns. He sure is a<br/>stickler for discipline, so he<br/>must have his hands full getting<br/>his inexperienced troops into shape.
+2DB0|jm|Yao
+2DB1|jm|One of the men drafted to help<br/>defend China from the Hun<br/>invasion.<br/><br/>Yao´s a compact sort of fellow<br/>who likes to brag that he´s<br/>tougher than anybody else.
+2DB2|jm|Chien-Po
+2DB3|jm|One of the men drafted to help<br/>defend China from the Hun<br/>invasion.<br/><br/>Chien-Po sure does love a good<br/>meal. In fact, he´d probably<br/>rather dream about food than<br/>glory or adventure.
+2DB4|jm|Ling
+2DB5|jm|One of the men drafted to help<br/>defend China from the Hun<br/>invasion.<br/><br/>Ling loves to talk and tell jokes.
+2DB6|jm|The Emperor
+2DB7|jm|The Emperor rules China with<br/>wisdom that´s said to be as<br/>vast as the ocean, and with a<br/>resolve that´s as unshakable<br/>as a mountain.<br/><br/>He is deeply grateful to Mulan<br/>and Captain Shang for saving<br/>China from the Huns.
+2DB8|jm|Mushu
+2DB9|jm|He used to be one of the Fa<br/>family guardians, but Mushu´s<br/>mistakes got him demoted to the<br/>lowly job of gong ringer. He<br/>hopes to prove himself and win<br/>back his place among the other<br/>guardians by helping Mulan.<br/><br/>Mushu gave Sora and his friends<br/>some valuable help during their<br/>last adventure.
+2DBA|jm|Shan-Yu
+2DBB|jm|Leader of the Huns. He wants to<br/>take over all of China.<br/><br/>Shan-Yu and his enormous army<br/>are fearsome fighters who<br/>have defeated some of the<br/>Emperor´s best troops.<br/>Now Shan-Yu plans to use<br/>the Heartless to invade<br/>the Empire.<br/><br/>Shan-Yu has fierce eyes,<br/>and is always seen with a<br/>hawk who serves as his eyes and<br/>ears from above.
+2DBE|jm|Xigbar
+2DBF|jm|Organization {XIII}´s Number {II}.<br/>When Sora called out to him,<br/>thinking he was Riku, Xigbar gave<br/>a curt reply.<br/><br/>His motives and his methods<br/>remain unclear. Surely he has<br/>a greater goal in mind, but what<br/>could it be?
+2DC0|jm|Sora
+2DC1|jm|A boy who wields the Keyblade.<br/><br/>Not long ago, he gathered up the<br/>scattered pages of a storybook<br/>and became friends with everyone<br/>inside.
+2DC2|jm|Winnie the Pooh
+2DC3|jm|A bear who lives in the Hundred<br/>Acre Wood. Known as "Pooh"<br/>for short. He loves to eat, and<br/>his very favorite thing to eat<br/>is honey.<br/><br/>Pooh likes to exercise every<br/>morning. He says it improves his<br/>appetite.
+2DC6|jm|Tigger
+2DC7|jm|Tigger sure is energetic. He loves<br/>to use his tail to bounce all over<br/>the Hundred Acre Wood. Sometimes<br/>his bouncing gets to be a bit<br/>much, but he doesn´t mean any<br/>harm. Underneath that happy-go-<br/>lucky exterior, there´s a sensitive,<br/>gentle heart.
+2DC8|jm|Piglet
+2DC9|jm|One of Pooh´s friends in the<br/>Hundred Acre Wood.<br/><br/>Piglet´s tiny and startled by<br/>just about anything. But<br/>knowing he has friends like<br/>Pooh always helps Piglet feel<br/>a little more courageous.
+2DCA|jm|Eeyore
+2DCB|jm|Eeyore always seems to be a bit<br/>gloomy. His usual residence is<br/>a house built of sticks. His tail<br/>is held on by a tack, but it keeps<br/>falling off and getting lost.<br/><br/>Eeyore spends quite a lot of time<br/>wandering the Hundred Acre Wood<br/>looking for a new home, because<br/>his stick house is always falling down.
+2DCC|jm|Owl
+2DCD|jm|Owl seems to be the wisest<br/>resident of the Hundred Acre<br/>Wood. Whenever anyone has a<br/>question they can´t answer,<br/>they ask Owl. He´s always<br/>happy to help, but his answers<br/>aren´t always exactly right!
+2DCE|jm|Kanga
+2DCF|jm|Roo´s mother. When she leaves<br/>her house, she just pops little<br/>Roo into her pouch and off they go.<br/><br/>Kanga is always ready with kind<br/>and gentle advice for her neighbors<br/>in the Hundred Acre Wood.
+2DD0|jm|Roo
+2DD1|jm|The youngest resident of the<br/>Hundred Acre Wood. Roo looks<br/>up to Tigger, and dreams of<br/>bouncing just like him someday.
+2DD2|jm|Gopher
+2DD3|jm|Gopher is an excavation expert.<br/>That is, he´s a specialist at<br/>digging holes. Whenever you need<br/>to find him, just look for a mound<br/>of fresh dirt.
+2DD4|jm|Sora
+2DD5|jm|A boy who fights with Keyblade<br/>in hand, opening the way before<br/>him as he searches for Riku and<br/>a way home.<br/><br/>Sora has taken a feline form in<br/>this world, but he seems to have<br/>two left feet...four left paws?<br/>Whatever.
+2DD6|jm|Donald Duck
+2DD7|jm|The Royal Court Magician. He´s<br/>traveling the worlds with Sora<br/>and Goofy in search of the King.<br/><br/>Donald´s got new wings in this<br/>world. So, naturally, he got<br/>the hang of it right away.
+2DD8|jm|Goofy
+2DD9|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds with<br/>Sora and Donald in search of<br/>the King.<br/><br/>Goofy´s been transformed into<br/>a turtle in this world, and it<br/>seems to suit him just fine.
+2DDA|jm|Pete
+2DDB|jm|Pete´s using the Heartless to<br/>get control over all the worlds.<br/><br/>He´s helping Scar´s phantom,<br/>too. Seems like Pete´s trying<br/>to cover all his bases.
+2DDC|jm|Simba
+2DDD|jm|Son of the great Mufasa who<br/>grew up to succeed his father<br/>and rule the Pride Lands.<br/><br/>As a young cub, Simba mistakenly<br/>thought he was responsible for<br/>his father´s death. He left<br/>the Pride Lands and met two<br/>new friends: Timon and Pumbaa.<br/>They taught him to lead a<br/>carefree life.<br/><br/>During their first quest, Simba<br/>helped Sora, Donald, and Goofy<br/>whenever they called on him.
+2DE0|jm|Timon
+2DE1|jm|A meerkat and one of Simba's<br/>closest pals. He found Simba,<br/>almost dead of thirst, when he<br/>was just a cub. Timon and his<br/>best buddy Pumbaa taught Simba<br/>their motto, hakuna matata,<br/>which means "no worries."<br/><br/>And that's how Simba grew up--<br/>with no worries, taking life<br/>one day at a time.
+2DE2|jm|Pumbaa
+2DE3|jm|A warthog and one of Simba's<br/>closest pals. He found Simba,<br/>almost dead of thirst, when he<br/>was just a cub. Pumbaa and his<br/>best buddy Timon taught Simba<br/>their motto, hakuna matata,<br/>which means "no worries."<br/><br/>Some folks are a bit put off by<br/>Pumbaa's pungency, but a kinder<br/>fellow you'll never find.
+2DE4|jm|Nala
+2DE5|jm|Simba´s childhood friend Nala<br/>has grown up to be a strong<br/>lioness. She´s searching for<br/>help to save the Pride Lands,<br/>which have fallen into a terrible<br/>state.
+2DE8|jm|Mufasa
+2DE9|jm|A great king of the Pride Lands<br/>who was loved by all the animals<br/>who lived there. He passed on the<br/>wisdom of generations of kings<br/>to his son Simba.<br/><br/>Mufasa tried to climb to safety<br/>after saving young Simba from<br/>a stampede, but Scar sent him<br/>falling to his death.
+2DEC|jm|Rafiki
+2DED|jm|A mandrill who lives in the Pride<br/>Lands. Rafiki is a wise old shaman.<br/><br/>Rafiki was a trusted advisor to<br/>Mufasa, and has always looked<br/>forward to the day Simba would<br/>take his father´s place as king.
+2DEE|jm|Scar
+2DEF|jm|Simba´s evil uncle and brother<br/>of Mufasa.<br/><br/>After Mufasa´s death and<br/>Simba´s disappearance, Scar<br/>became king of the Pride<br/>Lands and used the hyenas to<br/>do his dirty work. Scar hasn´t<br/>taken care of the Pride Lands,<br/>and almost all the animals have<br/>been forced to leave.
+2DF2|jm|Shenzi
+2DF3|jm|A cowardly hyena who hates lions.<br/>Shenzi takes the lead when she<br/>and her friends are up to mischief.<br/>She´s always quick to follow the<br/>strongest leader.
+2DF4|jm|Banzai
+2DF5|jm|A cowardly hyena who hates lions.<br/>Banzai likes to complain but<br/>doesn´t like to work. He´s always<br/>looking to find an easy meal.
+2DF6|jm|Ed
+2DF7|jm|A witless hyena who´s not very smart,<br/>but loves to laugh. He takes a lot of<br/>ribbing from his pals Shenzi and<br/>Banzai, but he doesn´t seem to care.
+2DF8|jm|Sora
+2DF9|jm|Hero of the Keyblade. Sora<br/>continues his search for Riku,<br/>separated from him in the great<br/>battle some time ago.<br/><br/>In his previous travels, Sora<br/>defended Atlantica when Ursula<br/>tried to take the Trident.
+2DFA|jm|Donald Duck
+2DFB|jm|The Royal Court Magician. He´s<br/>traveling the worlds in search<br/>of clues to the whereabouts of<br/>King Mickey.<br/><br/>In his previous travels, Donald<br/>and his friends helped to defend<br/>Atlantica from Ursula, the sea witch.
+2DFC|jm|Goofy
+2DFD|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds in<br/>search of clues to the<br/>whereabouts of King Mickey.<br/><br/>In his previous travels, Goofy<br/>and his friends helped to defend<br/>Atlantica from Ursula, the sea witch.
+2DFE|jm|Ariel
+2DFF|jm|The seventh daughter of Triton,<br/>king of Atlantica. Ariel has the<br/>most beautiful singing voice of<br/>all the merpeople.<br/><br/>Ariel wants to see the world<br/>outside her ocean home. She even<br/>keeps a collection of things<br/>from the human world in a secret<br/>grotto. Sora and his friends<br/>helped her the last time Ursula<br/>tried to take over Atlantica.
+2E00|jm|Ariel
+2E01|jm|The seventh daughter of Triton,<br/>king of Atlantica. She made a<br/>deal with Ursula to become a<br/>human, but lost her beautiful<br/>voice in the bargain.<br/><br/>Ariel has three days to make<br/>Prince Eric fall in love with her.<br/>If she doesn´t, she´ll become a<br/>mermaid again and belong to Ursula.
+2E02|jm|King Triton
+2E03|jm|The Sea King who rules<br/>Atlantica; the trident is the<br/>symbol of his power. Triton<br/>dearly loves his daughter<br/>Ariel, but to ensure her <br/>safety and the security of<br/>his kingdom, he´s strictly<br/>forbidden her to have contact with<br/>anyone from the human world.
+2E04|jm|King Triton
+2E05|jm|The Sea King who rules Atlantica.<br/>At least, he used to--until<br/>Ursula changed him into a small,<br/>ugly sea creature. But he was<br/>willing to pay that price to<br/>save Ariel from Ursula´s evil<br/>magic.
+2E06|jm|Sebastian
+2E07|jm|King Triton´s court composer.<br/>You could almost say he´s a<br/>musical genius. Sebastian´s also<br/>in charge of keeping an eye on<br/>Ariel to make sure she stays<br/>safe. Right now, he´s working on<br/>a very special musical.
+2E08|jm|Flounder
+2E09|jm|Ariel´s trusted friend Flounder<br/>would do anything for her. He´s<br/>small and not exactly brave, but<br/>he´ll never leave Ariel´s side,<br/>even when it means facing danger.
+2E0A|jm|Prince Eric
+2E0B|jm|A prince from the world on land<br/>who loves the sea. Ariel saved<br/>him from drowning when his ship<br/>sank one stormy night.<br/><br/>Prince Eric doesn´t remember<br/>anything from that night except<br/>Ariel´s enchanting voice. Now<br/>he´s searching everywhere for<br/>the girl who saved him.
+2E0C|jm|Jetsam
+2E0D|jm|An evil eel who works for Ursula.<br/>His right eye shines with a<br/>menacing golden gleam. Jetsam is<br/>a smooth talker, and he knows how<br/>to manipulate the hearts of others.<br/><br/>He was defeated by Sora and his<br/>friends in the last battle, but<br/>Jetsam returned along with Ursula.
+2E0E|jm|Flotsam
+2E0F|jm|An evil eel who works for Ursula.<br/>His left eye shines with a<br/>menacing golden gleam. Flotsam<br/>uses empty promises to lure<br/>unsuspecting mermen and mermaids<br/>into Ursula´s clutches.<br/><br/>He was defeated by Sora and his<br/>friends in the last battle, but<br/>Flotsam returned along with Ursula.
+2E10|jm|Vanessa
+2E11|jm|Ursula changed herself into a<br/>beautiful girl to ruin Ariel´s<br/>chances with Prince Eric. <br/><br/>Ariel gave her voice to Ursula<br/>when she signed their contract...<br/>and Ursula used Ariel´s voice<br/>to mesmerize Prince Eric.
+2E12|jm|Ursula
+2E13|jm|A sea witch who lives in<br/>a cave far from the palace.<br/>She used to serve King<br/>Triton, until her evil<br/>scheming got her banished.<br/><br/>Some time ago, she tried<br/>to get rid of King Triton<br/>and take over Atlantica.<br/>Sora, Donald, and Goofy<br/>helped Ariel defeat her,<br/>but she used the power of<br/>darkness to return. Her<br/>grudge against King Triton<br/>is as strong as ever...and<br/>now she´s looking for revenge.
+2E14|jm|Sora
+2E15|jm|The hero of the Keyblade, a boy<br/>who fights against the Heartless<br/>and the Nobodies as he continues<br/>his journey. He is looking for<br/>the King, who in turn should know<br/>where Riku is.<br/><br/>Sora came to Disney Castle in<br/>response to Queen Minnie´s wish.
+2E16|jm|Donald Duck
+2E17|jm|The Royal Court Magician.<br/><br/>He woke one morning and found a<br/>letter the King had left behind before<br/>he disappeared. That´s when Donald<br/>left Disney Castle on this long<br/>journey.<br/><br/>His one wish is to be reunited<br/>with the King and for them to<br/>return to Disney Castle together.
+2E18|jm|Goofy
+2E19|jm|Captain of the Royal Knights.<br/><br/>A letter the King wrote before<br/>he disappeared is the reason why<br/>Goofy left Disney Castle on this<br/>long journey.<br/><br/>His one wish is to be reunited<br/>with the King and for them to<br/>return to Disney Castle together.
+2E1A|jm|Queen Minnie
+2E1B|jm|Queen of Disney Castle.<br/><br/>She is ruling in Mickey´s<br/>absence. At her request, I´m<br/>tagging along with Donald and<br/>Goofy as the Royal Chronicler.<br/><br/>Queen Minnie is quite concerned<br/>about the King, but she knows<br/>in her heart that he´ll be all<br/>right.
+2E1C|jm|Daisy Duck
+2E1D|jm|A lady-in-waiting to Queen<br/>Minnie at Disney Castle and<br/>Donald´s girlfriend.<br/><br/>She´s helping Queen Minnie<br/>run the castle while the others<br/>are away.
+2E1E|jm|Chip
+2E1F|jm|One of the kingdom´s<br/>mechanical specialists. He helps<br/>maintain the Gummi Ship, which<br/>can travel to any destination.<br/>Chip is diligent and follows<br/>through on his plans.<br/><br/>Chip looks almost exactly like<br/>his pal Dale, but you can tell<br/>them apart by the color of their<br/>noses and the shape of their front<br/>teeth.
+2E20|jm|Dale
+2E21|jm|One of the kingdom´s<br/>mechanical specialists. He helps<br/>maintain the Gummi Ship, which<br/>can travel to any destination.<br/>Dale´s pretty impulsive, but<br/>he works slow and steady to<br/>finish a job when it´s<br/>important.<br/><br/>Dale looks almost exactly like<br/>his pal Chip, but you can tell<br/>them apart by the color of their<br/>noses and the shape of their front<br/>teeth.
+2E22|jm|Brooms
+2E23|jm|King Mickey cast a spell on<br/>these brooms and turned them<br/>into hard workers. They clean<br/>and help maintain the Gummi<br/>Ship, and do just about any<br/>other necessary work.
+2E24|jm|Sora
+2E25|jm|A boy who searches for Riku and<br/>the King, his Keyblade opening<br/>the road before him.<br/><br/>To save Disney Castle from a<br/>thorny fate, Sora passed through<br/>Merlin´s doorway into a world<br/>of black-and-white.
+2E26|jm|Donald Duck
+2E27|jm|The Royal Court Magician.<br/><br/>To save Disney Castle, Donald<br/>went through a doorway Merlin<br/>conjured up into a black-and-<br/>white world that seemed<br/>strangely familiar.
+2E28|jm|Goofy
+2E29|jm|Captain of the Royal Knights.<br/><br/>To save Disney Castle, Goofy<br/>went through a doorway Merlin<br/>conjured up into a black-and-<br/>white world that seemed<br/>strangely familiar.
+2E2A|jm|Pete
+2E2B|jm|King Mickey´s old nemesis. He<br/>traveled back in time on<br/>Maleficent´s orders.<br/><br/>As part of Maleficent´s scheme<br/>to take over Disney Castle,<br/>Pete plans to destroy the<br/>Cornerstone of Light. Without<br/>the Cornerstone, Disney Castle<br/>will be defenseless.
+2E2C|jm|Pete (?)
+2E2D|jm|Captain of a river steamboat;<br/>this is a different Pete from<br/>the one we know. He doesn´t<br/>seem to have any connection<br/>with the Heartless. Why, he<br/>doesn´t even recognize Sora,<br/>Donald, and Goofy!<br/><br/>I wonder if he´s just trying<br/>to trick us.
+2E2E|jm|Horace Horsecollar
+2E2F|jm|An old friend of King Mickey,<br/>Queen Minnie, and the other<br/>folks at Disney Castle. Horace<br/>wouldn´t be Horace without<br/>his big plow collar. He´s also<br/>close friends with Clarabelle Cow.
+2E30|jm|Clarabelle Cow
+2E31|jm|An old friend of King Mickey,<br/>Queen Minnie, and the other<br/>folks at Disney Castle.<br/>Clarabelle is also close friends<br/>with Horace Horsecollar. She<br/>loves any kind of gossip.
+2E32|jm|Clara Cluck
+2E33|jm|A famous opera-singing hen.<br/>Clara´s an old friend of King<br/>Mickey, Queen Minnie, and the<br/>other folks at Disney Castle.
+2E34|jm|King Mickey (?)
+2E35|jm|It´s King Mickey all right, but<br/>in this world, he doesn´t have<br/>a lot to say, and he doesn´t<br/>look exactly like the king we<br/>all know.<br/><br/>His Majesty´s acting like he´s<br/>somebody completely different.<br/>I wonder what´s going on.
+2E36|jm|Sora
+2E37|jm|The hero of the Keyblade who<br/>fights against the Heartless and<br/>the Nobodies.<br/><br/>Not long ago, he helped unravel<br/>Oogie´s scheme to take over<br/>Halloween Town.
+2E38|jm|Donald Duck
+2E39|jm|The Royal Court Magician. He´s<br/>traveling the worlds with Sora<br/>and Goofy in search of the King.<br/><br/>Not long ago, he helped unravel<br/>Oogie´s scheme to take over<br/>Halloween Town.
+2E3A|jm|Goofy
+2E3B|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds with<br/>Sora and Donald in search of<br/>the King.<br/><br/>Not long ago, he helped unravel<br/>Oogie´s scheme to take over<br/>Halloween Town.
+2E3C|jm|Jack Skellington
+2E3D|jm|The Pumpkin King. He loves<br/>scaring folks more than just<br/>about anything. When Sora and<br/>his friends first met Jack,<br/>he wanted to use the Heartless<br/>to spice up his frightening<br/>Halloween celebration. But<br/>things didn´t work out quite<br/>like Jack planned.<br/><br/>Now Jack´s enchanted by<br/>Christmas. He´s determined to<br/>give Santa a rest and show he<br/>can do a top-notch job running<br/>the big day.
+2E3E|jm|Jack Skellington
+2E3F|jm|He loves to scare people silly--<br/>but when Jack discovered<br/>Christmas, he was captivated.<br/>He even thought he could improve<br/>it by adding his own special<br/>brand of fright.<br/><br/>Jack wanted to deliver presents<br/>to the children of the world for<br/>Santa. Santa helped him realize<br/>that his talents were really meant<br/>for Halloween. But Jack still has<br/>the Santa suit Sally made for him!
+2E40|jm|Sally
+2E41|jm|One of Dr. Finkelstein´s<br/>creations, Sally´s patched<br/>together with parts that<br/>sometimes come off and move<br/>around on their own. She´s<br/>gotten very good at mending<br/>herself with a needle and thread.<br/><br/>Sally usually helps Dr. Finkelstein<br/>around the lab, but she´d much<br/>rather spend time with Jack.
+2E42|jm|Dr. Finkelstein
+2E43|jm|The mad scientist of Halloween<br/>Town. Sally is one of his<br/>creations.<br/><br/>The first time Sora and his friends<br/>met the doctor, he was trying to<br/>create a heart. He failed, but he<br/>hasn´t lost his appetite for<br/>strange inventions.<br/><br/>The doctor´s head is made out of<br/>steel plates that open up for<br/>maintenance.
+2E44|jm|Zero
+2E45|jm|Jack´s ghost dog. He comes<br/>out of his grave whenever<br/>Jack calls, and never gets<br/>tired of playing fetch with<br/>his master.
+2E46|jm|The Mayor
+2E47|jm|The two-faced mayor of<br/>Halloween Town. His face switches<br/>from a happy version to a sad one<br/>depending on his mood, which seems<br/>to change pretty often.<br/><br/>The Mayor relies on Jack to make<br/>preparations for Halloween. In<br/>fact, the Mayor can´t decide a<br/>thing without Jack´s help.
+2E48|jm|Lock
+2E49|jm|A member of the prankster trio<br/>that includes Shock and Barrel.<br/>Their walking bathtub helps<br/>them get around while they<br/>commit all kinds of mischief.<br/><br/>They sometimes help Oogie, but<br/>they´re not really loyal to him.
+2E4A|jm|Shock
+2E4B|jm|Another member of the trio of<br/>troublemakers. Shock is the most<br/>cunning of the three, and comes<br/>up with a lot of their ideas for<br/>mischief. Last time Oogie was<br/>defeated, she started behaving<br/>better--well, just a little bit<br/>better.
+2E4C|jm|Barrel
+2E4D|jm|A member of the trio that includes<br/>Lock and Shock. He´s often the<br/>object of his partners´ pranks<br/>and practical jokes.
+2E4E|jm|Santa Claus
+2E4F|jm|Known to some as Father<br/>Christmas, Santa Claus makes<br/>children´s dreams come true<br/>every year on December 25th,<br/>delivering presents in a sleigh<br/>drawn by flying reindeer. To<br/>get ready for Christmas, he<br/>depends on his list of this<br/>year´s good little girls and<br/>boys.<br/><br/>It seems our friend Jack<br/>Skellington is a bit confused. He<br/>thinks Santa´s name is actually<br/>Sandy Claws.
+2E50|jm|Reindeer
+2E51|jm|A special set of Halloween-<br/>style reindeer, custom-<br/>made by Dr. Finkelstein for<br/>Jack. They´re just right for<br/>pulling Jack´s coffin sleigh<br/>through the Christmas Eve sky.
+2E52|jm|Oogie Boogie
+2E53|jm|An evil bag of bugs who loves<br/>gambling with dice and dreams of<br/>causing trouble for Jack in<br/>Halloween Town. Sora and his<br/>friends defeated Oogie once<br/>before, but Maleficent brought<br/>him back as part of her evil plan.
+2E54|jm|The Experiment
+2E55|jm|Dr. Finkelstein´s puppet<br/>creation.<br/><br/>Unlike Sally, it didn´t have a<br/>heart--so it went to find one<br/>in the love that´s bundled with<br/>all presents.
+2E58|jm|Sora
+2E59|jm|The hero of the Keyblade, a boy<br/>destined to battle the Heartless<br/>and the Nobodies. Sora searches<br/>for Riku in hopes they can<br/>return to their island home<br/>together.<br/><br/>When he arrived at Port Royal,<br/>Sora couldn't hide the wonder he<br/>felt at how different it was from<br/>other worlds he'd visited.
+2E5A|jm|Donald Duck
+2E5B|jm|The Royal Court Magician. He´s<br/>traveling the worlds in search<br/>of King Mickey, who set out to<br/>solve the riddle of Organization {XIII}.<br/><br/>When he arrived at Port Royal,<br/>Donald couldn´t hide the wonder<br/>he felt at how different it was<br/>from other worlds he´d visited.
+2E5C|jm|Goofy
+2E5D|jm|Captain of the Royal Knights.<br/>He´s traveling the worlds in<br/>search of King Mickey, who set<br/>out to solve the riddle of<br/>Organization {XIII}.<br/><br/>When he arrived at Port Royal,<br/>Goofy couldn´t hide the wonder<br/>he felt at how different it was<br/>from other worlds he´d visited.
+2E5E|jm|Will Turner
+2E5F|jm|A very talented swordsmith. As<br/>a boy, Will was rescued at sea<br/>after pirates burned his ship<br/>and left him to drown. About<br/>the same time he was rescued,<br/>the pirate medallion his father<br/>had given him disappeared.<br/><br/>Young Elizabeth Swann was aboard<br/>the ship that rescued Will, and<br/>they´ve been friends ever since.<br/>As Elizabeth´s father is governor<br/>of Port Royal, Will is a bit shy<br/>and rather formal around her.
+2E62|jm|Elizabeth Swann
+2E63|jm|Daughter of Port Royal´s<br/>governor. To protect Will, she<br/>kept his pirate medallion hidden<br/>from her father and his men. A<br/>bit romantic about pirate life,<br/>she likes to steal a glance at<br/>the medallion every now and then.<br/><br/>Will is a bit shy and rather formal<br/>around Elizabeth because of her<br/>father´s position. She kind of<br/>wishes he wouldn´t be.
+2E64|jm|Captain Jack Sparrow
+2E65|jm|A pirate who sails the high seas.<br/>He sure is a colorful character,<br/>and one who really values his<br/>freedom. He says he's a captain,<br/>but he doesn't seem to have a crew.<br/><br/>Jack was arrested in Port Royal<br/>and thrown in jail, but Will Turner<br/>helped him escape during a pirate<br/>attack. Jack seems to know something<br/>special about Will's name. Wonder<br/>what it could be.
+2E66|jm|Captain Barbossa
+2E67|jm|Captain of the Black Pearl and<br/>leader of the undead pirates.<br/><br/>The medallions´ curse keeps<br/>Captain Barbossa and his men in<br/>a kind of limbo between life<br/>and death. Their true form is<br/>revealed in the moonlight, and<br/>it´s a terrifying sight to see.<br/><br/>These days, Captain Barbossa has<br/>joined up with Pete in a search<br/>for...something.
+2E68|jm|Sora
+2E69|jm|A boy who carries the Keyblade,<br/>opening the world-gates in<br/>search of Riku.<br/><br/>Tinkering with Ansem´s computer<br/>triggered some kind of unique<br/>device that warped Sora inside<br/>the computer program.
+2E6A|jm|Donald Duck
+2E6B|jm|The Royal Court Magician. He<br/>left Disney Castle on a quest to<br/>find King Mickey.<br/><br/>Donald tried to use Ansem´s<br/>computer to find the King, but<br/>his impatient banging caused the<br/>MCP to transport the three friends<br/>into the world inside the computer<br/>system.
+2E6C|jm|Goofy
+2E6D|jm|Captain of the Royal Knights. He<br/>left Disney Castle on a quest to<br/>find King Mickey.<br/><br/>Donald tried to use Ansem´s<br/>computer to find the King, but<br/>his impatient banging caused the<br/>MCP to transport the three friends<br/>into the world inside the computer<br/>system.
+2E6E|jm|Tron
+2E6F|jm|A security program created by a<br/>computer user to watch the MCP.<br/><br/>Tron is very dedicated, and he´ll<br/>do just about anything for his<br/>user.
+2E70|jm|Sark
+2E71|jm|A powerful program who doesn´t<br/>serve any user--just the MCP.<br/>Commander Sark is pretty harsh<br/>to any program that tries to<br/>resist his master´s power.
+2E72|jm|MCP
+2E73|jm|The Master Control Program.<br/>He rules the system as the<br/>chief control program.<br/><br/>Instead of working for the<br/>users, the MCP is planning to<br/>take over the system for<br/>himself. By refusing to follow<br/>the users´ orders and trying<br/>to enact his evil plan, he´s<br/>causing chaos among the other<br/>programs.
+2E74|jm|Hostile Program
+2E75|jm|An executable called from<br/>the DTD<br/>dataspace to<br/>destroy the town.
+2E7C|jm|Sora
+2E7D|jm|The chosen hero of the Keyblade.<br/><br/>With Donald and Goofy at his<br/>side, he has carried on in search<br/>of Kairi and Riku. On the way he<br/>has met many people and overcome<br/>many trials. And now, at last,<br/>he has passed through the<br/>alternate Twilight Town and<br/>darkness itself to reach the<br/>final battleground.<br/><br/>Beyond it, will he find light...<br/>or something else? Destiny rests<br/>on Sora´s shoulders.
+2E7E|jm|Donald Duck
+2E7F|jm|The Royal Court Magician.<br/>Donald, Goofy, and Sora have<br/>made lots of friends during their<br/>long journey.<br/><br/>Donald´s loyalty to the King and<br/>his friendship with Sora keep his<br/>spirits high as they approach the<br/>biggest battle of all.
+2E80|jm|Goofy
+2E81|jm|Captain of the Royal Knights.<br/>Goofy, Donald, and Sora have<br/>made lots of friends during<br/>their long journey.<br/><br/>Courageous and dependable,<br/>Goofy´s ready to fight the<br/>biggest battle of all to save his<br/>king and friends.
+2E82|jm|Xemnas
+2E83|jm|Organization {XIII}´s Number {I}, who<br/>acts as leader of the group.<br/>Xemnas is the Nobody of Ansem´s<br/>apprentice Xehanort.<br/><br/>He used Sora and his Keyblade<br/>to collect hearts from the<br/>Heartless and see Kingdom<br/>Hearts to its completion.
+2E84|jm|Xigbar
+2E85|jm|Organization {XIII}´s Number {II}.<br/><br/>He told Sora once that he<br/>reminded him of someone else.<br/>Puzzling words, indeed...<br/><br/>Some part of him did seem to<br/>be enjoying Sora´s reaction.
+2E88|jm|Vexen
+2E89|jm|Organization {XIII}´s Number {VII}.<br/><br/>Saïx relentlessly chased the<br/>renegade Axel. It was also he<br/>who caught Kairi after she<br/>eluded Axel, and threw her<br/>into the castle dungeon.<br/><br/>If Saïx sees something he can<br/>use, he will--and without a<br/>second thought.
+2E8E|jm|Saïx
+2E8F|jm|Organization {XIII}´s Number {VII}.<br/><br/>Saïx relentlessly chased the<br/>renegade Axel. It was also he<br/>who caught Kairi after she<br/>eluded Axel, and threw her<br/>into the castle dungeon.<br/><br/>If Saïx sees something he can<br/>use, he will--and without a<br/>second thought.
+2E94|jm|Luxord
+2E95|jm|Organization {XIII}´s Number {X},<br/>a gambler who can manipulate<br/>time.<br/><br/>Having shaken Sora and his<br/>companions with wily words,<br/>Luxord entertained himself by<br/>drawing them into a game-like<br/>battle.<br/><br/>In Port Royal, Luxord used<br/>Heartless and the cursed<br/>medallions to conduct<br/>experiments on the<br/>Organization´s behalf and<br/>collect hearts.
+2E9A|jm|Roxas
+2E9B|jm|Organization {XIII}´s Number {XIII},<br/>a Keyblade wielder and denizen<br/>of darkness.<br/><br/>He vanished with a satisfied<br/>look after battling Sora--<br/>but Sora was the only one who<br/>could see him in the first place.
+2E9C|jm|Soldier
+2E9D|jm|It unleashes decent attacks<br/>from every angle. Stay alert<br/>when fighting it!<br/><br/>It counterattacks with a kick,<br/>so retaliate with Cyclone to<br/>float in midair and unleash<br/>combo attacks!
+2E9E|jm|Shadow
+2E9F|jm|It sinks into the ground while<br/>moving, so timing is the key to<br/>defeating it.<br/><br/>The moment it surfaces,<br/>attack away!
+2EA0|jm|Large Body
+2EA1|jm|It will block attacks dealt from<br/>the front, so a good option is to<br/>perform a series of combos from<br/>behind, finishing with Full Swing.<br/><br/>When enraged, it will repeatedly<br/>tackle its target. That´s the<br/>time to use reaction commands.<br/>Use Kickback to finish the battle!
+2EA2|jm|Silver Rock
+2EA3|jm|It quickly disappears into a ball<br/>of light, setting off an explosion<br/>when it reappears. Use reaction<br/>commands when it´s in light form.<br/><br/>It easily resists magic, so don´t<br/>be shy about using the Keyblade!
+2EA4|jm|Emerald Blues
+2EA5|jm|Attack from a safe distance, while<br/>watching out for its sudden tackle.<br/>When its HP gets low, a tornado<br/>forms, drawing the enemy close.<br/><br/>It easily resists magic, so don´t<br/>be shy about using the Keyblade!
+2EA6|jm|Crimson Jazz
+2EA7|jm|It chases its target with<br/>determination while scattering<br/>mines, so be wary when<br/>fighting this creature.<br/><br/>When its HP gets low, it places a<br/>large mine. Avoid it before it<br/>explodes. It easily resists magic,<br/>so don´t be shy about using the<br/>Keyblade!
+2EA8|jm|Air Pirate
+2EA9|jm|Its swiftness makes it hard to<br/>attack, so wait until it is still<br/>before attacking. Use magic to<br/>stop its movements.<br/><br/>Avoid its retaliatory tackling kicks<br/>by using reaction commands!
+2EAA|jm|Trick Ghost
+2EAB|jm|It has two faces, both of<br/>which need to be fought<br/>differently.<br/><br/>When in the air, move in<br/>close to seal its long-<br/>range attacks. When on<br/>the ground, move far away<br/>to avoid its short-range<br/>attacks.
+2EAC|jm|Rabid Dog
+2EAD|jm|It won´t move until approached,<br/>so move in swiftly and attack.<br/><br/>It becomes tired and lets its<br/>guard down after counterattacks.<br/>Attack then for an easy battle.
+2EAE|jm|Hook Bat
+2EAF|jm|It generally flies around scoping<br/>the area. When it swoops, use<br/>Bat Cry to capture it and<br/>attack surrounding enemies.<br/><br/>After this attack, use combos<br/>while in the air to defeat it.
+2EB0|jm|Bookmaster
+2EB1|jm|A great mage who can handle all<br/>three types of elemental magic.<br/><br/>It bears a striking<br/>resemblance to Red Nocturne,<br/>Blue Rhapsody, and Yellow<br/>Opera when changing stance for<br/>the use of each type of magic.<br/>It is immune to all magic, and<br/>should be defeated immediately.
+2EB2|jm|Minute Bomb
+2EB3|jm|When attacked, it counts down<br/>for self-detonation. Use Dodge<br/>Roll seconds before the explosion<br/>to lure surrounding enemies into it.<br/><br/>To play it safe, parry its tackles<br/>to make it lose its will to fight.
+2EB4|jm|Hammer Frame
+2EB5|jm|It taps the ground to create a sonic<br/>wave. Jump to avoid the wave and<br/>defeat it with combos.<br/><br/>When its HP gets low, it attacks<br/>with a series of tackles, so defeat<br/>it immediately!
+2EB6|jm|Bulky Vendor
+2EB7|jm|A rare Heartless that can be<br/>found in certain worlds. It<br/>appears when you poke around<br/>various areas of the map.<br/><br/>It only appears in certain areas,<br/>and once it appears, it will not<br/>appear in that area for a while.<br/>Use the reaction command to get<br/>items. Figure out its secret<br/>pattern to get specific items.
+2EB8|jm|Fortuneteller
+2EB9|jm|It uses and is immune to all<br/>ice magic.<br/><br/>When its HP gets low, it uses<br/>magic to try to freeze its target.<br/>Try counterattacking with Clear<br/>Shot.
+2EBA|jm|Cannon Gun
+2EBB|jm|It shoots bombs from afar, so<br/>defeat it immediately. Avoid<br/>areas of potential bomb drops<br/>while attacking.<br/><br/>It runs off when approached, so<br/>follow it closely and defeat it.
+2EBC|jm|Rapid Thruster
+2EBD|jm|It attacks in a group, so be ready<br/>to attack with reaction commands.<br/>Start with Speed Trap, followed by<br/>the wide Aero Blade attack.<br/><br/>It chases its target with<br/>determination when<br/>counterattacking. Run!
+2EBE|jm|Driller Mole
+2EBF|jm|It moves underground, so follow<br/>the clouds of dust for its position.<br/><br/>Use a finishing move to lure it<br/>out of the ground. Attack when<br/>its face pops out of the ground!
+2EC0|jm|Lance Soldier
+2EC1|jm|The soldier and lance don´t get<br/>along, so it will be easy to catch<br/>this enemy off guard.<br/><br/>When its HP gets low, the lance<br/>goes nuts. Grab it with Lance Tug to<br/>attack surrounding enemies. A good<br/>strategy is to lower its HP and<br/>wait for the chance to use<br/>Lance Tug.
+2EC2|jm|Morning Star
+2EC3|jm|When its HP gets low, it unleashes<br/>its Press attack. Use Bump and<br/>Meteor Spike for a counterattack<br/>combo!<br/><br/>Meteor Spike can be done in<br/>succession, so make sure to grab<br/>surrounding enemies as well!
+2EC4|jm|Fiery Globe
+2EC5|jm|It runs before it attacks, making<br/>its movements easy to read.<br/><br/>It has little HP and is weak against<br/>ice. Use ice magic to defeat it.
+2EC6|jm|Icy Cube
+2EC7|jm|It jumps before it attacks, making<br/>its movements easy to read.<br/><br/>It has little HP and is weak against<br/>fire. Use fire magic to defeat it.
+2EC8|jm|Fat Bandit
+2EC9|jm|Immune to fire magic, it parries<br/>most attacks dealt from the front.<br/>Attack it from behind and<br/>defeat it with a combo attack.<br/><br/>Parry its fire bombs for a chance<br/>to unleash Full Swing!
+2ECA|jm|Luna Bandit
+2ECB|jm|It backs away during combat, so<br/>close in with thrust attacks.<br/><br/>Catch it off guard after<br/>parrying its attacks to defeat it.
+2ECC|jm|Gargoyle Knight
+2ECD|jm|Although it looks like an<br/>ordinary statue, it attacks<br/>with no warning.<br/><br/>Immune to magic, it can<br/>attack from any range.<br/>Parry its attacks for a<br/>chance to use reaction commands.
+2ECE|jm|Gargoyle Warrior
+2ECF|jm|Although it looks like an<br/>ordinary statue, it attacks<br/>with no warning. Immune to<br/>magic, it is skilled in<br/>ranged attacks.<br/><br/>Fully avoid its spinning attacks<br/>for reaction commands. If timed<br/>well, it can be defeated in a<br/>single blow.
+2ED0|jm|Wight Knight
+2ED1|jm|It merely wanders around,<br/>but once attacked, it<br/>attacks persistently.<br/>Parry its attacks to ward it<br/>off.
+2ED2|jm|Toy Soldier
+2ED3|jm|It merely sits and waits for the<br/>enemy to come closer, so attack<br/>from afar.<br/><br/>When it turns into a box, it begins<br/>to attack from a distance, making<br/>it impossible to close in on.
+2ED4|jm|Aeroplane
+2ED5|jm|It shoots bullets from midair,<br/>but only in a forward direction.<br/><br/>Its movement speed increases<br/>when retaliating, so defeat it<br/>while it´s flying slowly.
+2ED6|jm|Hot Rod
+2ED7|jm|It attacks and withdraws quickly,<br/>making it hard to hit. Use magic<br/>to defeat this enemy.<br/><br/>When its HP gets low, it moves<br/>around even quicker, so be sure<br/>to defeat it as soon as possible.
+2ED8|jm|Assault Rider
+2ED9|jm|Avoid getting hit with its spear<br/>by using the well-guarded<br/>Jump attack to defeat it.<br/><br/>When HP gets low, its<br/>attacks begin to get<br/>bold. Use big attacks to<br/>defeat it before it uses its<br/>explosive attack.
+2EDA|jm|Nightwalker
+2EDB|jm|It jumps around while attacking<br/>persistently, so attack it and<br/>defeat it immediately.<br/>Watch out for its powerful<br/>counterattack.
+2EDC|jm|Magnum Loader
+2EDD|jm|It moves in a clockwise motion<br/>around its target, so keep that<br/>in mind when attacking.<br/><br/>It moves swiftly, so attack it<br/>in the few instances it slows<br/>its movements.<br/><br/>Keep an eye out to avoid and<br/>counter its high-speed tackle with<br/>Quick Blade.
+2EDE|jm|Strafer
+2EDF|jm|It moves in a clockwise motion<br/>around its target, so keep that<br/>in mind when attacking.<br/><br/>Make sure to close in, as it<br/>attacks far away targets with<br/>a laser.
+2EE0|jm|Devastator
+2EE1|jm|It can fly around or transform into<br/>a tank. In the air, it follows its<br/>target around, so keep a fair<br/>distance. The tank attacks from<br/>afar, so close in while dodging the<br/>cannons.<br/><br/>Watch out for the electric attack<br/>unleashed during its transformation!
+2EE2|jm|Living Bone
+2EE3|jm|Make sure to dodge its strong<br/>attacks as they deal huge<br/>damage. Weaken it instantly<br/>by crushing its head with<br/>the reaction command!<br/><br/>With a shaman, it powers up to<br/>unleash deadly curses, but merely<br/>defeat it as you would a shaman.
+2EE4|jm|Shaman
+2EE5|jm|It attacks from afar and moves<br/>around very little. It is very<br/>magic-resistant and nullifies<br/>all attacks while taking on its<br/>mask form.<br/><br/>The cursed flame it occasionally<br/>unleashes firmly chases its<br/>target, but it can be used<br/>advantageously with reaction<br/>commands!
+2EE6|jm|Aerial Knocker
+2EE7|jm|Once the battle begins, there<br/>is no fleeing.<br/><br/>It has three types of punches,<br/>so figure out which it will<br/>unleash and choose an appropriate<br/>strategy.<br/><br/>Its tackling punch is powerful, so<br/>defeat it quickly with successive<br/>reaction commands!
+2EE8|jm|Tornado Step
+2EE9|jm|It attacks as it moves, so once it<br/>starts spinning, stop its movements<br/>with reaction commands.<br/><br/>Use Tornado Ride and grab the<br/>enemy for a free ride while<br/>attacking surrounding enemies.
+2EEA|jm|Crescendo
+2EEB|jm|It restores the HP of surrounding<br/>enemies. Use Heal Stomp with the<br/>right timing to heal the Party.<br/><br/>When attacked, it may call for help,<br/>so be sure to defeat it immediately.
+2EEC|jm|Creeper Plant
+2EED|jm|It stays in place and shoots seeds.<br/>Use reaction commands when it<br/>attacks with its roots. Use Root<br/>Ravager to uproot and attack<br/>surrounding enemies simultaneously!
+2EEE|jm|Armored Knight
+2EEF|jm|It charges its target in a group.<br/>Use the reaction command Rising<br/>Sun when it jumps into the sky,<br/>as it is about to unleash a<br/>tackling attack.<br/><br/>Use Rising Sun in succession<br/>for various combos!
+2EF0|jm|Surveillance Robot
+2EF1|jm|Use the reaction command Snag, then<br/>Sparkle Ray to attack surrounding<br/>enemies with a laser!<br/><br/>Keep an eye out for opportunities<br/>to use reaction commands even if<br/>the laser attack is parried!
+2EF4|jm|Neoshadow
+2EF5|jm|It produces a shadow on the ground<br/>before attacking. Catch it off<br/>guard right after it attacks.<br/><br/>Once it tries to jump and attack,<br/>use the reaction command Aerial<br/>Dance for a flurry of attacks!
+2EF6|jm|Volcanic Lord
+2EF7|jm|A Heartless called forth by<br/>greedy Pete in Agrabah. It<br/>appeared with Blizzard Lord.<br/><br/>It was weak against ice, but it<br/>tormented Sora and his friends<br/>with its use of fire.
+2EF8|jm|Blizzard Lord
+2EF9|jm|A Heartless called forth by<br/>greedy Pete in Agrabah. It<br/>appeared with Volcanic Lord.<br/><br/>It was weak against fire, but it<br/>tormented Sora and his friends<br/>with its use of ice.
+2EFA|jm|Possessor
+2EFB|jm|A Heartless that appeared in<br/>Beast´s Castle. It possessed<br/>the dungeon doors, turning it<br/>into Thresholder.<br/><br/>It had the power to conceal itself,<br/>but had very few other powers.
+2EFC|jm|Thresholder
+2EFD|jm|The doors possessed by Possessor<br/>that attacked Sora and his<br/>friends.<br/><br/>Possessor was separated<br/>from the doors with<br/>Release, in which the<br/>power of the Keyblade<br/>was poured into the<br/>keyhole blocked by its arms.
+2EFE|jm|Dark Thorn
+2EFF|jm|A liberated version of Shadow<br/>Stalker that appeared in<br/>Beast´s Castle.<br/><br/>It appeared and disappeared while<br/>running wild, creating a chaotic<br/>battle for Sora and his friends.
+2F00|jm|Shadow Stalker
+2F01|jm|A Heartless that attacked Belle<br/>in Beast´s Castle.<br/><br/>It jumped around on the floor,<br/>pillars, and chandelier of the<br/>ballroom, creating mayhem.
+2F02|jm|Illuminator
+2F03|jm|A Heartless called forth in Port<br/>Royal by Pete.<br/><br/>It had glowing eyes and a lantern on<br/>its tail, which was used to absorb<br/>light and create darkness to help<br/>Barbossa, whose weakness was<br/>moonlight.
+2F04|jm|Grim Reaper
+2F05|jm|A Heartless that appeared in<br/>Port Royal, it was said to be<br/>born from the curse of the<br/>Aztec gold.<br/><br/>Using the curse to become<br/>undead, it became a ghoul,<br/>making it hard to defeat.
+2F06|jm|Groundshaker
+2F07|jm|A giant Heartless that appeared<br/>in the Pride Lands. It was<br/>created by the many illusions<br/>of Scar.<br/><br/>The main body on the back of<br/>the creature controlled its<br/>bones, creating chaos in<br/>the savannah.
+2F08|jm|Prison Keeper
+2F09|jm|A Heartless called forth in<br/>Halloween Town by<br/>Maleficent to get<br/>revenge on Sora.<br/><br/>It held Lock, Shock, and<br/>Barrel captive while<br/>dealing various elemental attacks.
+2F0A|jm|Storm Rider
+2F0B|jm|A giant Heartless that<br/>appeared in the sky of<br/>the Land of Dragons. An<br/>intense battle was fought<br/>by Sora above the palace.<br/><br/>Originally a creature that<br/>gave strength to the earth<br/>and people, it was turned<br/>into a Heartless.
+2F0C|jm|Creeper
+2F0D|jm|The weakest of the Nobodies. It<br/>takes on various shapes, making it<br/>difficult to read its next move.<br/><br/>When it is paired with Dusk,<br/>use Reversal to stop its<br/>movements before attacking.
+2F0E|jm|Dusk
+2F0F|jm|It is difficult to read this creature´s<br/>next move, so catch it off guard with<br/>a Reversal to stop its actions. A<br/>series of attacks and Reversals<br/>can also look cool in battle!<br/><br/>Note: It lets its guard down when<br/>its attack is parried. This is also<br/>true for all Nobodies.
+2F10|jm|Dragoon
+2F11|jm|A dragoon. A high-ranking Nobody.<br/>When a ball of light appears after<br/>parrying its attacks, use Learn.<br/>Time it accurately to use Jump<br/>to attack.<br/><br/>Learn can be used as often as<br/>possible, so a series of Jump<br/>attacks is one strategy option.
+2F12|jm|Assassin
+2F13|jm|An assassin. A high-ranking Nobody.<br/>It hides in the ground and attacks<br/>quietly from behind.<br/><br/>It cannot be attacked while it is<br/>in the ground. Parry its attacks<br/>to get it to surface.<br/><br/>When it starts running around, look<br/>out! It´ll begin to unleash powerful<br/>attacks. Don´t miss any chances to<br/>use the reaction commands to defeat<br/>as many as possible at once!
+2F14|jm|Samurai
+2F15|jm|A samurai. A high-ranking Nobody.<br/>Using swords and their sheaths as<br/>weapons, it can handle up to four<br/>weapons at a time. It attacks with<br/>calmness and efficiency.<br/><br/>Make sure not to lose sight of it<br/>once it hides beneath the ground.<br/>After parrying its attack, it sits<br/>and waits, giving an opportunity to<br/>use reaction commands.<br/><br/>Fight one-on-one while the others<br/>sit back and watch.
+2F16|jm|Sniper
+2F17|jm|A sniper. A high-ranking Nobody.<br/>It is very agile as it moves around<br/>defying gravity. Use magic to stop<br/>its movements for an easier battle.<br/><br/>It attacks using arrows of light.<br/>Ward them off with Warp Snipe.<br/>Use this in succession for victory!
+2F18|jm|Dancer
+2F19|jm|A dancer. A high-ranking Nobody.<br/>It skates around the ground and<br/>quickly moves away when approached.<br/>Wait for the end of its attack<br/>to retaliate. When it approaches<br/>with a low posture, look out!<br/><br/>If cornered, it retaliates with its<br/>buddies, using kicks and other attacks.<br/>Fight carefully when outnumbered.
+2F1A|jm|Berserker
+2F1B|jm|A berserker. A high-ranking<br/>Nobody. Its attacks are hard<br/>to read as it is dragged around<br/>by a cursed hammer.<br/><br/>Attacks from the front will only<br/>be parried by its hammer. Knock<br/>it down to make it let go of the<br/>hammer. Then pick up the<br/>hammer to unleash a flurry<br/>of attacks with Berserk.
+2F1C|jm|Gambler
+2F1D|jm|A gambler. A high-ranking Nobody.<br/>It doesn´t seem to like fighting,<br/>and just floats around aimlessly.<br/><br/>Use the reaction command when it<br/>attacks with cards and dice, and<br/>let the games begin!<br/><br/>Don´t lose, for something terrible<br/>happens. Win for a chance to<br/>attack--and maybe even for a<br/>little something extra!
+2F1E|jm|Twilight Thorn
+2F1F|jm|A giant Nobody who Roxas fought<br/>at the Station of Awakening.<br/><br/>Although it tried to capture<br/>Roxas with its thorns, it was<br/>overpowered and defeated by<br/>the strength of<br/>the Keyblade master.
+2F20|jm|Paladin
+2F21|jm|Test
+2F22|jm|Monk
+2F23|jm|Test
+2F24|sys|◯
+2F25|sys|✕
+2F26|sys|Sora:<br/>I hope Pooh´s all right...
+2F27|sys|
+2F28|sys|Hop On
+2F29|sys|Shift Shot
+2F2A|sys|Heal Stomp
+2F2B|hb|You´re all working together to<br/>protect what´s important to you.{:clear }You can carry on precisely because you´re<br/>together. It would be hard to do it alone.
+2F2C|he|※ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+2F2E|he|Ha! Hercules must be screaming<br/>for mercy by now!{:clear }What?<br/>Did you come to see Hercules lose, too?
+2F2F|he|{:unk13 00 01 40 01}{:unk08 02 00 06}Go help Hercules?<br/>{:chardelay 33 00}Not yet.<br/>{:chardelay 09 00}Let´s do this!
+2F30|sys|Restoration Site
+2F31|sys|Bailey
+2F32|sys|Get Off
+2F33|sys|Staff of Detection
+2F34|sys|A powerless staff, its only use is<br/>to detect movement.
+2F36|sys|Wind Dance
+2F37|sys|High Climb
+2F38|sys|Needle Dive
+2F3A|sys|Help
+2F3C|sys|Pegasus Run
+2F3D|sys|Juggle Parry
+2F3E|sys|Overhand
+2F3F|lk|It´s something I learned out here.{:delay 78 00}{:clear }Sometimes bad things happen and<br/>there´s nothing you can do about it.
+2F40|sys|Knocksmash
+2F41|sys|Duo Raid
+2F42|sys|Cosmo Boost
+2F60|jm|{:width 90}Select World
+2F61|jm|Collection
+2F62|jm|Notes
+2F63|sys|Combo Plus
+2F64|sys|Increases maximum combo by 1 when<br/>on the ground.<br/>Equip more to enable more combos.
+2F65|sys|Air Combo Plus
+2F66|sys|Increases maximum combo by 1 when<br/>in midair.<br/>Equip more to enable more combos.
+2F67|sys|Sora:<br/>Our assignment is over<br/>the mountain trail!
+2F69|tt|A key...blade?
+2F6A|tt|A Keyblade...
+2F6B|tt|What was that about?
+2F6C|tt|Oh!
+2F6D|tt|Sorry...about that...
+2F6E|tt|Do you guys think we´ll always<br/>be together like this?
+2F6F|tt|I sure hope so.
+2F70|tt|Huh? Where did that come from?
+2F71|tt|Oh, well, you know.{:delay 64 00}{:clear }Just thinking out loud.
+2F72|tt|Well, I doubt we can be together forever.{:delay 96 00}{:clear }{:delay 37 00}{:clear }But isn´t that what growing up´s<br/>all about?{:delay AC 00}{:clear }What´s important isn´t how often<br/>we see each other,{:delay B4 00}{:clear }but how often we think<br/>about each other. Right?
+2F73|tt|{:delay 32 00}{:clear }Get that off a fortune cookie?
+2F74|tt|That´s it, no more ice cream for you!{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Man, today´s turning out to be a drag.
+2F75|tt|Maybe because of yesterday´s memory thief.
+2F76|tt|Nuh-uh. You know what it is?{:delay A2 00}{:clear }We don´t want summer vacation<br/>to be over. That´s all!
+2F77|tt|So, how about this?
+2F78|tt|We all go to the beach!{:delay 78 00}{:clear }{:delay 25 00}{:clear }And why do we go to the beach?{:delay 78 00}{:clear }Because we haven´t gone<br/>once this entire vacation!
+2F79|tt|No?
+2F7A|tt|Aw, c´mon!
+2F7B|tt|Maybe you forgot, but we´re broke.
+2F7C|tt|Maybe you forgot I´m smart!
+2F7D|tt|{:unk13 82 00 46 00}{:unk06 00}{:unk08 01 01 05}Hurry up, Roxas!
+2F7E|tt|{:unk13 4A 01 63 00}{:unk06 00}{:unk08 01 01 05}We´re going to Market Street!
+2F7F|tt|Just two days to go.
+2F80|tt|You and I have to make the finals! {:delay 61 00}{:clear }That way, no matter who wins,<br/>the four of us split the prize!
+2F81|tt|Okay, you´re on.
+2F82|tt|You two are gonna clean up!
+2F83|tt|Go get ´em!
+2F84|tt|It´s a promise!
+2F85|tt|{:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 01 06}Now, let´s get<br/>down to business.
+2F86|tt|{:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}One ticket to the beach is 900 munny.<br/>How much for four of us?
+2F87|tt|{:unk13 78 00 64 00}{:unk06 00}{:unk08 01 01 06}3600 munny.
+2F88|tt|{:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}And 300 each to spend there.<br/>What´s that for all of us?
+2F89|tt|{:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}1200 munny.<br/>A total of 4800 munny.
+2F8A|tt|{:unk13 86 01 5A 00}{:unk06 00}{:unk08 01 01 06}To spend on what?
+2F8B|tt|{:unk13 D2 00 3C 00}{:unk06 00}{:unk08 01 01 06}Pretzels, of course!<br/>What else is there?
+2F8C|tt|{:unk13 7E 01 51 00}{:unk06 00}{:unk08 01 01 06}Well, there´s always<br/>watermelon.
+2F8D|tt|{:unk13 D2 00 46 00}{:unk06 00}{:unk08 01 01 06}Too pricey. They´re,<br/>like, 2000 munny apiece.
+2F8E|tt|{:unk13 7C 01 5A 00}{:unk06 00}{:unk08 01 01 06}Pretzels it is.
+2F8F|tt|{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}So, where were we?
+2F90|tt|{:unk13 C5 00 50 00}{:unk06 00}{:unk08 01 00 05}We need 4800 munny altogether.<br/>But all we have is...
+2F91|tt|{:unk13 72 01 50 00}{:unk06 00}{:unk08 01 00 07}I´ve got 800.
+2F92|tt|{:unk13 82 00 5A 00}{:unk06 00}{:unk08 01 00 05}...650.
+2F93|tt|{:unk13 F6 00 61 00}{:unk06 00}{:unk08 01 01 06}150. Sorry.
+2F94|tt|{:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}That´s 1600 munny!<br/>We need another 3200.
+2F95|tt|{:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}Let´s find ourselves some<br/>odd jobs and earn some dough!{:clear }We have ´til the train leaves<br/>to earn 800 munny each!
+2F96|tt|{:unk13 54 01 64 00}{:unk06 00}{:unk08 01 01 07}Meet at the station<br/>with cash in hand!
+2F97|tt|{:unk13 78 00 82 00}{:unk06 00}{:unk08 01 00 05}Didn´t he say he<br/>had it covered?
+2F98|tt|{:unk13 D8 00 7B 00}{:unk06 00}{:unk08 01 00 05}Whatever. Those pretzels<br/>are sounding pretty good.
+2F99|tt|{:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and<br/>accounted for?
+2F9A|tt|{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+2F9B|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+2F9C|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+2F9D|tt|{:unk13 37 01 4C 00}{:unk06 00}{:unk08 01 01 06}Good job.
+2F9E|tt|{:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and<br/>accounted for?
+2F9F|tt|{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+2FA0|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+2FA1|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+2FA2|tt|{:unk13 5C 01 39 00}{:unk06 00}{:unk08 01 01 06}Nice going,<br/>Roxas!
+2FA3|tt|{:unk13 8F 00 7F 00}{:unk06 00}{:unk08 01 01 05}I knew you would do it!
+2FA4|tt|{:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}All present and<br/>accounted for?
+2FA5|tt|{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}What´ve we got?
+2FA6|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Let´s see...
+2FA7|tt|{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}Just this.
+2FA8|tt|{:unk13 6E 01 3D 00}{:unk06 02}{:unk08 03 01 06}Whoa, Roxas!<br/>That´s awesome!
+2FA9|tt|{:unk13 4C 01 66 00}{:unk06 00}{:unk08 01 00 06}We can even buy a<br/>watermelon with this!
+2FAA|tt|{:unk13 79 00 8C 00}{:unk06 00}{:unk08 01 01 07}Perfect!
+2FAB|tt|Nice work, everyone. Added to what we<br/>started with, we now have...
+2FAC|tt|Tada! 5000 munny!
+2FAD|tt|Sweet!
+2FAE|tt|Let´s get tickets!
+2FAF|tt|We can´t be together forever...{:delay 5D 00}{:clear }so we´d better make the time we do<br/>have something to remember.
+2FB0|tt|Huh?
+2FB1|tt|Gotcha!
+2FB2|tt|Whoa!
+2FB3|tt|
+2FB4|tt|
+2FB5|tt|What?
+2FB6|tt|Roxas! Three minutes!
+2FB7|tt|Okay!
+2FB8|tt|Four students!
+2FB9|tt|Roxas, the money.
+2FBA|tt|Wait--
+2FBB|tt|No!
+2FBC|tt|Huh?
+2FBD|tt|Where are you going?
+2FBE|tt|Remember when I fell?
+2FBF|tt|Guy?
+2FC0|tt|He couldn´t have gotten too far...
+2FC1|tt|What are you talking about?
+2FC2|tt|There was no guy.
+2FC3|tt|
+2FC4|tt|But he...
+2FC5|tt|There wasn´t... Really?
+2FC6|tt|Oh boy...
+2FC7|tt|There wasn´t anyone...there?
+2FC8|tt|It´s melting.
+2FC9|tt|Sorry.
+2FCA|tt|Cheer up already!
+2FCB|tt|That was definitely weird, though.
+2FCC|tt|Strange.
+2FCD|tt|You said it.
+2FCE|tt|Can you feel Sora?
+2FCF|tt|Can you feel Sora?
+2FD0|tt|Restoration at 28%.
+2FD1|tt|Naminé, hurry.
+2FD2|tt|Is it really that hard to make a beach?
+2FD3|tt|We´d be giving the enemy another<br/>entry point.
+2FD4|tt|And this?
+2FD5|tt|We can always buy some<br/>sea salt ice cream.
+2FD6|tt|Objects from that town must be kept out<br/>of the real world.{:delay EB 00}{:clear }You can delete that.
+2FD7|tt|Who are you?
+2FD8|tt|Huh...?
+2FD9|tt|{:unk13 18 01 50 00}{:unk06 00}{:unk08 02 00 05}"Meet at the station. Today´s<br/> the day we hit the beach--and<br/> don´t sweat about the munny!<br/>                    -- Hayner"
+2FDA|tt|Hey.
+2FDB|tt|Morning.
+2FDD|tt|Hello, Roxas.
+2FDE|tt|Hi...
+2FDF|tt|And you are...?
+2FE0|tt|I wanted to meet you at least once.
+2FE1|tt|Me?
+2FE2|tt|Yes, you.
+2FE3|tt|Olette dragged me along to go shopping.
+2FE4|tt|Hey, you wanna come with us?
+2FE5|tt|Um, uhh, wait...<br/>Did you just see that--
+2FE6|tt|He´s stalling...
+2FE7|tt|Very well, then.<br/>We´ll see you later, Roxas, okay?
+2FE8|tt|Y-Yeah...
+2FE9|tt|Did she go to that haunted mansion?
+2FEA|tt|Huh?
+2FEB|tt|Lemme go!
+2FEC|tt|Hey, chicken wuss.
+2FED|tt|Who´s that?
+2FEE|tt|I dunno,<br/>but they´ve already crossed the line!
+2FEF|tt|Find a weapon!
+2FF0|tt|Not good...
+2FF1|tt|Roxas! Use the Keyblade!
+2FF2|tt|My name is Naminé.
+2FF3|tt|Roxas... {:delay 34 00}{:clear }{:delay 60 00}{:clear }Do you remember your true name?
+2FF4|tt|Say no more, Naminé.
+2FF5|tt|But if no one tells him, Roxas will...
+2FF6|tt|It´s best he doesn´t know the truth.
+2FF7|tt|Hey! You´re that pickpocket!
+2FF9|tt|Seifer, strike a pose, y´know?
+2FFA|tt|How´s this?
+2FFB|tt|That´s totally perfect, y´know!
+2FFC|tt|How ´bout one more, y´know?
+2FFD|tt|What´s that for!?
+2FFE|tt|Keepsake.
+2FFF|tt|Those freaks in the white jumpsuits<br/>are gone, y´know?
