@@ -108,7 +108,7 @@ Max/Min here applies to (Strength-Defense) multiplier for attacks toward the par
 
 Each row correspond to 2^ID in the bitmask and is activated when the corresponding progress flag is raised by the game.
 
-| ID | Progress Flag       | ZZ | ES | TT | DI | HB | BB | HE | AL | MU | PO | LK | LM | DC | WI | HT | WM | CA | TR | EH |
+| ID | Progress Flag       | ZZ | ES | TT | DI | HB | BB | HE | AL | MU | PO | LK | LM | DC | WI | NM | WM | CA | TR | EH |
 |:--:|---------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 00 | TT_SCENARIO_1_START |  0 |  0 |  0 |  0 |  7 | 12 | 15 | 21 |  9 |  0 | 25 |  0 | 17 | 18 | 23 |  0 | 19 | 27 | 49 |
 | 01 | ZZ_START            |  1 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |  0 |
