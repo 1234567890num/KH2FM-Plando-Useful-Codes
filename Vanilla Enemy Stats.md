@@ -26,7 +26,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | 16 | Dark Thorn                    |     0 |    1000 |   300 |   50 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 17 | Shadow Stalker                |     0 |     450 |   667 |  112 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 18 | Possessor                     |     0 |     250 |  1200 |  200 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
-| 19 | Storm Rider                   |     0 |    1600 |   125 |   32 |      100 |   50 |       50 |       0 |   50 |   100 |     100 |        0 |
+| 19 | Storm Rider*                  |     0 |    1600 |   125 |   32 |      100 |   50 |       50 |       0 |   50 |   100 |     100 |        0 |
 | 1A | Pete I                        |     0 |     600 |   500 |   84 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 1B | Gargoyle Knight               |     0 |     160 |  5000 |  313 |      100 |    0 |        0 |       0 |    0 |   100 |     100 |      150 |
 | 1C | Gargoyle Warrior              |     0 |     160 |  5000 |  313 |      100 |    0 |        0 |       0 |    0 |   100 |     100 |      150 |
@@ -109,7 +109,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | 6F | Cogsworth                     |     0 |      10 |   100 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | 70 | Minnie                        |     0 |    1000 |   500 |  500 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | 71 | Past Pete                     |     0 |     250 |  1200 |  200 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
-| 72 | Sark (Giant)                  |     0 |     250 |   600 |  200 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
+| 72 | Sark (Giant)*                 |     0 |     250 |   600 |  200 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 73 | MCP's Walls                   |     0 |     160 |   938 |  313 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 77 | Prison Keeper                 |     0 |    2000 |   125 |   25 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 78 | The Experiment                |     0 |    1500 |   134 |   34 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
@@ -130,7 +130,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | 87 | Seifer (Day 1/Struggle)       |     0 |     300 | 10000 |    0 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | 88 | Light Cycle Heartless         |     0 |      50 | 10000 | 1000 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | 89 | Bees                          |     0 |      35 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
-| 8A | Genie Jafar                   |     0 |    1000 |   200 |   50 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
+| 8A | Genie Jafar*                  |     0 |    1000 |   200 |   50 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | 8B | Tifa (Ally)                   |     0 |     500 |  2000 |    0 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | 8C | Sephiroth                     |     0 |    2000 |    75 |   25 |      100 |    0 |        0 |       0 |    0 |   100 |     100 |        0 |
 | 8D | MCP                           |     0 |    1000 |   150 |   50 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
@@ -157,7 +157,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | A9 | Speeder                       |     0 |      50 | 10000 | 1000 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |       15 |
 | AA | Spiked Roller                 |     0 |      50 | 10000 | 1000 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |       15 |
 | AB | Dragon Missile                |     0 |      50 | 10000 | 1000 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |       15 |
-| AC | Dragon Xemnas                 |     0 |    2000 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
+| AC | Dragon Xemnas*                |     0 |    2000 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | B1 | Hades (Cups)                  |     0 |    1500 |   417 |   34 |      100 |    0 |       50 |      50 |   50 |   100 |     100 |        0 |
 | B2 | Hercules (Cups)               |     0 |    1500 |   417 |   34 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | B3 | Pete (Cups)                   |     0 |    1600 |   391 |   32 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
@@ -179,7 +179,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | C5 | Volcanic Lord (Hades Paradox) |     0 |    1200 |   521 |   42 |      100 |    0 |      100 |      50 |   50 |   100 |     100 |        0 |
 | C6 | Blizzard Lord (Hades Paradox) |     0 |    1200 |   521 |   42 |      100 |  100 |        0 |      50 |   50 |   100 |     100 |        0 |
 | C7 | Cerberus (Cups)               |     0 |    1500 |   417 |   34 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
-| C8 | Vexen                         |     0 |    1500 |   100 |   34 |      100 |  150 |       25 |      50 |   50 |   100 |     100 |        0 |
+| C8 | Vexen*                        |     0 |    1500 |   100 |   34 |      100 |  150 |       25 |      50 |   50 |   100 |     100 |        0 |
 | C9 | Mushroom I                    |     1 |       1 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | CA | Mushroom II                   |     1 |       1 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | CB | Mushroom III                  |     1 |       1 | 10000 |  100 |        0 |    0 |        0 |       0 |    0 |     0 |     100 |        0 |
@@ -222,7 +222,7 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | F1 | Data Demyx's Clone            |    99 |     100 | 10000 |  100 |      100 |  100 |      100 |     100 |  100 |   100 |     100 |        0 |
 | F2 | Data Roxas                    |    99 |    1750 |    86 |   28 |      100 |   25 |       25 |      25 |   25 |    25 |     100 |        0 |
 | F3 | Data Luxord                   |    99 |    1500 |   100 |   34 |       30 |   15 |       15 |      15 |   15 |    30 |     100 |        0 |
-| F4 | Terra                         |    99 |    1878 |    79 |   26 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
+| F4 | Terra*                        |    99 |    1878 |    79 |   26 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | F5 | Data Axel                     |    99 |    1878 |    79 |   26 |      100 |    0 |      100 |      50 |   50 |   100 |     100 |        0 |
 | F6 | Data Xaldin                   |    99 |    1878 |    79 |   26 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
 | F7 | ???                           |    50 |       2 |   100 |  100 |      100 |    1 |        1 |       1 |    1 |   100 |     100 |        0 |
@@ -231,3 +231,11 @@ Max/Min here affects (Strength-Defense) multiplier for attacks toward the object
 | FB | Mushroom IV                   |    50 |       1 |   100 |  100 |      100 |    1 |        1 |       1 |    1 |   100 |     100 |        0 |
 | FC | Data Xigbar                   |    99 |    1600 |   107 |   32 |      100 |   25 |       25 |      25 |   25 |    25 |     100 |        0 |
 | FD | Data Saix                     |    99 |    1878 |    79 |   26 |      100 |   50 |       50 |      50 |   50 |   100 |     100 |        0 |
+
+Base HP for enemies with additional parts:
+- Storm Rider: 1600, 100, 100
+- Sark (Giant): 250, 50, 50
+- Genie Jafar: 1000, 110, 60, 60
+- Dragon Xemnas: 2000, 600, 1200, 1200, 1000, 1000
+- Vexen: 1500, 100
+- Terra: 1878, 50
